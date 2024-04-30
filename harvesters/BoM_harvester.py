@@ -1,6 +1,6 @@
 import logging, json, requests, socket
 from collections import defaultdict
-
+from elasticsearch import Elasticsearch
 
 def fetch_weather_data():
     mel_OP_url = "http://reg.bom.gov.au/fwo/IDV60901/IDV60901.95936.json"
