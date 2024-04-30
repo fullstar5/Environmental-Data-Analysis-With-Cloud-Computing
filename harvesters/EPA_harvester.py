@@ -10,7 +10,7 @@ def main():
         verify_certs=False,
         basic_auth=('elastic', 'elastic')
     )
-    # current_app.logger.info(f'begin harvesting to add')
+    current_app.logger.info(f'begin harvesting EPA')
 
     # retrieve EPA air quality from website
     environmentalSegment_air = "air"
@@ -76,6 +76,6 @@ def main():
         }
         client.index(index=index_name, body=doc)
     # print(response.text)
-
+    current_app.logger.info(f'end of harvesting and insertion')
 
 main()
