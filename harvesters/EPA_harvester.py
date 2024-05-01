@@ -1,16 +1,18 @@
-import requests, json
-from flask import current_app
-from elasticsearch import Elasticsearch
+import requests
+from elasticsearch8 import Elasticsearch
 
 
 def main():
     # connect and login into elasticsearch
-    client = Elasticsearch(
-        'https://elasticsearch-master.elastic.svc.cluster.local:9200',
-        verify_certs=False,
-        basic_auth=('elastic', 'elastic')
-    )
-    current_app.logger.info(f'begin harvesting EPA')
+    try:
+        client = Elasticsearch(
+            'https://elasticsearch-master.elastic.svc.cluster.local:9200',
+            verify_certs=False,
+            basic_auth=('elastic', 'elastic')
+        )
+    except Exception as e:
+        print("error when connect with ES: ", e)
+        return
 
     # retrieve EPA air quality from website
     environmentalSegment_air = "air"
@@ -56,12 +58,12 @@ def main():
         site_health_advices = record["siteHealthAdvices"][0]
         if site_health_advices:
             healthParameter = site_health_advices.get("healthParameter", "PM2.5")
-            averageValue = site_health_advices.get("averageValue", total_avgValue/total_cityCount)
+            averageValue = site_health_advices.get("averageValue", total_avgValue / total_cityCount)
             total_avgValue += averageValue
             healthAdvice = site_health_advices.get("healthAdvice", "Good")
         else:
             healthParameter = "PM2.5"
-            averageValue = total_avgValue/total_cityCount
+            averageValue = total_avgValue / total_cityCount
             total_avgValue += averageValue
             healthAdvice = "Good"
 
@@ -74,8 +76,11 @@ def main():
             "healthParameter": healthParameter,
             "healthAdvice": healthAdvice,
         }
-        client.index(index=index_name, body=doc)
+        try:
+            client.index(index=index_name, body=doc)
+        except Exception as e:
+            print("Error inserting into Elasticsearch: %s", e)
     # print(response.text)
-    current_app.logger.info(f'end of harvesting and insertion')
+
 
 main()
