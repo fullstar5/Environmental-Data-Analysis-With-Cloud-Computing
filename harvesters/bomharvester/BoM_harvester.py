@@ -1,5 +1,9 @@
+import urllib3.exceptions
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+
 import requests
 from elasticsearch8 import Elasticsearch
+
 
 def main():
     mel_OP_url = "http://reg.bom.gov.au/fwo/IDV60901/IDV60901.95936.json"
