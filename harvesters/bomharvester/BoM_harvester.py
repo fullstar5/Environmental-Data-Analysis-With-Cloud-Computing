@@ -1,44 +1,82 @@
-import logging, json, requests, socket
-from collections import defaultdict
-from elasticsearch import Elasticsearch
+import requests
+from elasticsearch8 import Elasticsearch
 
-def fetch_weather_data():
+def main():
     mel_OP_url = "http://reg.bom.gov.au/fwo/IDV60901/IDV60901.95936.json"
     mel_airport_url = "http://reg.bom.gov.au/fwo/IDV60901/IDV60901.94866.json"
 
-    # unusable link, will return 403
-    # avalon_url = "http://www.bom.gov.au/fwo/IDV60901/IDV60901.94854.json"
-    # cerberus_url = "http://www.bom.gov.au/fwo/IDV60901/IDV60901.94898.json"
-    # coldstream = "http://www.bom.gov.au/fwo/IDV60901/IDV60901.94864.json"
-    # essendon_airport = "http://www.bom.gov.au/fwo/IDV60901/IDV60901.95866.json"
-    # fawkner_beacon = "http://www.bom.gov.au/fwo/IDV60901/IDV60901.95872.json"
-    # ferny_creek = "http://www.bom.gov.au/fwo/IDV60901/IDV60901.94872.json"
-    # frankston_ballamPark = "http://www.bom.gov.au/fwo/IDV60901/IDV60901.94876.json"
-    # frankston_beach = "http://www.bom.gov.au/fwo/IDV60901/IDV60901.94871.json"
-    # geelong_racecourse = "http://www.bom.gov.au/fwo/IDV60901/IDV60901.94857.json"
-    # laverton = "http://www.bom.gov.au/fwo/IDV60901/IDV60901.94865.json"
-    # moorabbin_airport = "http://www.bom.gov.au/fwo/IDV60901/IDV60901.94870.json"
-    # point_cook = "http://www.bom.gov.au/fwo/IDV60901/IDV60901.95941.json"
-    # point_wilson = "http://www.bom.gov.au/fwo/IDV60901/IDV60901.94847.json"
-    # rhyll = "http://www.bom.gov.au/fwo/IDV60901/IDV60901.94892.json"
-    # scoresby = "http://www.bom.gov.au/fwo/IDV60901/IDV60901.95867.json"
-    # sheoaks = "http://www.bom.gov.au/fwo/IDV60901/IDV60901.94863.json"
-    # south_channel_island = "http://www.bom.gov.au/fwo/IDV60901/IDV60901.94853.json"
-    # st_kilda_harbour_rmys = "http://www.bom.gov.au/fwo/IDV60901/IDV60901.95864.json"
-    # viewbank = "http://www.bom.gov.au/fwo/IDV60901/IDV60901.95874.json"
+    # connect and login into elasticsearch
+    try:
+        client = Elasticsearch(
+            'https://elasticsearch-master.elastic.svc.cluster.local:9200',
+            verify_certs=False,
+            basic_auth=('elastic', 'elastic'),
+            timeout=60,
+            ssl_show_warn=False
+        )
+    except Exception as e:
+        print("error when connect with ES: ", e)
+        return 500
 
     urls = {"mel_OP_url": mel_OP_url, "mel_airport_url": mel_airport_url}
-    ans = defaultdict(dict)
+
     for key, url in urls.items():
-        response = requests.get(url)
-        print(response.status_code)
-        if response.status_code == 200:
+        try:
+            response = requests.get(url)
             data = response.json()
-            ans[key] = data["observations"]["data"][0]
-        else:
-            ans[key] = None
-    return ans
+            # print(json.dumps(data, indent=4))
+        except Exception as e:
+            print("error when request BoM data: ",  e)
+            return 500
 
+        # extracting data
+        site_name = data["observations"]["data"][0]["name"]
+        local_date_time = data["observations"]["data"][0]["local_date_time_full"]
+        coordinates = [data["observations"]["data"][0]["lat"], data["observations"]["data"][0]["lon"]]
+        apparent_temperature = data["observations"]["data"][0]["apparent_t"]
+        cloud = data["observations"]["data"][0]["cloud"]
+        cloud_type = data["observations"]["data"][0]["cloud_type"]
+        delta_temperature = data["observations"]["data"][0]["delta_t"]  # Air temperature minus wet bulb temperature
+        air_temperature = data["observations"]["data"][0]["air_temp"]
+        dew_point = data["observations"]["data"][0]["dewpt"]  # either wet and dry bulb temperature (preferred)
+        press = data["observations"]["data"][0]["press"]
+        press_tend = data["observations"]["data"][0]["press_tend"]
+        rain_trace = data["observations"]["data"][0]["rain_trace"]
+        swell_period = data["observations"]["data"][0]["swell_period"]
+        vis_km = data["observations"]["data"][0]["vis_km"]  # Visibility
+        weather = data["observations"]["data"][0]["weather"]
+        if weather == "-":
+            weather = "Fine"
+        wind_spd_kmh = data["observations"]["data"][0]["wind_spd_kmh"]
 
-weather_info = fetch_weather_data()
-print(json.dumps(weather_info, indent=4))
+        # build document
+        doc = {
+            "site_name": site_name,
+            "local_date_time": local_date_time,
+            "coordinates": coordinates,
+            "apparent_temperature": apparent_temperature,
+            "cloud": cloud,
+            "cloud_type": cloud_type,
+            "delta_temperature": delta_temperature,
+            "air_temperature": air_temperature,
+            "dew_point": dew_point,
+            "press": press,
+            "press_tend": press_tend,
+            "rain_trace": rain_trace,
+            "swell_period": swell_period,
+            "vis_km": vis_km,
+            "weather": weather,
+            "wind_spd_kmh": wind_spd_kmh,
+        }
+        local_date = data["observations"]["data"][0]["local_date_time_full"][:9]
+        index_name = f"bom-weather-{local_date}"
+        unique_id = f"{site_name}-{local_date_time}"
+        try:
+            client.index(index=index_name, id=unique_id, body=doc)
+        except Exception as e:
+            print("Error inserting into Elasticsearch: ", e)
+            return 500
+
+        print(unique_id, index_name)
+    print("insert complete")
+    return 200

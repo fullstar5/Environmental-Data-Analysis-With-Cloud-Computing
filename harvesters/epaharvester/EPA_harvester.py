@@ -1,5 +1,8 @@
+import urllib3.exceptions
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+
 import requests
-from elasticsearch8 import Elasticsearch
+from elasticsearch import Elasticsearch
 
 
 def main():
@@ -8,11 +11,13 @@ def main():
         client = Elasticsearch(
             'https://elasticsearch-master.elastic.svc.cluster.local:9200',
             verify_certs=False,
-            basic_auth=('elastic', 'elastic')
+            basic_auth=('elastic', 'elastic'),
+            timeout=60,
+            ssl_show_warn=False
         )
     except Exception as e:
         print("error when connect with ES: ", e)
-        return
+        return 500
 
     # retrieve EPA air quality from website
     environmentalSegment_air = "air"
@@ -32,7 +37,7 @@ def main():
         data = response.json()
     except Exception as e:
         print("error when request EPA data: ", e)
-        return
+        return 500
 
     # extracting data
     data_time = data["records"][0]["siteHealthAdvices"][0]["since"]
@@ -42,7 +47,7 @@ def main():
     print(data_day)
     print(data_hour)
 
-    index_name = f"EPA-air-quality-{data_day}"
+    index_name = f"epa-air-quality-{data_day}"
 
     total_avgValue = 0
     total_cityCount = 0
@@ -76,11 +81,12 @@ def main():
             "healthParameter": healthParameter,
             "healthAdvice": healthAdvice,
         }
+        unique_id = f"{site_name}-{data_hour}"
+
         try:
-            client.index(index=index_name, body=doc)
+            client.index(index=index_name, id=unique_id, body=doc)
         except Exception as e:
-            print("Error inserting into Elasticsearch: %s", e)
-    # print(response.text)
+            print("Error inserting into Elasticsearch: ", e)
+    print("insert complete")
+    return 200
 
-
-main()
