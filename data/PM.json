@@ -1,0 +1,9054 @@
+{
+  "Murray": {
+    "Alpine": {
+      "2010-2014": {
+        "Cancer": {
+          "ASR": 97.2,
+          "SR": 97,
+          "NUM": 78
+        },
+        "Lung_Cancer": {
+          "SR": 100,
+          "ASR": 21.1,
+          "NUM": 18
+        },
+        "COPD": {
+          "ASR": 6.9,
+          "NUM": 6,
+          "SR": 81
+        },
+        "Circulatory_System_Diseases": {
+          "ASR": 41.5,
+          "SR": 91,
+          "NUM": 33
+        },
+        "Colorectal_Cancer": {
+          "ASR": 9.6,
+          "NUM": 8,
+          "SR": 107
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 5,
+          "SR": 73,
+          "ASR": 6.1
+        },
+        "Breast_Cancer_Females": {
+          "ASR": null,
+          "SR": null,
+          "NUM": null
+        },
+        "Respiratory_System_Diseases": {
+          "NUM": 12,
+          "SR": 96,
+          "ASR": 14.2
+        },
+        "Ischaemic_Heart_Disease": {
+          "ASR": 25.5,
+          "SR": 106,
+          "NUM": 21
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      },
+      "2011-2015": {
+        "Lung_Cancer": {
+          "SR": 78,
+          "ASR": 16.455,
+          "NUM": 14
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": null,
+          "SR": null,
+          "ASR": null
+        },
+        "Cancer": {
+          "ASR": 97.299,
+          "NUM": 79,
+          "SR": 97
+        },
+        "Breast_Cancer_Females": {
+          "ASR": null,
+          "NUM": null,
+          "SR": null
+        },
+        "COPD": {
+          "NUM": 7,
+          "ASR": 7.992,
+          "SR": 91
+        },
+        "Ischaemic_Heart_Disease": {
+          "NUM": 18,
+          "ASR": 22.79,
+          "SR": 97
+        },
+        "Colorectal_Cancer": {
+          "SR": 109,
+          "NUM": 8,
+          "ASR": 9.752
+        },
+        "Diabetes": {
+          "ASR": null,
+          "NUM": null,
+          "SR": null
+        },
+        "Respiratory_System_Diseases": {
+          "ASR": 16.533,
+          "SR": 110,
+          "NUM": 14
+        },
+        "Circulatory_System_Diseases": {
+          "NUM": 29,
+          "ASR": 36.267,
+          "SR": 81
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      }
+    },
+    "Benalla": {
+      "2010-2014": {
+        "Cancer": {
+          "ASR": 132.8,
+          "SR": 132,
+          "NUM": 115
+        },
+        "Lung_Cancer": {
+          "SR": 160,
+          "ASR": 33.7,
+          "NUM": 30
+        },
+        "COPD": {
+          "ASR": 6.6,
+          "NUM": 6,
+          "SR": 78
+        },
+        "Circulatory_System_Diseases": {
+          "ASR": 53.7,
+          "SR": 118,
+          "NUM": 46
+        },
+        "Colorectal_Cancer": {
+          "ASR": 9.2,
+          "NUM": 8,
+          "SR": 103
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 10,
+          "SR": 138,
+          "ASR": 11.5
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 16.9,
+          "SR": 104,
+          "NUM": 7
+        },
+        "Respiratory_System_Diseases": {
+          "NUM": 8,
+          "SR": 61,
+          "ASR": 9.1
+        },
+        "Ischaemic_Heart_Disease": {
+          "ASR": 26.6,
+          "SR": 110,
+          "NUM": 23
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      },
+      "2011-2015": {
+        "Lung_Cancer": {
+          "SR": 160,
+          "ASR": 33.485,
+          "NUM": 30
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 10,
+          "SR": 142,
+          "ASR": 11.487
+        },
+        "Cancer": {
+          "ASR": 129.763,
+          "NUM": 113,
+          "SR": 129
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 19.195,
+          "NUM": 8,
+          "SR": 119
+        },
+        "COPD": {
+          "NUM": 9,
+          "ASR": 9.863,
+          "SR": 112
+        },
+        "Ischaemic_Heart_Disease": {
+          "NUM": 21,
+          "ASR": 24.163,
+          "SR": 103
+        },
+        "Colorectal_Cancer": {
+          "SR": 77,
+          "NUM": 6,
+          "ASR": 6.913
+        },
+        "Diabetes": {
+          "ASR": 11.441,
+          "NUM": 10,
+          "SR": 189
+        },
+        "Respiratory_System_Diseases": {
+          "ASR": 12.413,
+          "SR": 83,
+          "NUM": 11
+        },
+        "Circulatory_System_Diseases": {
+          "NUM": 45,
+          "ASR": 52.297,
+          "SR": 117
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      }
+    },
+    "Buloke": {
+      "2010-2014": {
+        "Cancer": {
+          "ASR": 139.9,
+          "SR": 139,
+          "NUM": 57
+        },
+        "Lung_Cancer": {
+          "SR": 170,
+          "ASR": 35.7,
+          "NUM": 15
+        },
+        "COPD": {
+          "ASR": null,
+          "NUM": null,
+          "SR": null
+        },
+        "Circulatory_System_Diseases": {
+          "ASR": 61.6,
+          "SR": 135,
+          "NUM": 25
+        },
+        "Colorectal_Cancer": {
+          "ASR": null,
+          "NUM": null,
+          "SR": null
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": null,
+          "SR": null,
+          "ASR": null
+        },
+        "Breast_Cancer_Females": {
+          "ASR": null,
+          "SR": null,
+          "NUM": null
+        },
+        "Respiratory_System_Diseases": {
+          "NUM": 5,
+          "SR": 80,
+          "ASR": 11.8
+        },
+        "Ischaemic_Heart_Disease": {
+          "ASR": 26.9,
+          "SR": 112,
+          "NUM": 11
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      },
+      "2011-2015": {
+        "Lung_Cancer": {
+          "SR": 212,
+          "ASR": 44.451,
+          "NUM": 18
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": null,
+          "SR": null,
+          "ASR": null
+        },
+        "Cancer": {
+          "ASR": 149.87,
+          "NUM": 59,
+          "SR": 149
+        },
+        "Breast_Cancer_Females": {
+          "ASR": null,
+          "NUM": null,
+          "SR": null
+        },
+        "COPD": {
+          "NUM": 7,
+          "ASR": 16.704,
+          "SR": 189
+        },
+        "Ischaemic_Heart_Disease": {
+          "NUM": 6,
+          "ASR": 15.222,
+          "SR": 65
+        },
+        "Colorectal_Cancer": {
+          "SR": 171,
+          "NUM": 6,
+          "ASR": 15.329
+        },
+        "Diabetes": {
+          "ASR": null,
+          "NUM": null,
+          "SR": null
+        },
+        "Respiratory_System_Diseases": {
+          "ASR": 22.192,
+          "SR": 148,
+          "NUM": 9
+        },
+        "Circulatory_System_Diseases": {
+          "NUM": 17,
+          "ASR": 43.372,
+          "SR": 97
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      }
+    },
+    "Campaspe": {
+      "2010-2014": {
+        "Cancer": {
+          "ASR": 109.4,
+          "SR": 109,
+          "NUM": 235
+        },
+        "Lung_Cancer": {
+          "SR": 103,
+          "ASR": 21.7,
+          "NUM": 48
+        },
+        "COPD": {
+          "ASR": 9.6,
+          "NUM": 22,
+          "SR": 114
+        },
+        "Circulatory_System_Diseases": {
+          "ASR": 58.0,
+          "SR": 127,
+          "NUM": 124
+        },
+        "Colorectal_Cancer": {
+          "ASR": 6.9,
+          "NUM": 15,
+          "SR": 77
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 21,
+          "SR": 115,
+          "ASR": 9.6
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 22.9,
+          "SR": 140,
+          "NUM": 23
+        },
+        "Respiratory_System_Diseases": {
+          "NUM": 39,
+          "SR": 119,
+          "ASR": 17.5
+        },
+        "Ischaemic_Heart_Disease": {
+          "ASR": 31.0,
+          "SR": 129,
+          "NUM": 67
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      },
+      "2011-2015": {
+        "Lung_Cancer": {
+          "SR": 92,
+          "ASR": 19.367,
+          "NUM": 43
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 18,
+          "SR": 101,
+          "ASR": 8.148
+        },
+        "Cancer": {
+          "ASR": 107.356,
+          "NUM": 232,
+          "SR": 107
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 19.779,
+          "NUM": 20,
+          "SR": 123
+        },
+        "COPD": {
+          "NUM": 27,
+          "ASR": 11.752,
+          "SR": 133
+        },
+        "Ischaemic_Heart_Disease": {
+          "NUM": 61,
+          "ASR": 28.063,
+          "SR": 119
+        },
+        "Colorectal_Cancer": {
+          "SR": 88,
+          "NUM": 17,
+          "ASR": 7.84
+        },
+        "Diabetes": {
+          "ASR": 8.609,
+          "NUM": 19,
+          "SR": 142
+        },
+        "Respiratory_System_Diseases": {
+          "ASR": 20.53,
+          "SR": 137,
+          "NUM": 46
+        },
+        "Circulatory_System_Diseases": {
+          "NUM": 118,
+          "ASR": 54.926,
+          "SR": 123
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      }
+    },
+    "Gannawarra": {
+      "2010-2014": {
+        "Cancer": {
+          "ASR": 108.6,
+          "SR": 108,
+          "NUM": 76
+        },
+        "Lung_Cancer": {
+          "SR": 118,
+          "ASR": 24.8,
+          "NUM": 18
+        },
+        "COPD": {
+          "ASR": 10.4,
+          "NUM": 8,
+          "SR": 123
+        },
+        "Circulatory_System_Diseases": {
+          "ASR": 41.5,
+          "SR": 91,
+          "NUM": 29
+        },
+        "Colorectal_Cancer": {
+          "ASR": 8.6,
+          "NUM": 6,
+          "SR": 96
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 8,
+          "SR": 134,
+          "ASR": 11.2
+        },
+        "Breast_Cancer_Females": {
+          "ASR": null,
+          "SR": null,
+          "NUM": null
+        },
+        "Respiratory_System_Diseases": {
+          "NUM": 11,
+          "SR": 101,
+          "ASR": 14.9
+        },
+        "Ischaemic_Heart_Disease": {
+          "ASR": 20.0,
+          "SR": 83,
+          "NUM": 14
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      },
+      "2011-2015": {
+        "Lung_Cancer": {
+          "SR": 106,
+          "ASR": 22.286,
+          "NUM": 16
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 8,
+          "SR": 139,
+          "ASR": 11.255
+        },
+        "Cancer": {
+          "ASR": 96.712,
+          "NUM": 67,
+          "SR": 96
+        },
+        "Breast_Cancer_Females": {
+          "ASR": null,
+          "NUM": null,
+          "SR": null
+        },
+        "COPD": {
+          "NUM": 7,
+          "ASR": 9.206,
+          "SR": 104
+        },
+        "Ischaemic_Heart_Disease": {
+          "NUM": 14,
+          "ASR": 20.197,
+          "SR": 86
+        },
+        "Colorectal_Cancer": {
+          "SR": 97,
+          "NUM": 6,
+          "ASR": 8.722
+        },
+        "Diabetes": {
+          "ASR": null,
+          "NUM": null,
+          "SR": null
+        },
+        "Respiratory_System_Diseases": {
+          "ASR": 12.324,
+          "SR": 82,
+          "NUM": 9
+        },
+        "Circulatory_System_Diseases": {
+          "NUM": 29,
+          "ASR": 41.94,
+          "SR": 94
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      }
+    },
+    "Greater Bendigo": {
+      "2010-2014": {
+        "Cancer": {
+          "ASR": 105.2,
+          "SR": 104,
+          "NUM": 545
+        },
+        "Lung_Cancer": {
+          "SR": 107,
+          "ASR": 22.5,
+          "NUM": 118
+        },
+        "COPD": {
+          "ASR": 9.3,
+          "NUM": 49,
+          "SR": 110
+        },
+        "Circulatory_System_Diseases": {
+          "ASR": 49.8,
+          "SR": 109,
+          "NUM": 257
+        },
+        "Colorectal_Cancer": {
+          "ASR": 11.0,
+          "NUM": 57,
+          "SR": 123
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 53,
+          "SR": 123,
+          "ASR": 10.2
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 16.9,
+          "SR": 104,
+          "NUM": 43
+        },
+        "Respiratory_System_Diseases": {
+          "NUM": 85,
+          "SR": 110,
+          "ASR": 16.3
+        },
+        "Ischaemic_Heart_Disease": {
+          "ASR": 26.5,
+          "SR": 110,
+          "NUM": 137
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      },
+      "2011-2015": {
+        "Lung_Cancer": {
+          "SR": 110,
+          "ASR": 23.026,
+          "NUM": 122
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 51,
+          "SR": 120,
+          "ASR": 9.674
+        },
+        "Cancer": {
+          "ASR": 103.692,
+          "NUM": 546,
+          "SR": 103
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 12.42,
+          "NUM": 32,
+          "SR": 77
+        },
+        "COPD": {
+          "NUM": 52,
+          "ASR": 9.662,
+          "SR": 110
+        },
+        "Ischaemic_Heart_Disease": {
+          "NUM": 129,
+          "ASR": 24.513,
+          "SR": 104
+        },
+        "Colorectal_Cancer": {
+          "SR": 109,
+          "NUM": 51,
+          "ASR": 9.735
+        },
+        "Diabetes": {
+          "ASR": 5.481,
+          "NUM": 29,
+          "SR": 91
+        },
+        "Respiratory_System_Diseases": {
+          "ASR": 16.545,
+          "SR": 110,
+          "NUM": 88
+        },
+        "Circulatory_System_Diseases": {
+          "NUM": 258,
+          "ASR": 49.115,
+          "SR": 110
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      }
+    },
+    "Greater Shepparton": {
+      "2010-2014": {
+        "Cancer": {
+          "ASR": 95.4,
+          "SR": 95,
+          "NUM": 283
+        },
+        "Lung_Cancer": {
+          "SR": 69,
+          "ASR": 14.5,
+          "NUM": 43
+        },
+        "COPD": {
+          "ASR": 10.7,
+          "NUM": 32,
+          "SR": 127
+        },
+        "Circulatory_System_Diseases": {
+          "ASR": 53.2,
+          "SR": 117,
+          "NUM": 158
+        },
+        "Colorectal_Cancer": {
+          "ASR": 8.8,
+          "NUM": 26,
+          "SR": 98
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 38,
+          "SR": 154,
+          "ASR": 12.8
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 18.9,
+          "SR": 115,
+          "NUM": 27
+        },
+        "Respiratory_System_Diseases": {
+          "NUM": 48,
+          "SR": 110,
+          "ASR": 16.2
+        },
+        "Ischaemic_Heart_Disease": {
+          "ASR": 24.4,
+          "SR": 101,
+          "NUM": 72
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      },
+      "2011-2015": {
+        "Lung_Cancer": {
+          "SR": 64,
+          "ASR": 13.374,
+          "NUM": 40
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 37,
+          "SR": 153,
+          "ASR": 12.379
+        },
+        "Cancer": {
+          "ASR": 94.179,
+          "NUM": 282,
+          "SR": 94
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 16.624,
+          "NUM": 24,
+          "SR": 103
+        },
+        "COPD": {
+          "NUM": 37,
+          "ASR": 12.29,
+          "SR": 139
+        },
+        "Ischaemic_Heart_Disease": {
+          "NUM": 73,
+          "ASR": 24.469,
+          "SR": 104
+        },
+        "Colorectal_Cancer": {
+          "SR": 102,
+          "NUM": 27,
+          "ASR": 9.086
+        },
+        "Diabetes": {
+          "ASR": 9.056,
+          "NUM": 27,
+          "SR": 150
+        },
+        "Respiratory_System_Diseases": {
+          "ASR": 16.026,
+          "SR": 107,
+          "NUM": 48
+        },
+        "Circulatory_System_Diseases": {
+          "NUM": 163,
+          "ASR": 54.335,
+          "SR": 121
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      }
+    },
+    "Indigo": {
+      "2010-2014": {
+        "Cancer": {
+          "ASR": 107.7,
+          "SR": 107,
+          "NUM": 101
+        },
+        "Lung_Cancer": {
+          "SR": 84,
+          "ASR": 17.8,
+          "NUM": 17
+        },
+        "COPD": {
+          "ASR": 9.5,
+          "NUM": 9,
+          "SR": 112
+        },
+        "Circulatory_System_Diseases": {
+          "ASR": 36.8,
+          "SR": 81,
+          "NUM": 34
+        },
+        "Colorectal_Cancer": {
+          "ASR": 5.3,
+          "NUM": 5,
+          "SR": 59
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": null,
+          "SR": null,
+          "ASR": null
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 17.9,
+          "SR": 110,
+          "NUM": 8
+        },
+        "Respiratory_System_Diseases": {
+          "NUM": 14,
+          "SR": 102,
+          "ASR": 15.0
+        },
+        "Ischaemic_Heart_Disease": {
+          "ASR": 18.2,
+          "SR": 75,
+          "NUM": 17
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      },
+      "2011-2015": {
+        "Lung_Cancer": {
+          "SR": 108,
+          "ASR": 22.676,
+          "NUM": 22
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 7,
+          "SR": 92,
+          "ASR": 7.406
+        },
+        "Cancer": {
+          "ASR": 108.215,
+          "NUM": 103,
+          "SR": 108
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 17.702,
+          "NUM": 8,
+          "SR": 110
+        },
+        "COPD": {
+          "NUM": 11,
+          "ASR": 11.357,
+          "SR": 129
+        },
+        "Ischaemic_Heart_Disease": {
+          "NUM": 19,
+          "ASR": 19.986,
+          "SR": 85
+        },
+        "Colorectal_Cancer": {
+          "SR": 71,
+          "NUM": 6,
+          "ASR": 6.32
+        },
+        "Diabetes": {
+          "ASR": null,
+          "NUM": null,
+          "SR": null
+        },
+        "Respiratory_System_Diseases": {
+          "ASR": 17.912,
+          "SR": 119,
+          "NUM": 17
+        },
+        "Circulatory_System_Diseases": {
+          "NUM": 41,
+          "ASR": 43.618,
+          "SR": 97
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      }
+    },
+    "Loddon": {
+      "2010-2014": {
+        "Cancer": {
+          "ASR": 112.5,
+          "SR": 112,
+          "NUM": 60
+        },
+        "Lung_Cancer": {
+          "SR": 157,
+          "ASR": 33.0,
+          "NUM": 18
+        },
+        "COPD": {
+          "ASR": 18.0,
+          "NUM": 10,
+          "SR": 213
+        },
+        "Circulatory_System_Diseases": {
+          "ASR": 65.9,
+          "SR": 144,
+          "NUM": 35
+        },
+        "Colorectal_Cancer": {
+          "ASR": 13.6,
+          "NUM": 7,
+          "SR": 152
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": null,
+          "SR": null,
+          "ASR": null
+        },
+        "Breast_Cancer_Females": {
+          "ASR": null,
+          "SR": null,
+          "NUM": null
+        },
+        "Respiratory_System_Diseases": {
+          "NUM": 14,
+          "SR": 179,
+          "ASR": 26.4
+        },
+        "Ischaemic_Heart_Disease": {
+          "ASR": 34.2,
+          "SR": 142,
+          "NUM": 18
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      },
+      "2011-2015": {
+        "Lung_Cancer": {
+          "SR": 159,
+          "ASR": 33.312,
+          "NUM": 18
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": null,
+          "SR": null,
+          "ASR": null
+        },
+        "Cancer": {
+          "ASR": 105.448,
+          "NUM": 56,
+          "SR": 105
+        },
+        "Breast_Cancer_Females": {
+          "ASR": null,
+          "NUM": null,
+          "SR": null
+        },
+        "COPD": {
+          "NUM": 11,
+          "ASR": 19.957,
+          "SR": 226
+        },
+        "Ischaemic_Heart_Disease": {
+          "NUM": 16,
+          "ASR": 30.456,
+          "SR": 129
+        },
+        "Colorectal_Cancer": {
+          "SR": 134,
+          "NUM": 6,
+          "ASR": 11.952
+        },
+        "Diabetes": {
+          "ASR": 11.441,
+          "NUM": 6,
+          "SR": 189
+        },
+        "Respiratory_System_Diseases": {
+          "ASR": 28.478,
+          "SR": 190,
+          "NUM": 15
+        },
+        "Circulatory_System_Diseases": {
+          "NUM": 31,
+          "ASR": 58.61,
+          "SR": 131
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      }
+    },
+    "Mansfield": {
+      "2010-2014": {
+        "Cancer": {
+          "ASR": 58.0,
+          "SR": 58,
+          "NUM": 30
+        },
+        "Lung_Cancer": {
+          "SR": 61,
+          "ASR": 12.7,
+          "NUM": 7
+        },
+        "COPD": {
+          "ASR": 9.0,
+          "NUM": 5,
+          "SR": 106
+        },
+        "Circulatory_System_Diseases": {
+          "ASR": 49.3,
+          "SR": 108,
+          "NUM": 25
+        },
+        "Colorectal_Cancer": {
+          "ASR": null,
+          "NUM": null,
+          "SR": null
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": null,
+          "SR": null,
+          "ASR": null
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 0.0,
+          "SR": 0,
+          "NUM": 0
+        },
+        "Respiratory_System_Diseases": {
+          "NUM": 7,
+          "SR": 88,
+          "ASR": 12.9
+        },
+        "Ischaemic_Heart_Disease": {
+          "ASR": 24.4,
+          "SR": 101,
+          "NUM": 13
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      },
+      "2011-2015": {
+        "Lung_Cancer": {
+          "SR": 51,
+          "ASR": 10.743,
+          "NUM": 6
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": null,
+          "SR": null,
+          "ASR": null
+        },
+        "Cancer": {
+          "ASR": 77.387,
+          "NUM": 41,
+          "SR": 77
+        },
+        "Breast_Cancer_Females": {
+          "ASR": null,
+          "NUM": null,
+          "SR": null
+        },
+        "COPD": {
+          "NUM": null,
+          "ASR": null,
+          "SR": null
+        },
+        "Ischaemic_Heart_Disease": {
+          "NUM": 9,
+          "ASR": 16.649,
+          "SR": 71
+        },
+        "Colorectal_Cancer": {
+          "SR": null,
+          "NUM": null,
+          "ASR": null
+        },
+        "Diabetes": {
+          "ASR": null,
+          "NUM": null,
+          "SR": null
+        },
+        "Respiratory_System_Diseases": {
+          "ASR": 12.663,
+          "SR": 84,
+          "NUM": 7
+        },
+        "Circulatory_System_Diseases": {
+          "NUM": 22,
+          "ASR": 42.957,
+          "SR": 96
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      }
+    },
+    "Mildura": {
+      "2010-2014": {
+        "Cancer": {
+          "ASR": 115.2,
+          "SR": 114,
+          "NUM": 302
+        },
+        "Lung_Cancer": {
+          "SR": 122,
+          "ASR": 25.7,
+          "NUM": 68
+        },
+        "COPD": {
+          "ASR": 13.0,
+          "NUM": 35,
+          "SR": 154
+        },
+        "Circulatory_System_Diseases": {
+          "ASR": 56.1,
+          "SR": 123,
+          "NUM": 147
+        },
+        "Colorectal_Cancer": {
+          "ASR": 7.3,
+          "NUM": 19,
+          "SR": 81
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 22,
+          "SR": 100,
+          "ASR": 8.3
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 19.7,
+          "SR": 121,
+          "NUM": 25
+        },
+        "Respiratory_System_Diseases": {
+          "NUM": 47,
+          "SR": 120,
+          "ASR": 17.7
+        },
+        "Ischaemic_Heart_Disease": {
+          "ASR": 29.7,
+          "SR": 123,
+          "NUM": 78
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      },
+      "2011-2015": {
+        "Lung_Cancer": {
+          "SR": 118,
+          "ASR": 24.742,
+          "NUM": 66
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 19,
+          "SR": 89,
+          "ASR": 7.155
+        },
+        "Cancer": {
+          "ASR": 110.556,
+          "NUM": 292,
+          "SR": 110
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 18.783,
+          "NUM": 24,
+          "SR": 116
+        },
+        "COPD": {
+          "NUM": 33,
+          "ASR": 12.211,
+          "SR": 138
+        },
+        "Ischaemic_Heart_Disease": {
+          "NUM": 81,
+          "ASR": 30.67,
+          "SR": 130
+        },
+        "Colorectal_Cancer": {
+          "SR": 89,
+          "NUM": 21,
+          "ASR": 7.977
+        },
+        "Diabetes": {
+          "ASR": 6.408,
+          "NUM": 17,
+          "SR": 106
+        },
+        "Respiratory_System_Diseases": {
+          "ASR": 16.833,
+          "SR": 112,
+          "NUM": 45
+        },
+        "Circulatory_System_Diseases": {
+          "NUM": 147,
+          "ASR": 55.755,
+          "SR": 125
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      }
+    },
+    "Mitchell": {
+      "2010-2014": {
+        "Cancer": {
+          "ASR": 111.5,
+          "SR": 111,
+          "NUM": 184
+        },
+        "Lung_Cancer": {
+          "SR": 93,
+          "ASR": 19.6,
+          "NUM": 32
+        },
+        "COPD": {
+          "ASR": 6.9,
+          "NUM": 11,
+          "SR": 82
+        },
+        "Circulatory_System_Diseases": {
+          "ASR": 47.7,
+          "SR": 105,
+          "NUM": 78
+        },
+        "Colorectal_Cancer": {
+          "ASR": 8.6,
+          "NUM": 14,
+          "SR": 95
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 14,
+          "SR": 104,
+          "ASR": 8.7
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 12.3,
+          "SR": 75,
+          "NUM": 10
+        },
+        "Respiratory_System_Diseases": {
+          "NUM": 21,
+          "SR": 89,
+          "ASR": 13.1
+        },
+        "Ischaemic_Heart_Disease": {
+          "ASR": 22.0,
+          "SR": 91,
+          "NUM": 36
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      },
+      "2011-2015": {
+        "Lung_Cancer": {
+          "SR": 107,
+          "ASR": 22.535,
+          "NUM": 38
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 16,
+          "SR": 118,
+          "ASR": 9.552
+        },
+        "Cancer": {
+          "ASR": 111.87,
+          "NUM": 191,
+          "SR": 111
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 9.435,
+          "NUM": 8,
+          "SR": 58
+        },
+        "COPD": {
+          "NUM": 14,
+          "ASR": 8.522,
+          "SR": 97
+        },
+        "Ischaemic_Heart_Disease": {
+          "NUM": 33,
+          "ASR": 19.432,
+          "SR": 83
+        },
+        "Colorectal_Cancer": {
+          "SR": 131,
+          "NUM": 20,
+          "ASR": 11.763
+        },
+        "Diabetes": {
+          "ASR": 7.73,
+          "NUM": 13,
+          "SR": 128
+        },
+        "Respiratory_System_Diseases": {
+          "ASR": 14.445,
+          "SR": 96,
+          "NUM": 24
+        },
+        "Circulatory_System_Diseases": {
+          "NUM": 78,
+          "ASR": 46.103,
+          "SR": 103
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      }
+    },
+    "Moira": {
+      "2010-2014": {
+        "Cancer": {
+          "ASR": 111.8,
+          "SR": 111,
+          "NUM": 198
+        },
+        "Lung_Cancer": {
+          "SR": 109,
+          "ASR": 23.0,
+          "NUM": 42
+        },
+        "COPD": {
+          "ASR": 12.6,
+          "NUM": 24,
+          "SR": 149
+        },
+        "Circulatory_System_Diseases": {
+          "ASR": 48.7,
+          "SR": 107,
+          "NUM": 86
+        },
+        "Colorectal_Cancer": {
+          "ASR": 8.5,
+          "NUM": 15,
+          "SR": 95
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 16,
+          "SR": 107,
+          "ASR": 8.9
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 12.4,
+          "SR": 76,
+          "NUM": 10
+        },
+        "Respiratory_System_Diseases": {
+          "NUM": 41,
+          "SR": 150,
+          "ASR": 22.2
+        },
+        "Ischaemic_Heart_Disease": {
+          "ASR": 27.1,
+          "SR": 113,
+          "NUM": 48
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      },
+      "2011-2015": {
+        "Lung_Cancer": {
+          "SR": 125,
+          "ASR": 26.128,
+          "NUM": 48
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 15,
+          "SR": 102,
+          "ASR": 8.264
+        },
+        "Cancer": {
+          "ASR": 118.906,
+          "NUM": 212,
+          "SR": 118
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 13.575,
+          "NUM": 11,
+          "SR": 84
+        },
+        "COPD": {
+          "NUM": 30,
+          "ASR": 15.596,
+          "SR": 177
+        },
+        "Ischaemic_Heart_Disease": {
+          "NUM": 43,
+          "ASR": 24.127,
+          "SR": 103
+        },
+        "Colorectal_Cancer": {
+          "SR": 95,
+          "NUM": 15,
+          "ASR": 8.464
+        },
+        "Diabetes": {
+          "ASR": 7.158,
+          "NUM": 13,
+          "SR": 118
+        },
+        "Respiratory_System_Diseases": {
+          "ASR": 24.169,
+          "SR": 161,
+          "NUM": 45
+        },
+        "Circulatory_System_Diseases": {
+          "NUM": 80,
+          "ASR": 45.019,
+          "SR": 101
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      }
+    },
+    "Mount Alexander": {
+      "2010-2014": {
+        "Cancer": {
+          "ASR": 102.0,
+          "SR": 101,
+          "NUM": 122
+        },
+        "Lung_Cancer": {
+          "SR": 116,
+          "ASR": 24.5,
+          "NUM": 30
+        },
+        "COPD": {
+          "ASR": 7.9,
+          "NUM": 10,
+          "SR": 94
+        },
+        "Circulatory_System_Diseases": {
+          "ASR": 41.7,
+          "SR": 91,
+          "NUM": 49
+        },
+        "Colorectal_Cancer": {
+          "ASR": 11.5,
+          "NUM": 14,
+          "SR": 128
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 8,
+          "SR": 79,
+          "ASR": 6.5
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 8.6,
+          "SR": 53,
+          "NUM": 5
+        },
+        "Respiratory_System_Diseases": {
+          "NUM": 18,
+          "SR": 99,
+          "ASR": 14.6
+        },
+        "Ischaemic_Heart_Disease": {
+          "ASR": 29.0,
+          "SR": 120,
+          "NUM": 35
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      },
+      "2011-2015": {
+        "Lung_Cancer": {
+          "SR": 112,
+          "ASR": 23.389,
+          "NUM": 29
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 11,
+          "SR": 110,
+          "ASR": 8.863
+        },
+        "Cancer": {
+          "ASR": 98.033,
+          "NUM": 120,
+          "SR": 98
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 11.817,
+          "NUM": 7,
+          "SR": 73
+        },
+        "COPD": {
+          "NUM": 7,
+          "ASR": 5.461,
+          "SR": 62
+        },
+        "Ischaemic_Heart_Disease": {
+          "NUM": 31,
+          "ASR": 25.256,
+          "SR": 107
+        },
+        "Colorectal_Cancer": {
+          "SR": 117,
+          "NUM": 13,
+          "ASR": 10.504
+        },
+        "Diabetes": {
+          "ASR": null,
+          "NUM": null,
+          "SR": null
+        },
+        "Respiratory_System_Diseases": {
+          "ASR": 12.749,
+          "SR": 85,
+          "NUM": 16
+        },
+        "Circulatory_System_Diseases": {
+          "NUM": 45,
+          "ASR": 37.749,
+          "SR": 84
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      }
+    },
+    "Murrindindi": {
+      "2010-2014": {
+        "Cancer": {
+          "ASR": 103.0,
+          "SR": 102,
+          "NUM": 91
+        },
+        "Lung_Cancer": {
+          "SR": 94,
+          "ASR": 19.9,
+          "NUM": 18
+        },
+        "COPD": {
+          "ASR": 10.9,
+          "NUM": 10,
+          "SR": 128
+        },
+        "Circulatory_System_Diseases": {
+          "ASR": 58.5,
+          "SR": 128,
+          "NUM": 51
+        },
+        "Colorectal_Cancer": {
+          "ASR": 10.2,
+          "NUM": 9,
+          "SR": 114
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 11,
+          "SR": 151,
+          "ASR": 12.5
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 15.2,
+          "SR": 93,
+          "NUM": 6
+        },
+        "Respiratory_System_Diseases": {
+          "NUM": 10,
+          "SR": 76,
+          "ASR": 11.2
+        },
+        "Ischaemic_Heart_Disease": {
+          "ASR": 28.4,
+          "SR": 118,
+          "NUM": 25
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      },
+      "2011-2015": {
+        "Lung_Cancer": {
+          "SR": 134,
+          "ASR": 28.193,
+          "NUM": 26
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 10,
+          "SR": 138,
+          "ASR": 11.141
+        },
+        "Cancer": {
+          "ASR": 108.066,
+          "NUM": 97,
+          "SR": 107
+        },
+        "Breast_Cancer_Females": {
+          "ASR": null,
+          "NUM": null,
+          "SR": null
+        },
+        "COPD": {
+          "NUM": 10,
+          "ASR": 10.611,
+          "SR": 120
+        },
+        "Ischaemic_Heart_Disease": {
+          "NUM": 23,
+          "ASR": 25.708,
+          "SR": 109
+        },
+        "Colorectal_Cancer": {
+          "SR": 125,
+          "NUM": 10,
+          "ASR": 11.182
+        },
+        "Diabetes": {
+          "ASR": null,
+          "NUM": null,
+          "SR": null
+        },
+        "Respiratory_System_Diseases": {
+          "ASR": 12.033,
+          "SR": 80,
+          "NUM": 11
+        },
+        "Circulatory_System_Diseases": {
+          "NUM": 48,
+          "ASR": 54.092,
+          "SR": 121
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      }
+    },
+    "Strathbogie": {
+      "2010-2014": {
+        "Cancer": {
+          "ASR": 123.4,
+          "SR": 123,
+          "NUM": 87
+        },
+        "Lung_Cancer": {
+          "SR": 123,
+          "ASR": 25.9,
+          "NUM": 19
+        },
+        "COPD": {
+          "ASR": 15.6,
+          "NUM": 12,
+          "SR": 184
+        },
+        "Circulatory_System_Diseases": {
+          "ASR": 57.2,
+          "SR": 125,
+          "NUM": 40
+        },
+        "Colorectal_Cancer": {
+          "ASR": 7.1,
+          "NUM": 5,
+          "SR": 79
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 8,
+          "SR": 134,
+          "ASR": 11.2
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 16.0,
+          "SR": 98,
+          "NUM": 5
+        },
+        "Respiratory_System_Diseases": {
+          "NUM": 15,
+          "SR": 138,
+          "ASR": 20.4
+        },
+        "Ischaemic_Heart_Disease": {
+          "ASR": 32.6,
+          "SR": 135,
+          "NUM": 23
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      },
+      "2011-2015": {
+        "Lung_Cancer": {
+          "SR": 143,
+          "ASR": 29.923,
+          "NUM": 22
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 9,
+          "SR": 154,
+          "ASR": 12.452
+        },
+        "Cancer": {
+          "ASR": 118.787,
+          "NUM": 84,
+          "SR": 118
+        },
+        "Breast_Cancer_Females": {
+          "ASR": null,
+          "NUM": null,
+          "SR": null
+        },
+        "COPD": {
+          "NUM": 13,
+          "ASR": 16.771,
+          "SR": 190
+        },
+        "Ischaemic_Heart_Disease": {
+          "NUM": 26,
+          "ASR": 36.763,
+          "SR": 156
+        },
+        "Colorectal_Cancer": {
+          "SR": null,
+          "NUM": null,
+          "ASR": null
+        },
+        "Diabetes": {
+          "ASR": 8.323,
+          "NUM": 6,
+          "SR": 138
+        },
+        "Respiratory_System_Diseases": {
+          "ASR": 20.213,
+          "SR": 135,
+          "NUM": 15
+        },
+        "Circulatory_System_Diseases": {
+          "NUM": 47,
+          "ASR": 66.841,
+          "SR": 149
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      }
+    },
+    "Swan Hill": {
+      "2010-2014": {
+        "Cancer": {
+          "ASR": 112.0,
+          "SR": 111,
+          "NUM": 118
+        },
+        "Lung_Cancer": {
+          "SR": 143,
+          "ASR": 30.0,
+          "NUM": 32
+        },
+        "COPD": {
+          "ASR": 11.0,
+          "NUM": 12,
+          "SR": 131
+        },
+        "Circulatory_System_Diseases": {
+          "ASR": 57.1,
+          "SR": 125,
+          "NUM": 60
+        },
+        "Colorectal_Cancer": {
+          "ASR": 6.7,
+          "NUM": 7,
+          "SR": 74
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 11,
+          "SR": 125,
+          "ASR": 10.4
+        },
+        "Breast_Cancer_Females": {
+          "ASR": null,
+          "SR": null,
+          "NUM": null
+        },
+        "Respiratory_System_Diseases": {
+          "NUM": 21,
+          "SR": 133,
+          "ASR": 19.6
+        },
+        "Ischaemic_Heart_Disease": {
+          "ASR": 32.3,
+          "SR": 134,
+          "NUM": 34
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      },
+      "2011-2015": {
+        "Lung_Cancer": {
+          "SR": 116,
+          "ASR": 24.42,
+          "NUM": 26
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 10,
+          "SR": 117,
+          "ASR": 9.444
+        },
+        "Cancer": {
+          "ASR": 116.045,
+          "NUM": 122,
+          "SR": 115
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 16.184,
+          "NUM": 8,
+          "SR": 100
+        },
+        "COPD": {
+          "NUM": 14,
+          "ASR": 12.909,
+          "SR": 146
+        },
+        "Ischaemic_Heart_Disease": {
+          "NUM": 26,
+          "ASR": 24.747,
+          "SR": 105
+        },
+        "Colorectal_Cancer": {
+          "SR": 64,
+          "NUM": 6,
+          "ASR": 5.729
+        },
+        "Diabetes": {
+          "ASR": 7.557,
+          "NUM": 8,
+          "SR": 125
+        },
+        "Respiratory_System_Diseases": {
+          "ASR": 21.484,
+          "SR": 143,
+          "NUM": 23
+        },
+        "Circulatory_System_Diseases": {
+          "NUM": 51,
+          "ASR": 48.611,
+          "SR": 109
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      }
+    },
+    "Towong": {
+      "2010-2014": {
+        "Cancer": {
+          "ASR": 96.2,
+          "SR": 96,
+          "NUM": 38
+        },
+        "Lung_Cancer": {
+          "SR": 117,
+          "ASR": 24.5,
+          "NUM": 10
+        },
+        "COPD": {
+          "ASR": 12.0,
+          "NUM": 5,
+          "SR": 142
+        },
+        "Circulatory_System_Diseases": {
+          "ASR": 35.8,
+          "SR": 78,
+          "NUM": 14
+        },
+        "Colorectal_Cancer": {
+          "ASR": null,
+          "NUM": null,
+          "SR": null
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": null,
+          "SR": null,
+          "ASR": null
+        },
+        "Breast_Cancer_Females": {
+          "ASR": null,
+          "SR": null,
+          "NUM": null
+        },
+        "Respiratory_System_Diseases": {
+          "NUM": 9,
+          "SR": 151,
+          "ASR": 22.3
+        },
+        "Ischaemic_Heart_Disease": {
+          "ASR": 22.7,
+          "SR": 94,
+          "NUM": 9
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      },
+      "2011-2015": {
+        "Lung_Cancer": {
+          "SR": 82,
+          "ASR": 17.252,
+          "NUM": 7
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": null,
+          "SR": null,
+          "ASR": null
+        },
+        "Cancer": {
+          "ASR": 86.371,
+          "NUM": 34,
+          "SR": 86
+        },
+        "Breast_Cancer_Females": {
+          "ASR": null,
+          "NUM": null,
+          "SR": null
+        },
+        "COPD": {
+          "NUM": null,
+          "ASR": null,
+          "SR": null
+        },
+        "Ischaemic_Heart_Disease": {
+          "NUM": 10,
+          "ASR": 25.367,
+          "SR": 108
+        },
+        "Colorectal_Cancer": {
+          "SR": null,
+          "NUM": null,
+          "ASR": null
+        },
+        "Diabetes": {
+          "ASR": null,
+          "NUM": null,
+          "SR": null
+        },
+        "Respiratory_System_Diseases": {
+          "ASR": 19.883,
+          "SR": 132,
+          "NUM": 8
+        },
+        "Circulatory_System_Diseases": {
+          "NUM": 14,
+          "ASR": 35.94,
+          "SR": 80
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      }
+    },
+    "Wangaratta": {
+      "2010-2014": {
+        "Cancer": {
+          "ASR": 109.1,
+          "SR": 108,
+          "NUM": 170
+        },
+        "Lung_Cancer": {
+          "SR": 99,
+          "ASR": 20.8,
+          "NUM": 33
+        },
+        "COPD": {
+          "ASR": 14.1,
+          "NUM": 23,
+          "SR": 167
+        },
+        "Circulatory_System_Diseases": {
+          "ASR": 38.7,
+          "SR": 85,
+          "NUM": 60
+        },
+        "Colorectal_Cancer": {
+          "ASR": 10.3,
+          "NUM": 16,
+          "SR": 115
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 10,
+          "SR": 77,
+          "ASR": 6.4
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 17.3,
+          "SR": 106,
+          "NUM": 13
+        },
+        "Respiratory_System_Diseases": {
+          "NUM": 30,
+          "SR": 128,
+          "ASR": 18.9
+        },
+        "Ischaemic_Heart_Disease": {
+          "ASR": 16.0,
+          "SR": 67,
+          "NUM": 25
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      },
+      "2011-2015": {
+        "Lung_Cancer": {
+          "SR": 108,
+          "ASR": 22.555,
+          "NUM": 36
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 12,
+          "SR": 94,
+          "ASR": 7.598
+        },
+        "Cancer": {
+          "ASR": 105.436,
+          "NUM": 165,
+          "SR": 105
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 14.503,
+          "NUM": 11,
+          "SR": 90
+        },
+        "COPD": {
+          "NUM": 26,
+          "ASR": 15.903,
+          "SR": 180
+        },
+        "Ischaemic_Heart_Disease": {
+          "NUM": 26,
+          "ASR": 16.602,
+          "SR": 71
+        },
+        "Colorectal_Cancer": {
+          "SR": 108,
+          "NUM": 15,
+          "ASR": 9.627
+        },
+        "Diabetes": {
+          "ASR": 4.435,
+          "NUM": 7,
+          "SR": 73
+        },
+        "Respiratory_System_Diseases": {
+          "ASR": 20.648,
+          "SR": 137,
+          "NUM": 33
+        },
+        "Circulatory_System_Diseases": {
+          "NUM": 63,
+          "ASR": 40.402,
+          "SR": 90
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      }
+    },
+    "Wodonga": {
+      "2010-2014": {
+        "Cancer": {
+          "ASR": 114.5,
+          "SR": 114,
+          "NUM": 182
+        },
+        "Lung_Cancer": {
+          "SR": 138,
+          "ASR": 29.1,
+          "NUM": 46
+        },
+        "COPD": {
+          "ASR": 11.5,
+          "NUM": 18,
+          "SR": 136
+        },
+        "Circulatory_System_Diseases": {
+          "ASR": 52.3,
+          "SR": 115,
+          "NUM": 83
+        },
+        "Colorectal_Cancer": {
+          "ASR": 10.1,
+          "NUM": 16,
+          "SR": 112
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 14,
+          "SR": 106,
+          "ASR": 8.8
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 26.0,
+          "SR": 159,
+          "NUM": 21
+        },
+        "Respiratory_System_Diseases": {
+          "NUM": 25,
+          "SR": 107,
+          "ASR": 15.8
+        },
+        "Ischaemic_Heart_Disease": {
+          "ASR": 31.5,
+          "SR": 131,
+          "NUM": 50
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      },
+      "2011-2015": {
+        "Lung_Cancer": {
+          "SR": 129,
+          "ASR": 27.106,
+          "NUM": 44
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 16,
+          "SR": 122,
+          "ASR": 9.857
+        },
+        "Cancer": {
+          "ASR": 115.964,
+          "NUM": 189,
+          "SR": 115
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 27.874,
+          "NUM": 23,
+          "SR": 173
+        },
+        "COPD": {
+          "NUM": 21,
+          "ASR": 13.027,
+          "SR": 148
+        },
+        "Ischaemic_Heart_Disease": {
+          "NUM": 48,
+          "ASR": 29.508,
+          "SR": 125
+        },
+        "Colorectal_Cancer": {
+          "SR": 103,
+          "NUM": 15,
+          "ASR": 9.217
+        },
+        "Diabetes": {
+          "ASR": 4.928,
+          "NUM": 8,
+          "SR": 82
+        },
+        "Respiratory_System_Diseases": {
+          "ASR": 17.256,
+          "SR": 115,
+          "NUM": 28
+        },
+        "Circulatory_System_Diseases": {
+          "NUM": 86,
+          "ASR": 52.825,
+          "SR": 118
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      }
+    },
+    "Unincorporated Vic": {
+      "2010-2014": {
+        "Cancer": {
+          "ASR": 92.3,
+          "SR": 92,
+          "NUM": 5
+        },
+        "Lung_Cancer": {
+          "SR": null,
+          "ASR": null,
+          "NUM": null
+        },
+        "COPD": {
+          "ASR": 0.0,
+          "NUM": 0,
+          "SR": 0
+        },
+        "Circulatory_System_Diseases": {
+          "ASR": null,
+          "SR": null,
+          "NUM": null
+        },
+        "Colorectal_Cancer": {
+          "ASR": 0.0,
+          "NUM": 0,
+          "SR": 0
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 0,
+          "SR": 0,
+          "ASR": 0.0
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 0.0,
+          "SR": 0,
+          "NUM": 0
+        },
+        "Respiratory_System_Diseases": {
+          "NUM": null,
+          "SR": null,
+          "ASR": null
+        },
+        "Ischaemic_Heart_Disease": {
+          "ASR": null,
+          "SR": null,
+          "NUM": null
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      },
+      "2011-2015": {
+        "Lung_Cancer": {
+          "SR": null,
+          "ASR": null,
+          "NUM": null
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 0,
+          "SR": 0,
+          "ASR": 0.0
+        },
+        "Cancer": {
+          "ASR": null,
+          "NUM": null,
+          "SR": null
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 0.0,
+          "NUM": 0,
+          "SR": 0
+        },
+        "COPD": {
+          "NUM": 0,
+          "ASR": 0.0,
+          "SR": 0
+        },
+        "Ischaemic_Heart_Disease": {
+          "NUM": null,
+          "ASR": null,
+          "SR": null
+        },
+        "Colorectal_Cancer": {
+          "SR": 0,
+          "NUM": 0,
+          "ASR": 0.0
+        },
+        "Diabetes": {
+          "ASR": 0.0,
+          "NUM": 0,
+          "SR": 0
+        },
+        "Respiratory_System_Diseases": {
+          "ASR": null,
+          "SR": null,
+          "NUM": null
+        },
+        "Circulatory_System_Diseases": {
+          "NUM": null,
+          "ASR": null,
+          "SR": null
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      }
+    }
+  },
+  "Western Victoria": {
+    "Ararat": {
+      "2010-2014": {
+        "Cancer": {
+          "ASR": 106.6,
+          "SR": 106,
+          "NUM": 74
+        },
+        "Lung_Cancer": {
+          "SR": 116,
+          "ASR": 24.4,
+          "NUM": 17
+        },
+        "COPD": {
+          "ASR": 12.5,
+          "NUM": 9,
+          "SR": 147
+        },
+        "Circulatory_System_Diseases": {
+          "ASR": 68.6,
+          "SR": 150,
+          "NUM": 47
+        },
+        "Colorectal_Cancer": {
+          "ASR": 13.2,
+          "NUM": 9,
+          "SR": 147
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 11,
+          "SR": 190,
+          "ASR": 15.8
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 22.6,
+          "SR": 138,
+          "NUM": 7
+        },
+        "Respiratory_System_Diseases": {
+          "NUM": 13,
+          "SR": 126,
+          "ASR": 18.7
+        },
+        "Ischaemic_Heart_Disease": {
+          "ASR": 33.4,
+          "SR": 139,
+          "NUM": 23
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      },
+      "2011-2015": {
+        "Lung_Cancer": {
+          "SR": 84,
+          "ASR": 17.637,
+          "NUM": 12
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 6,
+          "SR": 108,
+          "ASR": 8.722
+        },
+        "Cancer": {
+          "ASR": 99.025,
+          "NUM": 68,
+          "SR": 98
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 23.061,
+          "NUM": 7,
+          "SR": 143
+        },
+        "COPD": {
+          "NUM": 5,
+          "ASR": 7.046,
+          "SR": 80
+        },
+        "Ischaemic_Heart_Disease": {
+          "NUM": 22,
+          "ASR": 32.308,
+          "SR": 137
+        },
+        "Colorectal_Cancer": {
+          "SR": 132,
+          "NUM": 8,
+          "ASR": 11.855
+        },
+        "Diabetes": {
+          "ASR": 13.075,
+          "NUM": 9,
+          "SR": 216
+        },
+        "Respiratory_System_Diseases": {
+          "ASR": 14.346,
+          "SR": 95,
+          "NUM": 10
+        },
+        "Circulatory_System_Diseases": {
+          "NUM": 43,
+          "ASR": 63.426,
+          "SR": 142
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      }
+    },
+    "Ballarat": {
+      "2010-2014": {
+        "Cancer": {
+          "ASR": 109.2,
+          "SR": 108,
+          "NUM": 502
+        },
+        "Lung_Cancer": {
+          "SR": 98,
+          "ASR": 20.6,
+          "NUM": 95
+        },
+        "COPD": {
+          "ASR": 12.0,
+          "NUM": 56,
+          "SR": 142
+        },
+        "Circulatory_System_Diseases": {
+          "ASR": 42.5,
+          "SR": 93,
+          "NUM": 195
+        },
+        "Colorectal_Cancer": {
+          "ASR": 12.6,
+          "NUM": 58,
+          "SR": 141
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 45,
+          "SR": 118,
+          "ASR": 9.8
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 14.5,
+          "SR": 89,
+          "NUM": 34
+        },
+        "Respiratory_System_Diseases": {
+          "NUM": 86,
+          "SR": 125,
+          "ASR": 18.4
+        },
+        "Ischaemic_Heart_Disease": {
+          "ASR": 19.3,
+          "SR": 80,
+          "NUM": 89
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      },
+      "2011-2015": {
+        "Lung_Cancer": {
+          "SR": 103,
+          "ASR": 21.593,
+          "NUM": 102
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 46,
+          "SR": 120,
+          "ASR": 9.692
+        },
+        "Cancer": {
+          "ASR": 109.422,
+          "NUM": 513,
+          "SR": 109
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 18.223,
+          "NUM": 43,
+          "SR": 113
+        },
+        "COPD": {
+          "NUM": 69,
+          "ASR": 14.393,
+          "SR": 163
+        },
+        "Ischaemic_Heart_Disease": {
+          "NUM": 95,
+          "ASR": 20.239,
+          "SR": 86
+        },
+        "Colorectal_Cancer": {
+          "SR": 126,
+          "NUM": 53,
+          "ASR": 11.27
+        },
+        "Diabetes": {
+          "ASR": 4.845,
+          "NUM": 23,
+          "SR": 80
+        },
+        "Respiratory_System_Diseases": {
+          "ASR": 22.184,
+          "SR": 148,
+          "NUM": 105
+        },
+        "Circulatory_System_Diseases": {
+          "NUM": 207,
+          "ASR": 44.161,
+          "SR": 99
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      }
+    },
+    "Central Goldfields": {
+      "2010-2014": {
+        "Cancer": {
+          "ASR": 143.7,
+          "SR": 143,
+          "NUM": 129
+        },
+        "Lung_Cancer": {
+          "SR": 200,
+          "ASR": 42.1,
+          "NUM": 39
+        },
+        "COPD": {
+          "ASR": 13.0,
+          "NUM": 13,
+          "SR": 154
+        },
+        "Circulatory_System_Diseases": {
+          "ASR": 70.7,
+          "SR": 155,
+          "NUM": 63
+        },
+        "Colorectal_Cancer": {
+          "ASR": 13.3,
+          "NUM": 12,
+          "SR": 148
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 10,
+          "SR": 131,
+          "ASR": 10.9
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 24.4,
+          "SR": 149,
+          "NUM": 10
+        },
+        "Respiratory_System_Diseases": {
+          "NUM": 18,
+          "SR": 128,
+          "ASR": 18.8
+        },
+        "Ischaemic_Heart_Disease": {
+          "ASR": 42.7,
+          "SR": 177,
+          "NUM": 38
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      },
+      "2011-2015": {
+        "Lung_Cancer": {
+          "SR": 233,
+          "ASR": 48.783,
+          "NUM": 45
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 7,
+          "SR": 95,
+          "ASR": 7.65
+        },
+        "Cancer": {
+          "ASR": 152.726,
+          "NUM": 136,
+          "SR": 152
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 29.206,
+          "NUM": 12,
+          "SR": 181
+        },
+        "COPD": {
+          "NUM": 12,
+          "ASR": 12.087,
+          "SR": 137
+        },
+        "Ischaemic_Heart_Disease": {
+          "NUM": 36,
+          "ASR": 40.774,
+          "SR": 173
+        },
+        "Colorectal_Cancer": {
+          "SR": 150,
+          "NUM": 12,
+          "ASR": 13.429
+        },
+        "Diabetes": {
+          "ASR": 12.037,
+          "NUM": 11,
+          "SR": 199
+        },
+        "Respiratory_System_Diseases": {
+          "ASR": 18.869,
+          "SR": 126,
+          "NUM": 18
+        },
+        "Circulatory_System_Diseases": {
+          "NUM": 59,
+          "ASR": 66.574,
+          "SR": 149
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      }
+    },
+    "Colac Otway": {
+      "2010-2014": {
+        "Cancer": {
+          "ASR": 110.7,
+          "SR": 110,
+          "NUM": 132
+        },
+        "Lung_Cancer": {
+          "SR": 113,
+          "ASR": 23.8,
+          "NUM": 29
+        },
+        "COPD": {
+          "ASR": 9.7,
+          "NUM": 12,
+          "SR": 114
+        },
+        "Circulatory_System_Diseases": {
+          "ASR": 62.5,
+          "SR": 137,
+          "NUM": 74
+        },
+        "Colorectal_Cancer": {
+          "ASR": 9.2,
+          "NUM": 11,
+          "SR": 103
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 13,
+          "SR": 131,
+          "ASR": 10.9
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 17.8,
+          "SR": 109,
+          "NUM": 10
+        },
+        "Respiratory_System_Diseases": {
+          "NUM": 19,
+          "SR": 106,
+          "ASR": 15.7
+        },
+        "Ischaemic_Heart_Disease": {
+          "ASR": 26.0,
+          "SR": 108,
+          "NUM": 31
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      },
+      "2011-2015": {
+        "Lung_Cancer": {
+          "SR": 116,
+          "ASR": 24.297,
+          "NUM": 30
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 16,
+          "SR": 164,
+          "ASR": 13.213
+        },
+        "Cancer": {
+          "ASR": 112.603,
+          "NUM": 136,
+          "SR": 112
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 17.631,
+          "NUM": 10,
+          "SR": 109
+        },
+        "COPD": {
+          "NUM": 14,
+          "ASR": 11.112,
+          "SR": 126
+        },
+        "Ischaemic_Heart_Disease": {
+          "NUM": 31,
+          "ASR": 25.707,
+          "SR": 109
+        },
+        "Colorectal_Cancer": {
+          "SR": 102,
+          "NUM": 11,
+          "ASR": 9.147
+        },
+        "Diabetes": {
+          "ASR": null,
+          "NUM": null,
+          "SR": null
+        },
+        "Respiratory_System_Diseases": {
+          "ASR": 21.95,
+          "SR": 146,
+          "NUM": 27
+        },
+        "Circulatory_System_Diseases": {
+          "NUM": 79,
+          "ASR": 65.909,
+          "SR": 147
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      }
+    },
+    "Corangamite": {
+      "2010-2014": {
+        "Cancer": {
+          "ASR": 102.2,
+          "SR": 102,
+          "NUM": 96
+        },
+        "Lung_Cancer": {
+          "SR": 69,
+          "ASR": 14.6,
+          "NUM": 14
+        },
+        "COPD": {
+          "ASR": 5.1,
+          "NUM": 5,
+          "SR": 60
+        },
+        "Circulatory_System_Diseases": {
+          "ASR": 55.5,
+          "SR": 122,
+          "NUM": 52
+        },
+        "Colorectal_Cancer": {
+          "ASR": 6.4,
+          "NUM": 6,
+          "SR": 72
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 8,
+          "SR": 100,
+          "ASR": 8.3
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 29.7,
+          "SR": 182,
+          "NUM": 13
+        },
+        "Respiratory_System_Diseases": {
+          "NUM": 14,
+          "SR": 99,
+          "ASR": 14.6
+        },
+        "Ischaemic_Heart_Disease": {
+          "ASR": 33.0,
+          "SR": 137,
+          "NUM": 31
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      },
+      "2011-2015": {
+        "Lung_Cancer": {
+          "SR": 90,
+          "ASR": 18.921,
+          "NUM": 18
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 10,
+          "SR": 131,
+          "ASR": 10.559
+        },
+        "Cancer": {
+          "ASR": 108.627,
+          "NUM": 101,
+          "SR": 108
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 32.318,
+          "NUM": 14,
+          "SR": 200
+        },
+        "COPD": {
+          "NUM": 8,
+          "ASR": 8.174,
+          "SR": 93
+        },
+        "Ischaemic_Heart_Disease": {
+          "NUM": 33,
+          "ASR": 35.42,
+          "SR": 151
+        },
+        "Colorectal_Cancer": {
+          "SR": 109,
+          "NUM": 9,
+          "ASR": 9.735
+        },
+        "Diabetes": {
+          "ASR": 5.343,
+          "NUM": 5,
+          "SR": 88
+        },
+        "Respiratory_System_Diseases": {
+          "ASR": 18.846,
+          "SR": 125,
+          "NUM": 18
+        },
+        "Circulatory_System_Diseases": {
+          "NUM": 55,
+          "ASR": 59.285,
+          "SR": 132
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      }
+    },
+    "Glenelg": {
+      "2010-2014": {
+        "Cancer": {
+          "ASR": 106.1,
+          "SR": 105,
+          "NUM": 123
+        },
+        "Lung_Cancer": {
+          "SR": 69,
+          "ASR": 14.4,
+          "NUM": 17
+        },
+        "COPD": {
+          "ASR": 6.7,
+          "NUM": 8,
+          "SR": 79
+        },
+        "Circulatory_System_Diseases": {
+          "ASR": 53.0,
+          "SR": 116,
+          "NUM": 61
+        },
+        "Colorectal_Cancer": {
+          "ASR": 16.4,
+          "NUM": 19,
+          "SR": 183
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 6,
+          "SR": 62,
+          "ASR": 5.2
+        },
+        "Breast_Cancer_Females": {
+          "ASR": null,
+          "SR": null,
+          "NUM": null
+        },
+        "Respiratory_System_Diseases": {
+          "NUM": 17,
+          "SR": 98,
+          "ASR": 14.5
+        },
+        "Ischaemic_Heart_Disease": {
+          "ASR": 32.7,
+          "SR": 136,
+          "NUM": 38
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      },
+      "2011-2015": {
+        "Lung_Cancer": {
+          "SR": 76,
+          "ASR": 16.009,
+          "NUM": 19
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 13,
+          "SR": 137,
+          "ASR": 11.08
+        },
+        "Cancer": {
+          "ASR": 109.684,
+          "NUM": 128,
+          "SR": 109
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 12.968,
+          "NUM": 7,
+          "SR": 80
+        },
+        "COPD": {
+          "NUM": 11,
+          "ASR": 9.107,
+          "SR": 103
+        },
+        "Ischaemic_Heart_Disease": {
+          "NUM": 44,
+          "ASR": 37.602,
+          "SR": 160
+        },
+        "Colorectal_Cancer": {
+          "SR": 163,
+          "NUM": 17,
+          "ASR": 14.583
+        },
+        "Diabetes": {
+          "ASR": 5.129,
+          "NUM": 6,
+          "SR": 85
+        },
+        "Respiratory_System_Diseases": {
+          "ASR": 16.082,
+          "SR": 107,
+          "NUM": 19
+        },
+        "Circulatory_System_Diseases": {
+          "NUM": 72,
+          "ASR": 62.009,
+          "SR": 139
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      }
+    },
+    "Golden Plains": {
+      "2010-2014": {
+        "Cancer": {
+          "ASR": 107.3,
+          "SR": 107,
+          "NUM": 103
+        },
+        "Lung_Cancer": {
+          "SR": 104,
+          "ASR": 22.0,
+          "NUM": 21
+        },
+        "COPD": {
+          "ASR": 9.8,
+          "NUM": 9,
+          "SR": 116
+        },
+        "Circulatory_System_Diseases": {
+          "ASR": 34.8,
+          "SR": 76,
+          "NUM": 33
+        },
+        "Colorectal_Cancer": {
+          "ASR": 12.5,
+          "NUM": 12,
+          "SR": 140
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 7,
+          "SR": 90,
+          "ASR": 7.5
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 23.9,
+          "SR": 146,
+          "NUM": 11
+        },
+        "Respiratory_System_Diseases": {
+          "NUM": 16,
+          "SR": 118,
+          "ASR": 17.3
+        },
+        "Ischaemic_Heart_Disease": {
+          "ASR": 15.6,
+          "SR": 65,
+          "NUM": 15
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      },
+      "2011-2015": {
+        "Lung_Cancer": {
+          "SR": 121,
+          "ASR": 25.386,
+          "NUM": 25
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 7,
+          "SR": 90,
+          "ASR": 7.249
+        },
+        "Cancer": {
+          "ASR": 114.388,
+          "NUM": 113,
+          "SR": 114
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 29.633,
+          "NUM": 14,
+          "SR": 184
+        },
+        "COPD": {
+          "NUM": 10,
+          "ASR": 10.543,
+          "SR": 120
+        },
+        "Ischaemic_Heart_Disease": {
+          "NUM": 14,
+          "ASR": 14.177,
+          "SR": 60
+        },
+        "Colorectal_Cancer": {
+          "SR": 136,
+          "NUM": 12,
+          "ASR": 12.151
+        },
+        "Diabetes": {
+          "ASR": null,
+          "NUM": null,
+          "SR": null
+        },
+        "Respiratory_System_Diseases": {
+          "ASR": 17.827,
+          "SR": 119,
+          "NUM": 17
+        },
+        "Circulatory_System_Diseases": {
+          "NUM": 34,
+          "ASR": 34.764,
+          "SR": 78
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      }
+    },
+    "Greater Geelong": {
+      "2010-2014": {
+        "Cancer": {
+          "ASR": 109.7,
+          "SR": 109,
+          "NUM": 1220
+        },
+        "Lung_Cancer": {
+          "SR": 101,
+          "ASR": 21.2,
+          "NUM": 238
+        },
+        "COPD": {
+          "ASR": 9.7,
+          "NUM": 111,
+          "SR": 115
+        },
+        "Circulatory_System_Diseases": {
+          "ASR": 45.5,
+          "SR": 100,
+          "NUM": 505
+        },
+        "Colorectal_Cancer": {
+          "ASR": 11.8,
+          "NUM": 131,
+          "SR": 132
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 94,
+          "SR": 101,
+          "ASR": 8.4
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 19.4,
+          "SR": 119,
+          "NUM": 107
+        },
+        "Respiratory_System_Diseases": {
+          "NUM": 185,
+          "SR": 111,
+          "ASR": 16.4
+        },
+        "Ischaemic_Heart_Disease": {
+          "ASR": 25.0,
+          "SR": 104,
+          "NUM": 278
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      },
+      "2011-2015": {
+        "Lung_Cancer": {
+          "SR": 103,
+          "ASR": 21.522,
+          "NUM": 246
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 91,
+          "SR": 99,
+          "ASR": 8.007
+        },
+        "Cancer": {
+          "ASR": 106.369,
+          "NUM": 1203,
+          "SR": 106
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 15.844,
+          "NUM": 89,
+          "SR": 98
+        },
+        "COPD": {
+          "NUM": 126,
+          "ASR": 10.864,
+          "SR": 123
+        },
+        "Ischaemic_Heart_Disease": {
+          "NUM": 284,
+          "ASR": 25.155,
+          "SR": 107
+        },
+        "Colorectal_Cancer": {
+          "SR": 119,
+          "NUM": 120,
+          "ASR": 10.675
+        },
+        "Diabetes": {
+          "ASR": 6.53,
+          "NUM": 74,
+          "SR": 108
+        },
+        "Respiratory_System_Diseases": {
+          "ASR": 18.17,
+          "SR": 121,
+          "NUM": 208
+        },
+        "Circulatory_System_Diseases": {
+          "NUM": 516,
+          "ASR": 45.736,
+          "SR": 102
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      }
+    },
+    "Hepburn": {
+      "2010-2014": {
+        "Cancer": {
+          "ASR": 115.9,
+          "SR": 115,
+          "NUM": 113
+        },
+        "Lung_Cancer": {
+          "SR": 106,
+          "ASR": 22.3,
+          "NUM": 22
+        },
+        "COPD": {
+          "ASR": 10.6,
+          "NUM": 11,
+          "SR": 125
+        },
+        "Circulatory_System_Diseases": {
+          "ASR": 43.6,
+          "SR": 96,
+          "NUM": 42
+        },
+        "Colorectal_Cancer": {
+          "ASR": 14.4,
+          "NUM": 14,
+          "SR": 161
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 9,
+          "SR": 111,
+          "ASR": 9.2
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 15.4,
+          "SR": 94,
+          "NUM": 7
+        },
+        "Respiratory_System_Diseases": {
+          "NUM": 13,
+          "SR": 88,
+          "ASR": 13.0
+        },
+        "Ischaemic_Heart_Disease": {
+          "ASR": 24.8,
+          "SR": 103,
+          "NUM": 24
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      },
+      "2011-2015": {
+        "Lung_Cancer": {
+          "SR": 99,
+          "ASR": 20.664,
+          "NUM": 21
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 11,
+          "SR": 143,
+          "ASR": 11.52
+        },
+        "Cancer": {
+          "ASR": 112.553,
+          "NUM": 112,
+          "SR": 112
+        },
+        "Breast_Cancer_Females": {
+          "ASR": null,
+          "NUM": null,
+          "SR": null
+        },
+        "COPD": {
+          "NUM": 11,
+          "ASR": 11.021,
+          "SR": 125
+        },
+        "Ischaemic_Heart_Disease": {
+          "NUM": 21,
+          "ASR": 21.682,
+          "SR": 92
+        },
+        "Colorectal_Cancer": {
+          "SR": 150,
+          "NUM": 13,
+          "ASR": 13.396
+        },
+        "Diabetes": {
+          "ASR": 8.262,
+          "NUM": 8,
+          "SR": 137
+        },
+        "Respiratory_System_Diseases": {
+          "ASR": 14.167,
+          "SR": 94,
+          "NUM": 14
+        },
+        "Circulatory_System_Diseases": {
+          "NUM": 44,
+          "ASR": 44.623,
+          "SR": 100
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      }
+    },
+    "Hindmarsh": {
+      "2010-2014": {
+        "Cancer": {
+          "ASR": 127.3,
+          "SR": 126,
+          "NUM": 45
+        },
+        "Lung_Cancer": {
+          "SR": 95,
+          "ASR": 19.9,
+          "NUM": 7
+        },
+        "COPD": {
+          "ASR": null,
+          "NUM": null,
+          "SR": null
+        },
+        "Circulatory_System_Diseases": {
+          "ASR": 57.1,
+          "SR": 125,
+          "NUM": 20
+        },
+        "Colorectal_Cancer": {
+          "ASR": 22.8,
+          "NUM": 8,
+          "SR": 254
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": null,
+          "SR": null,
+          "ASR": null
+        },
+        "Breast_Cancer_Females": {
+          "ASR": null,
+          "SR": null,
+          "NUM": null
+        },
+        "Respiratory_System_Diseases": {
+          "NUM": 5,
+          "SR": 90,
+          "ASR": 13.3
+        },
+        "Ischaemic_Heart_Disease": {
+          "ASR": 31.8,
+          "SR": 132,
+          "NUM": 11
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      },
+      "2011-2015": {
+        "Lung_Cancer": {
+          "SR": 106,
+          "ASR": 22.272,
+          "NUM": 8
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": null,
+          "SR": null,
+          "ASR": null
+        },
+        "Cancer": {
+          "ASR": 123.584,
+          "NUM": 44,
+          "SR": 123
+        },
+        "Breast_Cancer_Females": {
+          "ASR": null,
+          "NUM": null,
+          "SR": null
+        },
+        "COPD": {
+          "NUM": null,
+          "ASR": null,
+          "SR": null
+        },
+        "Ischaemic_Heart_Disease": {
+          "NUM": 11,
+          "ASR": 31.995,
+          "SR": 136
+        },
+        "Colorectal_Cancer": {
+          "SR": 180,
+          "NUM": 6,
+          "ASR": 16.116
+        },
+        "Diabetes": {
+          "ASR": null,
+          "NUM": null,
+          "SR": null
+        },
+        "Respiratory_System_Diseases": {
+          "ASR": 20.047,
+          "SR": 133,
+          "NUM": 7
+        },
+        "Circulatory_System_Diseases": {
+          "NUM": 22,
+          "ASR": 62.108,
+          "SR": 139
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      }
+    },
+    "Horsham": {
+      "2010-2014": {
+        "Cancer": {
+          "ASR": 106.2,
+          "SR": 106,
+          "NUM": 107
+        },
+        "Lung_Cancer": {
+          "SR": 84,
+          "ASR": 17.7,
+          "NUM": 18
+        },
+        "COPD": {
+          "ASR": 6.8,
+          "NUM": 7,
+          "SR": 80
+        },
+        "Circulatory_System_Diseases": {
+          "ASR": 53.6,
+          "SR": 118,
+          "NUM": 54
+        },
+        "Colorectal_Cancer": {
+          "ASR": 10.9,
+          "NUM": 11,
+          "SR": 122
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 15,
+          "SR": 177,
+          "ASR": 14.8
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 12.2,
+          "SR": 75,
+          "NUM": 6
+        },
+        "Respiratory_System_Diseases": {
+          "NUM": 15,
+          "SR": 99,
+          "ASR": 14.7
+        },
+        "Ischaemic_Heart_Disease": {
+          "ASR": 28.7,
+          "SR": 119,
+          "NUM": 29
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      },
+      "2011-2015": {
+        "Lung_Cancer": {
+          "SR": 75,
+          "ASR": 15.656,
+          "NUM": 16
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 17,
+          "SR": 207,
+          "ASR": 16.71
+        },
+        "Cancer": {
+          "ASR": 106.869,
+          "NUM": 108,
+          "SR": 106
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 12.155,
+          "NUM": 6,
+          "SR": 75
+        },
+        "COPD": {
+          "NUM": 8,
+          "ASR": 7.71,
+          "SR": 87
+        },
+        "Ischaemic_Heart_Disease": {
+          "NUM": 28,
+          "ASR": 27.682,
+          "SR": 118
+        },
+        "Colorectal_Cancer": {
+          "SR": 111,
+          "NUM": 10,
+          "ASR": 9.927
+        },
+        "Diabetes": {
+          "ASR": 8.87,
+          "NUM": 9,
+          "SR": 147
+        },
+        "Respiratory_System_Diseases": {
+          "ASR": 12.699,
+          "SR": 85,
+          "NUM": 13
+        },
+        "Circulatory_System_Diseases": {
+          "NUM": 57,
+          "ASR": 56.478,
+          "SR": 126
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      }
+    },
+    "Moyne": {
+      "2010-2014": {
+        "Cancer": {
+          "ASR": 101.6,
+          "SR": 101,
+          "NUM": 91
+        },
+        "Lung_Cancer": {
+          "SR": 60,
+          "ASR": 12.7,
+          "NUM": 12
+        },
+        "COPD": {
+          "ASR": 6.8,
+          "NUM": 6,
+          "SR": 81
+        },
+        "Circulatory_System_Diseases": {
+          "ASR": 41.8,
+          "SR": 92,
+          "NUM": 37
+        },
+        "Colorectal_Cancer": {
+          "ASR": 5.9,
+          "NUM": 5,
+          "SR": 66
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": null,
+          "SR": null,
+          "ASR": null
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 14.8,
+          "SR": 91,
+          "NUM": 6
+        },
+        "Respiratory_System_Diseases": {
+          "NUM": 14,
+          "SR": 109,
+          "ASR": 16.1
+        },
+        "Ischaemic_Heart_Disease": {
+          "ASR": 24.0,
+          "SR": 100,
+          "NUM": 21
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      },
+      "2011-2015": {
+        "Lung_Cancer": {
+          "SR": 86,
+          "ASR": 17.993,
+          "NUM": 16
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 5,
+          "SR": 73,
+          "ASR": 5.92
+        },
+        "Cancer": {
+          "ASR": 111.424,
+          "NUM": 100,
+          "SR": 111
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 14.788,
+          "NUM": 6,
+          "SR": 92
+        },
+        "COPD": {
+          "NUM": 5,
+          "ASR": 5.812,
+          "SR": 66
+        },
+        "Ischaemic_Heart_Disease": {
+          "NUM": 17,
+          "ASR": 18.415,
+          "SR": 78
+        },
+        "Colorectal_Cancer": {
+          "SR": 77,
+          "NUM": 6,
+          "ASR": 6.895
+        },
+        "Diabetes": {
+          "ASR": null,
+          "NUM": null,
+          "SR": null
+        },
+        "Respiratory_System_Diseases": {
+          "ASR": 11.576,
+          "SR": 77,
+          "NUM": 10
+        },
+        "Circulatory_System_Diseases": {
+          "NUM": 34,
+          "ASR": 38.188,
+          "SR": 85
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      }
+    },
+    "Northern Grampians": {
+      "2010-2014": {
+        "Cancer": {
+          "ASR": 128.8,
+          "SR": 128,
+          "NUM": 97
+        },
+        "Lung_Cancer": {
+          "SR": 111,
+          "ASR": 23.3,
+          "NUM": 18
+        },
+        "COPD": {
+          "ASR": 16.5,
+          "NUM": 13,
+          "SR": 195
+        },
+        "Circulatory_System_Diseases": {
+          "ASR": 57.7,
+          "SR": 127,
+          "NUM": 43
+        },
+        "Colorectal_Cancer": {
+          "ASR": 13.3,
+          "NUM": 10,
+          "SR": 148
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 10,
+          "SR": 160,
+          "ASR": 13.3
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 28.7,
+          "SR": 176,
+          "NUM": 10
+        },
+        "Respiratory_System_Diseases": {
+          "NUM": 18,
+          "SR": 160,
+          "ASR": 23.5
+        },
+        "Ischaemic_Heart_Disease": {
+          "ASR": 22.6,
+          "SR": 94,
+          "NUM": 17
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      },
+      "2011-2015": {
+        "Lung_Cancer": {
+          "SR": 128,
+          "ASR": 26.781,
+          "NUM": 21
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 9,
+          "SR": 146,
+          "ASR": 11.796
+        },
+        "Cancer": {
+          "ASR": 132.509,
+          "NUM": 101,
+          "SR": 132
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 34.256,
+          "NUM": 12,
+          "SR": 212
+        },
+        "COPD": {
+          "NUM": 13,
+          "ASR": 16.192,
+          "SR": 184
+        },
+        "Ischaemic_Heart_Disease": {
+          "NUM": 13,
+          "ASR": 17.104,
+          "SR": 73
+        },
+        "Colorectal_Cancer": {
+          "SR": 132,
+          "NUM": 9,
+          "ASR": 11.851
+        },
+        "Diabetes": {
+          "ASR": 11.694,
+          "NUM": 9,
+          "SR": 193
+        },
+        "Respiratory_System_Diseases": {
+          "ASR": 24.438,
+          "SR": 163,
+          "NUM": 19
+        },
+        "Circulatory_System_Diseases": {
+          "NUM": 39,
+          "ASR": 51.705,
+          "SR": 115
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      }
+    },
+    "Pyrenees": {
+      "2010-2014": {
+        "Cancer": {
+          "ASR": 132.7,
+          "SR": 132,
+          "NUM": 65
+        },
+        "Lung_Cancer": {
+          "SR": 139,
+          "ASR": 29.4,
+          "NUM": 15
+        },
+        "COPD": {
+          "ASR": null,
+          "NUM": null,
+          "SR": null
+        },
+        "Circulatory_System_Diseases": {
+          "ASR": 31.1,
+          "SR": 68,
+          "NUM": 15
+        },
+        "Colorectal_Cancer": {
+          "ASR": null,
+          "NUM": null,
+          "SR": null
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": null,
+          "SR": null,
+          "ASR": null
+        },
+        "Breast_Cancer_Females": {
+          "ASR": null,
+          "SR": null,
+          "NUM": null
+        },
+        "Respiratory_System_Diseases": {
+          "NUM": 7,
+          "SR": 88,
+          "ASR": 13.0
+        },
+        "Ischaemic_Heart_Disease": {
+          "ASR": 19.2,
+          "SR": 80,
+          "NUM": 9
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      },
+      "2011-2015": {
+        "Lung_Cancer": {
+          "SR": 147,
+          "ASR": 30.783,
+          "NUM": 16
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": null,
+          "SR": null,
+          "ASR": null
+        },
+        "Cancer": {
+          "ASR": 134.825,
+          "NUM": 67,
+          "SR": 134
+        },
+        "Breast_Cancer_Females": {
+          "ASR": null,
+          "NUM": null,
+          "SR": null
+        },
+        "COPD": {
+          "NUM": null,
+          "ASR": null,
+          "SR": null
+        },
+        "Ischaemic_Heart_Disease": {
+          "NUM": 8,
+          "ASR": 16.972,
+          "SR": 72
+        },
+        "Colorectal_Cancer": {
+          "SR": null,
+          "NUM": null,
+          "ASR": null
+        },
+        "Diabetes": {
+          "ASR": null,
+          "NUM": null,
+          "SR": null
+        },
+        "Respiratory_System_Diseases": {
+          "ASR": 12.833,
+          "SR": 85,
+          "NUM": 7
+        },
+        "Circulatory_System_Diseases": {
+          "NUM": 16,
+          "ASR": 32.408,
+          "SR": 72
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      }
+    },
+    "Queenscliffe": {
+      "2010-2014": {
+        "Cancer": {
+          "ASR": 90.7,
+          "SR": 90,
+          "NUM": 22
+        },
+        "Lung_Cancer": {
+          "SR": null,
+          "ASR": null,
+          "NUM": null
+        },
+        "COPD": {
+          "ASR": 0.0,
+          "NUM": 0,
+          "SR": 0
+        },
+        "Circulatory_System_Diseases": {
+          "ASR": 39.7,
+          "SR": 87,
+          "NUM": 10
+        },
+        "Colorectal_Cancer": {
+          "ASR": null,
+          "NUM": null,
+          "SR": null
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 0,
+          "SR": 0,
+          "ASR": 0.0
+        },
+        "Breast_Cancer_Females": {
+          "ASR": null,
+          "SR": null,
+          "NUM": null
+        },
+        "Respiratory_System_Diseases": {
+          "NUM": null,
+          "SR": null,
+          "ASR": null
+        },
+        "Ischaemic_Heart_Disease": {
+          "ASR": 27.3,
+          "SR": 113,
+          "NUM": 7
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      },
+      "2011-2015": {
+        "Lung_Cancer": {
+          "SR": null,
+          "ASR": null,
+          "NUM": null
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 0,
+          "SR": 0,
+          "ASR": 0.0
+        },
+        "Cancer": {
+          "ASR": 89.859,
+          "NUM": 22,
+          "SR": 89
+        },
+        "Breast_Cancer_Females": {
+          "ASR": null,
+          "NUM": null,
+          "SR": null
+        },
+        "COPD": {
+          "NUM": 0,
+          "ASR": 0.0,
+          "SR": 0
+        },
+        "Ischaemic_Heart_Disease": {
+          "NUM": null,
+          "ASR": null,
+          "SR": null
+        },
+        "Colorectal_Cancer": {
+          "SR": null,
+          "NUM": null,
+          "ASR": null
+        },
+        "Diabetes": {
+          "ASR": null,
+          "NUM": null,
+          "SR": null
+        },
+        "Respiratory_System_Diseases": {
+          "ASR": null,
+          "SR": null,
+          "NUM": null
+        },
+        "Circulatory_System_Diseases": {
+          "NUM": 7,
+          "ASR": 30.19,
+          "SR": 67
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      }
+    },
+    "Southern Grampians": {
+      "2010-2014": {
+        "Cancer": {
+          "ASR": 99.8,
+          "SR": 99,
+          "NUM": 94
+        },
+        "Lung_Cancer": {
+          "SR": 83,
+          "ASR": 17.5,
+          "NUM": 17
+        },
+        "COPD": {
+          "ASR": 10.1,
+          "NUM": 10,
+          "SR": 119
+        },
+        "Circulatory_System_Diseases": {
+          "ASR": 48.6,
+          "SR": 107,
+          "NUM": 46
+        },
+        "Colorectal_Cancer": {
+          "ASR": 11.6,
+          "NUM": 11,
+          "SR": 129
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 7,
+          "SR": 88,
+          "ASR": 7.3
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 19.8,
+          "SR": 121,
+          "NUM": 9
+        },
+        "Respiratory_System_Diseases": {
+          "NUM": 15,
+          "SR": 105,
+          "ASR": 15.5
+        },
+        "Ischaemic_Heart_Disease": {
+          "ASR": 23.2,
+          "SR": 96,
+          "NUM": 22
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      },
+      "2011-2015": {
+        "Lung_Cancer": {
+          "SR": 93,
+          "ASR": 19.547,
+          "NUM": 19
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 7,
+          "SR": 91,
+          "ASR": 7.337
+        },
+        "Cancer": {
+          "ASR": 117.971,
+          "NUM": 111,
+          "SR": 117
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 24.27,
+          "NUM": 11,
+          "SR": 150
+        },
+        "COPD": {
+          "NUM": 13,
+          "ASR": 13.105,
+          "SR": 149
+        },
+        "Ischaemic_Heart_Disease": {
+          "NUM": 24,
+          "ASR": 25.361,
+          "SR": 108
+        },
+        "Colorectal_Cancer": {
+          "SR": 119,
+          "NUM": 10,
+          "ASR": 10.62
+        },
+        "Diabetes": {
+          "ASR": null,
+          "NUM": null,
+          "SR": null
+        },
+        "Respiratory_System_Diseases": {
+          "ASR": 19.653,
+          "SR": 131,
+          "NUM": 19
+        },
+        "Circulatory_System_Diseases": {
+          "NUM": 45,
+          "ASR": 47.748,
+          "SR": 107
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      }
+    },
+    "Surf Coast": {
+      "2010-2014": {
+        "Cancer": {
+          "ASR": 76.0,
+          "SR": 76,
+          "NUM": 108
+        },
+        "Lung_Cancer": {
+          "SR": 64,
+          "ASR": 13.4,
+          "NUM": 19
+        },
+        "COPD": {
+          "ASR": null,
+          "NUM": null,
+          "SR": null
+        },
+        "Circulatory_System_Diseases": {
+          "ASR": 32.1,
+          "SR": 70,
+          "NUM": 45
+        },
+        "Colorectal_Cancer": {
+          "ASR": 7.8,
+          "NUM": 11,
+          "SR": 87
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": null,
+          "SR": null,
+          "ASR": null
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 13.2,
+          "SR": 81,
+          "NUM": 9
+        },
+        "Respiratory_System_Diseases": {
+          "NUM": 5,
+          "SR": 25,
+          "ASR": 3.6
+        },
+        "Ischaemic_Heart_Disease": {
+          "ASR": 18.4,
+          "SR": 76,
+          "NUM": 26
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      },
+      "2011-2015": {
+        "Lung_Cancer": {
+          "SR": 65,
+          "ASR": 13.61,
+          "NUM": 20
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 6,
+          "SR": 51,
+          "ASR": 4.137
+        },
+        "Cancer": {
+          "ASR": 89.788,
+          "NUM": 132,
+          "SR": 89
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 18.33,
+          "NUM": 13,
+          "SR": 114
+        },
+        "COPD": {
+          "NUM": null,
+          "ASR": null,
+          "SR": null
+        },
+        "Ischaemic_Heart_Disease": {
+          "NUM": 31,
+          "ASR": 21.235,
+          "SR": 90
+        },
+        "Colorectal_Cancer": {
+          "SR": 115,
+          "NUM": 15,
+          "ASR": 10.275
+        },
+        "Diabetes": {
+          "ASR": null,
+          "NUM": null,
+          "SR": null
+        },
+        "Respiratory_System_Diseases": {
+          "ASR": 4.195,
+          "SR": 28,
+          "NUM": 6
+        },
+        "Circulatory_System_Diseases": {
+          "NUM": 50,
+          "ASR": 34.503,
+          "SR": 77
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      }
+    },
+    "Warrnambool": {
+      "2010-2014": {
+        "Cancer": {
+          "ASR": 119.0,
+          "SR": 118,
+          "NUM": 189
+        },
+        "Lung_Cancer": {
+          "SR": 112,
+          "ASR": 23.5,
+          "NUM": 38
+        },
+        "COPD": {
+          "ASR": 9.8,
+          "NUM": 16,
+          "SR": 116
+        },
+        "Circulatory_System_Diseases": {
+          "ASR": 43.7,
+          "SR": 96,
+          "NUM": 69
+        },
+        "Colorectal_Cancer": {
+          "ASR": 9.3,
+          "NUM": 15,
+          "SR": 104
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 19,
+          "SR": 142,
+          "ASR": 11.8
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 12.4,
+          "SR": 76,
+          "NUM": 10
+        },
+        "Respiratory_System_Diseases": {
+          "NUM": 29,
+          "SR": 121,
+          "ASR": 17.9
+        },
+        "Ischaemic_Heart_Disease": {
+          "ASR": 18.0,
+          "SR": 75,
+          "NUM": 29
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      },
+      "2011-2015": {
+        "Lung_Cancer": {
+          "SR": 99,
+          "ASR": 20.766,
+          "NUM": 34
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 21,
+          "SR": 159,
+          "ASR": 12.853
+        },
+        "Cancer": {
+          "ASR": 105.157,
+          "NUM": 169,
+          "SR": 105
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 13.496,
+          "NUM": 11,
+          "SR": 84
+        },
+        "COPD": {
+          "NUM": 21,
+          "ASR": 12.651,
+          "SR": 143
+        },
+        "Ischaemic_Heart_Disease": {
+          "NUM": 32,
+          "ASR": 19.608,
+          "SR": 83
+        },
+        "Colorectal_Cancer": {
+          "SR": 83,
+          "NUM": 12,
+          "ASR": 7.395
+        },
+        "Diabetes": {
+          "ASR": 6.687,
+          "NUM": 11,
+          "SR": 111
+        },
+        "Respiratory_System_Diseases": {
+          "ASR": 20.069,
+          "SR": 134,
+          "NUM": 33
+        },
+        "Circulatory_System_Diseases": {
+          "NUM": 75,
+          "ASR": 46.714,
+          "SR": 104
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      }
+    },
+    "West Wimmera": {
+      "2010-2014": {
+        "Cancer": {
+          "ASR": 138.9,
+          "SR": 138,
+          "NUM": 39
+        },
+        "Lung_Cancer": {
+          "SR": 177,
+          "ASR": 37.3,
+          "NUM": 11
+        },
+        "COPD": {
+          "ASR": null,
+          "NUM": null,
+          "SR": null
+        },
+        "Circulatory_System_Diseases": {
+          "ASR": 60.3,
+          "SR": 132,
+          "NUM": 17
+        },
+        "Colorectal_Cancer": {
+          "ASR": null,
+          "NUM": null,
+          "SR": null
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": null,
+          "SR": null,
+          "ASR": null
+        },
+        "Breast_Cancer_Females": {
+          "ASR": null,
+          "SR": null,
+          "NUM": null
+        },
+        "Respiratory_System_Diseases": {
+          "NUM": 5,
+          "SR": 120,
+          "ASR": 17.7
+        },
+        "Ischaemic_Heart_Disease": {
+          "ASR": 27.4,
+          "SR": 114,
+          "NUM": 8
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      },
+      "2011-2015": {
+        "Lung_Cancer": {
+          "SR": 151,
+          "ASR": 31.71,
+          "NUM": 9
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": null,
+          "SR": null,
+          "ASR": null
+        },
+        "Cancer": {
+          "ASR": 133.247,
+          "NUM": 36,
+          "SR": 133
+        },
+        "Breast_Cancer_Females": {
+          "ASR": null,
+          "NUM": null,
+          "SR": null
+        },
+        "COPD": {
+          "NUM": null,
+          "ASR": null,
+          "SR": null
+        },
+        "Ischaemic_Heart_Disease": {
+          "NUM": 8,
+          "ASR": 28.036,
+          "SR": 119
+        },
+        "Colorectal_Cancer": {
+          "SR": null,
+          "NUM": null,
+          "ASR": null
+        },
+        "Diabetes": {
+          "ASR": null,
+          "NUM": null,
+          "SR": null
+        },
+        "Respiratory_System_Diseases": {
+          "ASR": 20.131,
+          "SR": 134,
+          "NUM": 6
+        },
+        "Circulatory_System_Diseases": {
+          "NUM": 17,
+          "ASR": 62.971,
+          "SR": 141
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      }
+    },
+    "Yarriambiack": {
+      "2010-2014": {
+        "Cancer": {
+          "ASR": 114.5,
+          "SR": 114,
+          "NUM": 53
+        },
+        "Lung_Cancer": {
+          "SR": 129,
+          "ASR": 27.1,
+          "NUM": 13
+        },
+        "COPD": {
+          "ASR": null,
+          "NUM": null,
+          "SR": null
+        },
+        "Circulatory_System_Diseases": {
+          "ASR": 58.4,
+          "SR": 128,
+          "NUM": 27
+        },
+        "Colorectal_Cancer": {
+          "ASR": null,
+          "NUM": null,
+          "SR": null
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 5,
+          "SR": 127,
+          "ASR": 10.6
+        },
+        "Breast_Cancer_Females": {
+          "ASR": null,
+          "SR": null,
+          "NUM": null
+        },
+        "Respiratory_System_Diseases": {
+          "NUM": 10,
+          "SR": 140,
+          "ASR": 20.7
+        },
+        "Ischaemic_Heart_Disease": {
+          "ASR": 40.8,
+          "SR": 169,
+          "NUM": 19
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      },
+      "2011-2015": {
+        "Lung_Cancer": {
+          "SR": 119,
+          "ASR": 24.987,
+          "NUM": 12
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": null,
+          "SR": null,
+          "ASR": null
+        },
+        "Cancer": {
+          "ASR": 105.647,
+          "NUM": 49,
+          "SR": 105
+        },
+        "Breast_Cancer_Females": {
+          "ASR": null,
+          "NUM": null,
+          "SR": null
+        },
+        "COPD": {
+          "NUM": null,
+          "ASR": null,
+          "SR": null
+        },
+        "Ischaemic_Heart_Disease": {
+          "NUM": 17,
+          "ASR": 36.392,
+          "SR": 155
+        },
+        "Colorectal_Cancer": {
+          "SR": null,
+          "NUM": null,
+          "ASR": null
+        },
+        "Diabetes": {
+          "ASR": null,
+          "NUM": null,
+          "SR": null
+        },
+        "Respiratory_System_Diseases": {
+          "ASR": 14.426,
+          "SR": 96,
+          "NUM": 7
+        },
+        "Circulatory_System_Diseases": {
+          "NUM": 25,
+          "ASR": 53.919,
+          "SR": 120
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      }
+    }
+  },
+  "Eastern Melbourne": {
+    "Banyule": {
+      "2010-2014": {
+        "Cancer": {
+          "ASR": 87.0,
+          "SR": 86,
+          "NUM": 529
+        },
+        "Lung_Cancer": {
+          "SR": 64,
+          "ASR": 13.4,
+          "NUM": 82
+        },
+        "COPD": {
+          "ASR": 5.0,
+          "NUM": 31,
+          "SR": 60
+        },
+        "Circulatory_System_Diseases": {
+          "ASR": 35.2,
+          "SR": 77,
+          "NUM": 214
+        },
+        "Colorectal_Cancer": {
+          "ASR": 9.2,
+          "NUM": 56,
+          "SR": 103
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 51,
+          "SR": 101,
+          "ASR": 8.4
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 17.7,
+          "SR": 108,
+          "NUM": 55
+        },
+        "Respiratory_System_Diseases": {
+          "NUM": 59,
+          "SR": 65,
+          "ASR": 9.7
+        },
+        "Ischaemic_Heart_Disease": {
+          "ASR": 16.6,
+          "SR": 69,
+          "NUM": 101
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      },
+      "2011-2015": {
+        "Lung_Cancer": {
+          "SR": 66,
+          "ASR": 13.831,
+          "NUM": 85
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 49,
+          "SR": 99,
+          "ASR": 7.996
+        },
+        "Cancer": {
+          "ASR": 86.332,
+          "NUM": 528,
+          "SR": 86
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 19.162,
+          "NUM": 60,
+          "SR": 119
+        },
+        "COPD": {
+          "NUM": 35,
+          "ASR": 5.654,
+          "SR": 64
+        },
+        "Ischaemic_Heart_Disease": {
+          "NUM": 105,
+          "ASR": 17.17,
+          "SR": 73
+        },
+        "Colorectal_Cancer": {
+          "SR": 99,
+          "NUM": 54,
+          "ASR": 8.834
+        },
+        "Diabetes": {
+          "ASR": 4.403,
+          "NUM": 27,
+          "SR": 73
+        },
+        "Respiratory_System_Diseases": {
+          "ASR": 10.236,
+          "SR": 68,
+          "NUM": 63
+        },
+        "Circulatory_System_Diseases": {
+          "NUM": 217,
+          "ASR": 35.506,
+          "SR": 79
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      }
+    },
+    "Boroondara": {
+      "2010-2014": {
+        "Cancer": {
+          "ASR": 73.8,
+          "SR": 73,
+          "NUM": 570
+        },
+        "Lung_Cancer": {
+          "SR": 57,
+          "ASR": 11.9,
+          "NUM": 92
+        },
+        "COPD": {
+          "ASR": 2.9,
+          "NUM": 22,
+          "SR": 34
+        },
+        "Circulatory_System_Diseases": {
+          "ASR": 20.9,
+          "SR": 46,
+          "NUM": 161
+        },
+        "Colorectal_Cancer": {
+          "ASR": 6.3,
+          "NUM": 49,
+          "SR": 71
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 39,
+          "SR": 61,
+          "ASR": 5.1
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 14.1,
+          "SR": 86,
+          "NUM": 57
+        },
+        "Respiratory_System_Diseases": {
+          "NUM": 38,
+          "SR": 34,
+          "ASR": 5.0
+        },
+        "Ischaemic_Heart_Disease": {
+          "ASR": 11.3,
+          "SR": 47,
+          "NUM": 87
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      },
+      "2011-2015": {
+        "Lung_Cancer": {
+          "SR": 56,
+          "ASR": 11.65,
+          "NUM": 91
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 41,
+          "SR": 65,
+          "ASR": 5.253
+        },
+        "Cancer": {
+          "ASR": 70.123,
+          "NUM": 549,
+          "SR": 70
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 12.489,
+          "NUM": 51,
+          "SR": 77
+        },
+        "COPD": {
+          "NUM": 20,
+          "ASR": 2.584,
+          "SR": 29
+        },
+        "Ischaemic_Heart_Disease": {
+          "NUM": 78,
+          "ASR": 9.952,
+          "SR": 42
+        },
+        "Colorectal_Cancer": {
+          "SR": 69,
+          "NUM": 48,
+          "ASR": 6.131
+        },
+        "Diabetes": {
+          "ASR": 1.793,
+          "NUM": 14,
+          "SR": 30
+        },
+        "Respiratory_System_Diseases": {
+          "ASR": 4.258,
+          "SR": 28,
+          "NUM": 33
+        },
+        "Circulatory_System_Diseases": {
+          "NUM": 163,
+          "ASR": 20.832,
+          "SR": 47
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      }
+    },
+    "Knox": {
+      "2010-2014": {
+        "Cancer": {
+          "ASR": 92.3,
+          "SR": 92,
+          "NUM": 682
+        },
+        "Lung_Cancer": {
+          "SR": 92,
+          "ASR": 19.4,
+          "NUM": 143
+        },
+        "COPD": {
+          "ASR": 6.9,
+          "NUM": 50,
+          "SR": 82
+        },
+        "Circulatory_System_Diseases": {
+          "ASR": 37.9,
+          "SR": 83,
+          "NUM": 279
+        },
+        "Colorectal_Cancer": {
+          "ASR": 9.3,
+          "NUM": 69,
+          "SR": 104
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 62,
+          "SR": 102,
+          "ASR": 8.5
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 15.3,
+          "SR": 93,
+          "NUM": 58
+        },
+        "Respiratory_System_Diseases": {
+          "NUM": 91,
+          "SR": 85,
+          "ASR": 12.6
+        },
+        "Ischaemic_Heart_Disease": {
+          "ASR": 20.3,
+          "SR": 84,
+          "NUM": 150
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      },
+      "2011-2015": {
+        "Lung_Cancer": {
+          "SR": 92,
+          "ASR": 19.276,
+          "NUM": 144
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 64,
+          "SR": 107,
+          "ASR": 8.63
+        },
+        "Cancer": {
+          "ASR": 90.333,
+          "NUM": 676,
+          "SR": 90
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 15.107,
+          "NUM": 58,
+          "SR": 94
+        },
+        "COPD": {
+          "NUM": 53,
+          "ASR": 7.221,
+          "SR": 82
+        },
+        "Ischaemic_Heart_Disease": {
+          "NUM": 143,
+          "ASR": 19.098,
+          "SR": 81
+        },
+        "Colorectal_Cancer": {
+          "SR": 105,
+          "NUM": 70,
+          "ASR": 9.354
+        },
+        "Diabetes": {
+          "ASR": 4.579,
+          "NUM": 34,
+          "SR": 76
+        },
+        "Respiratory_System_Diseases": {
+          "ASR": 13.06,
+          "SR": 87,
+          "NUM": 96
+        },
+        "Circulatory_System_Diseases": {
+          "NUM": 281,
+          "ASR": 37.69,
+          "SR": 84
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      }
+    },
+    "Manningham": {
+      "2010-2014": {
+        "Cancer": {
+          "ASR": 71.9,
+          "SR": 71,
+          "NUM": 493
+        },
+        "Lung_Cancer": {
+          "SR": 58,
+          "ASR": 12.3,
+          "NUM": 86
+        },
+        "COPD": {
+          "ASR": 1.6,
+          "NUM": 12,
+          "SR": 19
+        },
+        "Circulatory_System_Diseases": {
+          "ASR": 25.9,
+          "SR": 57,
+          "NUM": 178
+        },
+        "Colorectal_Cancer": {
+          "ASR": 7.5,
+          "NUM": 51,
+          "SR": 83
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 38,
+          "SR": 65,
+          "ASR": 5.4
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 14.5,
+          "SR": 89,
+          "NUM": 49
+        },
+        "Respiratory_System_Diseases": {
+          "NUM": 37,
+          "SR": 35,
+          "ASR": 5.2
+        },
+        "Ischaemic_Heart_Disease": {
+          "ASR": 13.1,
+          "SR": 54,
+          "NUM": 90
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      },
+      "2011-2015": {
+        "Lung_Cancer": {
+          "SR": 59,
+          "ASR": 12.448,
+          "NUM": 87
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 38,
+          "SR": 67,
+          "ASR": 5.43
+        },
+        "Cancer": {
+          "ASR": 70.96,
+          "NUM": 485,
+          "SR": 71
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 13.302,
+          "NUM": 45,
+          "SR": 82
+        },
+        "COPD": {
+          "NUM": 16,
+          "ASR": 2.198,
+          "SR": 25
+        },
+        "Ischaemic_Heart_Disease": {
+          "NUM": 88,
+          "ASR": 12.83,
+          "SR": 55
+        },
+        "Colorectal_Cancer": {
+          "SR": 91,
+          "NUM": 55,
+          "ASR": 8.104
+        },
+        "Diabetes": {
+          "ASR": 2.139,
+          "NUM": 15,
+          "SR": 35
+        },
+        "Respiratory_System_Diseases": {
+          "ASR": 5.077,
+          "SR": 34,
+          "NUM": 36
+        },
+        "Circulatory_System_Diseases": {
+          "NUM": 179,
+          "ASR": 26.128,
+          "SR": 58
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      }
+    },
+    "Maroondah": {
+      "2010-2014": {
+        "Cancer": {
+          "ASR": 98.7,
+          "SR": 98,
+          "NUM": 501
+        },
+        "Lung_Cancer": {
+          "SR": 91,
+          "ASR": 19.2,
+          "NUM": 97
+        },
+        "COPD": {
+          "ASR": 6.5,
+          "NUM": 33,
+          "SR": 77
+        },
+        "Circulatory_System_Diseases": {
+          "ASR": 37.2,
+          "SR": 82,
+          "NUM": 189
+        },
+        "Colorectal_Cancer": {
+          "ASR": 10.1,
+          "NUM": 51,
+          "SR": 113
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 51,
+          "SR": 121,
+          "ASR": 10.1
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 19.7,
+          "SR": 121,
+          "NUM": 52
+        },
+        "Respiratory_System_Diseases": {
+          "NUM": 57,
+          "SR": 76,
+          "ASR": 11.3
+        },
+        "Ischaemic_Heart_Disease": {
+          "ASR": 15.2,
+          "SR": 63,
+          "NUM": 77
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      },
+      "2011-2015": {
+        "Lung_Cancer": {
+          "SR": 89,
+          "ASR": 18.765,
+          "NUM": 96
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 50,
+          "SR": 121,
+          "ASR": 9.741
+        },
+        "Cancer": {
+          "ASR": 98.749,
+          "NUM": 507,
+          "SR": 98
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 18.399,
+          "NUM": 49,
+          "SR": 114
+        },
+        "COPD": {
+          "NUM": 32,
+          "ASR": 6.264,
+          "SR": 71
+        },
+        "Ischaemic_Heart_Disease": {
+          "NUM": 84,
+          "ASR": 16.391,
+          "SR": 70
+        },
+        "Colorectal_Cancer": {
+          "SR": 94,
+          "NUM": 43,
+          "ASR": 8.451
+        },
+        "Diabetes": {
+          "ASR": 3.905,
+          "NUM": 20,
+          "SR": 65
+        },
+        "Respiratory_System_Diseases": {
+          "ASR": 11.158,
+          "SR": 74,
+          "NUM": 57
+        },
+        "Circulatory_System_Diseases": {
+          "NUM": 191,
+          "ASR": 37.26,
+          "SR": 83
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      }
+    },
+    "Monash": {
+      "2010-2014": {
+        "Cancer": {
+          "ASR": 74.9,
+          "SR": 74,
+          "NUM": 657
+        },
+        "Lung_Cancer": {
+          "SR": 68,
+          "ASR": 14.2,
+          "NUM": 126
+        },
+        "COPD": {
+          "ASR": 3.0,
+          "NUM": 28,
+          "SR": 36
+        },
+        "Circulatory_System_Diseases": {
+          "ASR": 26.8,
+          "SR": 59,
+          "NUM": 237
+        },
+        "Colorectal_Cancer": {
+          "ASR": 6.0,
+          "NUM": 53,
+          "SR": 67
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 44,
+          "SR": 59,
+          "ASR": 4.9
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 13.3,
+          "SR": 81,
+          "NUM": 58
+        },
+        "Respiratory_System_Diseases": {
+          "NUM": 78,
+          "SR": 58,
+          "ASR": 8.6
+        },
+        "Ischaemic_Heart_Disease": {
+          "ASR": 12.6,
+          "SR": 52,
+          "NUM": 111
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      },
+      "2011-2015": {
+        "Lung_Cancer": {
+          "SR": 72,
+          "ASR": 15.012,
+          "NUM": 132
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 51,
+          "SR": 71,
+          "ASR": 5.72
+        },
+        "Cancer": {
+          "ASR": 75.622,
+          "NUM": 660,
+          "SR": 75
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 13.267,
+          "NUM": 58,
+          "SR": 82
+        },
+        "COPD": {
+          "NUM": 28,
+          "ASR": 3.078,
+          "SR": 35
+        },
+        "Ischaemic_Heart_Disease": {
+          "NUM": 111,
+          "ASR": 12.694,
+          "SR": 54
+        },
+        "Colorectal_Cancer": {
+          "SR": 80,
+          "NUM": 62,
+          "ASR": 7.116
+        },
+        "Diabetes": {
+          "ASR": 3.039,
+          "NUM": 27,
+          "SR": 50
+        },
+        "Respiratory_System_Diseases": {
+          "ASR": 8.112,
+          "SR": 54,
+          "NUM": 73
+        },
+        "Circulatory_System_Diseases": {
+          "NUM": 236,
+          "ASR": 26.831,
+          "SR": 60
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      }
+    },
+    "Nillumbik": {
+      "2010-2014": {
+        "Cancer": {
+          "ASR": 76.5,
+          "SR": 76,
+          "NUM": 228
+        },
+        "Lung_Cancer": {
+          "SR": 63,
+          "ASR": 13.2,
+          "NUM": 39
+        },
+        "COPD": {
+          "ASR": 3.2,
+          "NUM": 9,
+          "SR": 38
+        },
+        "Circulatory_System_Diseases": {
+          "ASR": 24.8,
+          "SR": 54,
+          "NUM": 73
+        },
+        "Colorectal_Cancer": {
+          "ASR": 6.1,
+          "NUM": 18,
+          "SR": 68
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 7,
+          "SR": 29,
+          "ASR": 2.4
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 17.2,
+          "SR": 105,
+          "NUM": 27
+        },
+        "Respiratory_System_Diseases": {
+          "NUM": 19,
+          "SR": 46,
+          "ASR": 6.8
+        },
+        "Ischaemic_Heart_Disease": {
+          "ASR": 14.1,
+          "SR": 58,
+          "NUM": 42
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      },
+      "2011-2015": {
+        "Lung_Cancer": {
+          "SR": 61,
+          "ASR": 12.842,
+          "NUM": 39
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 6,
+          "SR": 25,
+          "ASR": 2.019
+        },
+        "Cancer": {
+          "ASR": 74.508,
+          "NUM": 228,
+          "SR": 74
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 17.474,
+          "NUM": 28,
+          "SR": 108
+        },
+        "COPD": {
+          "NUM": 12,
+          "ASR": 4.179,
+          "SR": 47
+        },
+        "Ischaemic_Heart_Disease": {
+          "NUM": 45,
+          "ASR": 14.69,
+          "SR": 62
+        },
+        "Colorectal_Cancer": {
+          "SR": 88,
+          "NUM": 24,
+          "ASR": 7.85
+        },
+        "Diabetes": {
+          "ASR": 1.678,
+          "NUM": 5,
+          "SR": 28
+        },
+        "Respiratory_System_Diseases": {
+          "ASR": 7.243,
+          "SR": 48,
+          "NUM": 21
+        },
+        "Circulatory_System_Diseases": {
+          "NUM": 78,
+          "ASR": 25.779,
+          "SR": 58
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      }
+    },
+    "Whitehorse": {
+      "2010-2014": {
+        "Cancer": {
+          "ASR": 87.4,
+          "SR": 87,
+          "NUM": 662
+        },
+        "Lung_Cancer": {
+          "SR": 63,
+          "ASR": 13.4,
+          "NUM": 102
+        },
+        "COPD": {
+          "ASR": 3.2,
+          "NUM": 25,
+          "SR": 38
+        },
+        "Circulatory_System_Diseases": {
+          "ASR": 31.2,
+          "SR": 68,
+          "NUM": 238
+        },
+        "Colorectal_Cancer": {
+          "ASR": 11.9,
+          "NUM": 90,
+          "SR": 133
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 52,
+          "SR": 80,
+          "ASR": 6.7
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 18.1,
+          "SR": 111,
+          "NUM": 71
+        },
+        "Respiratory_System_Diseases": {
+          "NUM": 56,
+          "SR": 49,
+          "ASR": 7.2
+        },
+        "Ischaemic_Heart_Disease": {
+          "ASR": 13.5,
+          "SR": 56,
+          "NUM": 103
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      },
+      "2011-2015": {
+        "Lung_Cancer": {
+          "SR": 63,
+          "ASR": 13.257,
+          "NUM": 101
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 42,
+          "SR": 67,
+          "ASR": 5.449
+        },
+        "Cancer": {
+          "ASR": 84.737,
+          "NUM": 641,
+          "SR": 84
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 15.506,
+          "NUM": 61,
+          "SR": 96
+        },
+        "COPD": {
+          "NUM": 26,
+          "ASR": 3.326,
+          "SR": 38
+        },
+        "Ischaemic_Heart_Disease": {
+          "NUM": 97,
+          "ASR": 12.738,
+          "SR": 54
+        },
+        "Colorectal_Cancer": {
+          "SR": 120,
+          "NUM": 81,
+          "ASR": 10.778
+        },
+        "Diabetes": {
+          "ASR": 2.605,
+          "NUM": 20,
+          "SR": 43
+        },
+        "Respiratory_System_Diseases": {
+          "ASR": 7.73,
+          "SR": 51,
+          "NUM": 60
+        },
+        "Circulatory_System_Diseases": {
+          "NUM": 212,
+          "ASR": 27.851,
+          "SR": 62
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      }
+    },
+    "Whittlesea": {
+      "2010-2014": {
+        "Cancer": {
+          "ASR": 99.2,
+          "SR": 99,
+          "NUM": 677
+        },
+        "Lung_Cancer": {
+          "SR": 90,
+          "ASR": 18.9,
+          "NUM": 127
+        },
+        "COPD": {
+          "ASR": 6.4,
+          "NUM": 42,
+          "SR": 75
+        },
+        "Circulatory_System_Diseases": {
+          "ASR": 42.7,
+          "SR": 94,
+          "NUM": 293
+        },
+        "Colorectal_Cancer": {
+          "ASR": 12.3,
+          "NUM": 84,
+          "SR": 137
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 53,
+          "SR": 94,
+          "ASR": 7.8
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 16.0,
+          "SR": 98,
+          "NUM": 56
+        },
+        "Respiratory_System_Diseases": {
+          "NUM": 77,
+          "SR": 77,
+          "ASR": 11.4
+        },
+        "Ischaemic_Heart_Disease": {
+          "ASR": 23.3,
+          "SR": 97,
+          "NUM": 159
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      },
+      "2011-2015": {
+        "Lung_Cancer": {
+          "SR": 87,
+          "ASR": 18.28,
+          "NUM": 127
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 50,
+          "SR": 88,
+          "ASR": 7.1
+        },
+        "Cancer": {
+          "ASR": 99.735,
+          "NUM": 706,
+          "SR": 99
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 16.171,
+          "NUM": 59,
+          "SR": 100
+        },
+        "COPD": {
+          "NUM": 41,
+          "ASR": 6.018,
+          "SR": 68
+        },
+        "Ischaemic_Heart_Disease": {
+          "NUM": 158,
+          "ASR": 22.327,
+          "SR": 95
+        },
+        "Colorectal_Cancer": {
+          "SR": 127,
+          "NUM": 81,
+          "ASR": 11.402
+        },
+        "Diabetes": {
+          "ASR": 5.832,
+          "NUM": 41,
+          "SR": 96
+        },
+        "Respiratory_System_Diseases": {
+          "ASR": 11.189,
+          "SR": 74,
+          "NUM": 78
+        },
+        "Circulatory_System_Diseases": {
+          "NUM": 300,
+          "ASR": 42.182,
+          "SR": 94
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      }
+    },
+    "Yarra Ranges": {
+      "2010-2014": {
+        "Cancer": {
+          "ASR": 88.8,
+          "SR": 88,
+          "NUM": 656
+        },
+        "Lung_Cancer": {
+          "SR": 73,
+          "ASR": 15.3,
+          "NUM": 113
+        },
+        "COPD": {
+          "ASR": 9.1,
+          "NUM": 66,
+          "SR": 108
+        },
+        "Circulatory_System_Diseases": {
+          "ASR": 38.7,
+          "SR": 85,
+          "NUM": 284
+        },
+        "Colorectal_Cancer": {
+          "ASR": 7.6,
+          "NUM": 56,
+          "SR": 85
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 63,
+          "SR": 104,
+          "ASR": 8.7
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 16.1,
+          "SR": 99,
+          "NUM": 60
+        },
+        "Respiratory_System_Diseases": {
+          "NUM": 101,
+          "SR": 95,
+          "ASR": 14.0
+        },
+        "Ischaemic_Heart_Disease": {
+          "ASR": 17.8,
+          "SR": 74,
+          "NUM": 132
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      },
+      "2011-2015": {
+        "Lung_Cancer": {
+          "SR": 77,
+          "ASR": 16.243,
+          "NUM": 122
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 56,
+          "SR": 94,
+          "ASR": 7.569
+        },
+        "Cancer": {
+          "ASR": 89.435,
+          "NUM": 672,
+          "SR": 89
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 15.64,
+          "NUM": 59,
+          "SR": 97
+        },
+        "COPD": {
+          "NUM": 68,
+          "ASR": 9.183,
+          "SR": 104
+        },
+        "Ischaemic_Heart_Disease": {
+          "NUM": 131,
+          "ASR": 17.393,
+          "SR": 74
+        },
+        "Colorectal_Cancer": {
+          "SR": 97,
+          "NUM": 65,
+          "ASR": 8.679
+        },
+        "Diabetes": {
+          "ASR": 2.307,
+          "NUM": 17,
+          "SR": 38
+        },
+        "Respiratory_System_Diseases": {
+          "ASR": 14.623,
+          "SR": 97,
+          "NUM": 108
+        },
+        "Circulatory_System_Diseases": {
+          "NUM": 276,
+          "ASR": 36.952,
+          "SR": 83
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      }
+    }
+  },
+  "Gippsland": {
+    "Bass Coast": {
+      "2010-2014": {
+        "Cancer": {
+          "ASR": 100.8,
+          "SR": 100,
+          "NUM": 208
+        },
+        "Lung_Cancer": {
+          "SR": 94,
+          "ASR": 19.7,
+          "NUM": 42
+        },
+        "COPD": {
+          "ASR": 8.9,
+          "NUM": 20,
+          "SR": 105
+        },
+        "Circulatory_System_Diseases": {
+          "ASR": 44.4,
+          "SR": 97,
+          "NUM": 91
+        },
+        "Colorectal_Cancer": {
+          "ASR": 7.7,
+          "NUM": 16,
+          "SR": 86
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 12,
+          "SR": 69,
+          "ASR": 5.8
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 17.8,
+          "SR": 109,
+          "NUM": 17
+        },
+        "Respiratory_System_Diseases": {
+          "NUM": 25,
+          "SR": 78,
+          "ASR": 11.6
+        },
+        "Ischaemic_Heart_Disease": {
+          "ASR": 25.2,
+          "SR": 105,
+          "NUM": 52
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      },
+      "2011-2015": {
+        "Lung_Cancer": {
+          "SR": 117,
+          "ASR": 24.54,
+          "NUM": 53
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 13,
+          "SR": 76,
+          "ASR": 6.142
+        },
+        "Cancer": {
+          "ASR": 109.576,
+          "NUM": 230,
+          "SR": 109
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 17.597,
+          "NUM": 17,
+          "SR": 109
+        },
+        "COPD": {
+          "NUM": 18,
+          "ASR": 7.908,
+          "SR": 90
+        },
+        "Ischaemic_Heart_Disease": {
+          "NUM": 53,
+          "ASR": 25.382,
+          "SR": 108
+        },
+        "Colorectal_Cancer": {
+          "SR": 80,
+          "NUM": 15,
+          "ASR": 7.194
+        },
+        "Diabetes": {
+          "ASR": 7.046,
+          "NUM": 15,
+          "SR": 117
+        },
+        "Respiratory_System_Diseases": {
+          "ASR": 10.04,
+          "SR": 67,
+          "NUM": 22
+        },
+        "Circulatory_System_Diseases": {
+          "NUM": 92,
+          "ASR": 44.293,
+          "SR": 99
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      }
+    },
+    "Baw Baw": {
+      "2010-2014": {
+        "Cancer": {
+          "ASR": 88.8,
+          "SR": 88,
+          "NUM": 219
+        },
+        "Lung_Cancer": {
+          "SR": 105,
+          "ASR": 22.2,
+          "NUM": 56
+        },
+        "COPD": {
+          "ASR": 10.1,
+          "NUM": 26,
+          "SR": 120
+        },
+        "Circulatory_System_Diseases": {
+          "ASR": 34.1,
+          "SR": 75,
+          "NUM": 84
+        },
+        "Colorectal_Cancer": {
+          "ASR": 5.2,
+          "NUM": 13,
+          "SR": 59
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 16,
+          "SR": 77,
+          "ASR": 6.4
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 19.2,
+          "SR": 118,
+          "NUM": 23
+        },
+        "Respiratory_System_Diseases": {
+          "NUM": 33,
+          "SR": 89,
+          "ASR": 13.1
+        },
+        "Ischaemic_Heart_Disease": {
+          "ASR": 16.2,
+          "SR": 67,
+          "NUM": 40
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      },
+      "2011-2015": {
+        "Lung_Cancer": {
+          "SR": 84,
+          "ASR": 17.651,
+          "NUM": 46
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 18,
+          "SR": 87,
+          "ASR": 6.999
+        },
+        "Cancer": {
+          "ASR": 93.501,
+          "NUM": 238,
+          "SR": 93
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 20.993,
+          "NUM": 26,
+          "SR": 130
+        },
+        "COPD": {
+          "NUM": 21,
+          "ASR": 7.898,
+          "SR": 90
+        },
+        "Ischaemic_Heart_Disease": {
+          "NUM": 48,
+          "ASR": 18.813,
+          "SR": 80
+        },
+        "Colorectal_Cancer": {
+          "SR": 57,
+          "NUM": 13,
+          "ASR": 5.089
+        },
+        "Diabetes": {
+          "ASR": 4.682,
+          "NUM": 12,
+          "SR": 77
+        },
+        "Respiratory_System_Diseases": {
+          "ASR": 10.365,
+          "SR": 69,
+          "NUM": 27
+        },
+        "Circulatory_System_Diseases": {
+          "NUM": 89,
+          "ASR": 35.018,
+          "SR": 78
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      }
+    },
+    "East Gippsland": {
+      "2010-2014": {
+        "Cancer": {
+          "ASR": 117.7,
+          "SR": 117,
+          "NUM": 359
+        },
+        "Lung_Cancer": {
+          "SR": 126,
+          "ASR": 26.4,
+          "NUM": 84
+        },
+        "COPD": {
+          "ASR": 9.0,
+          "NUM": 30,
+          "SR": 106
+        },
+        "Circulatory_System_Diseases": {
+          "ASR": 50.1,
+          "SR": 110,
+          "NUM": 152
+        },
+        "Colorectal_Cancer": {
+          "ASR": 12.1,
+          "NUM": 37,
+          "SR": 135
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 26,
+          "SR": 101,
+          "ASR": 8.4
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 18.2,
+          "SR": 111,
+          "NUM": 25
+        },
+        "Respiratory_System_Diseases": {
+          "NUM": 41,
+          "SR": 87,
+          "ASR": 12.8
+        },
+        "Ischaemic_Heart_Disease": {
+          "ASR": 25.6,
+          "SR": 106,
+          "NUM": 78
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      },
+      "2011-2015": {
+        "Lung_Cancer": {
+          "SR": 119,
+          "ASR": 24.88,
+          "NUM": 80
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 25,
+          "SR": 98,
+          "ASR": 7.951
+        },
+        "Cancer": {
+          "ASR": 115.261,
+          "NUM": 356,
+          "SR": 115
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 15.1,
+          "NUM": 21,
+          "SR": 94
+        },
+        "COPD": {
+          "NUM": 27,
+          "ASR": 7.963,
+          "SR": 90
+        },
+        "Ischaemic_Heart_Disease": {
+          "NUM": 78,
+          "ASR": 25.24,
+          "SR": 107
+        },
+        "Colorectal_Cancer": {
+          "SR": 134,
+          "NUM": 37,
+          "ASR": 12.022
+        },
+        "Diabetes": {
+          "ASR": 5.052,
+          "NUM": 16,
+          "SR": 84
+        },
+        "Respiratory_System_Diseases": {
+          "ASR": 12.608,
+          "SR": 84,
+          "NUM": 41
+        },
+        "Circulatory_System_Diseases": {
+          "NUM": 146,
+          "ASR": 47.493,
+          "SR": 106
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      }
+    },
+    "Latrobe (Vic.)": {
+      "2010-2014": {
+        "Cancer": {
+          "ASR": 104.1,
+          "SR": 103,
+          "NUM": 395
+        },
+        "Lung_Cancer": {
+          "SR": 114,
+          "ASR": 24.1,
+          "NUM": 92
+        },
+        "COPD": {
+          "ASR": 12.7,
+          "NUM": 49,
+          "SR": 150
+        },
+        "Circulatory_System_Diseases": {
+          "ASR": 66.2,
+          "SR": 145,
+          "NUM": 250
+        },
+        "Colorectal_Cancer": {
+          "ASR": 8.5,
+          "NUM": 32,
+          "SR": 94
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 46,
+          "SR": 146,
+          "ASR": 12.1
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 13.2,
+          "SR": 81,
+          "NUM": 24
+        },
+        "Respiratory_System_Diseases": {
+          "NUM": 69,
+          "SR": 122,
+          "ASR": 18.1
+        },
+        "Ischaemic_Heart_Disease": {
+          "ASR": 37.0,
+          "SR": 153,
+          "NUM": 140
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      },
+      "2011-2015": {
+        "Lung_Cancer": {
+          "SR": 125,
+          "ASR": 26.133,
+          "NUM": 101
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 46,
+          "SR": 149,
+          "ASR": 12.023
+        },
+        "Cancer": {
+          "ASR": 106.849,
+          "NUM": 409,
+          "SR": 106
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 11.487,
+          "NUM": 21,
+          "SR": 71
+        },
+        "COPD": {
+          "NUM": 60,
+          "ASR": 15.342,
+          "SR": 174
+        },
+        "Ischaemic_Heart_Disease": {
+          "NUM": 136,
+          "ASR": 35.611,
+          "SR": 151
+        },
+        "Colorectal_Cancer": {
+          "SR": 103,
+          "NUM": 35,
+          "ASR": 9.194
+        },
+        "Diabetes": {
+          "ASR": 11.462,
+          "NUM": 44,
+          "SR": 190
+        },
+        "Respiratory_System_Diseases": {
+          "ASR": 23.043,
+          "SR": 153,
+          "NUM": 89
+        },
+        "Circulatory_System_Diseases": {
+          "NUM": 250,
+          "ASR": 65.673,
+          "SR": 147
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      }
+    },
+    "South Gippsland": {
+      "2010-2014": {
+        "Cancer": {
+          "ASR": 85.7,
+          "SR": 85,
+          "NUM": 149
+        },
+        "Lung_Cancer": {
+          "SR": 87,
+          "ASR": 18.3,
+          "NUM": 33
+        },
+        "COPD": {
+          "ASR": 6.5,
+          "NUM": 12,
+          "SR": 77
+        },
+        "Circulatory_System_Diseases": {
+          "ASR": 37.5,
+          "SR": 82,
+          "NUM": 65
+        },
+        "Colorectal_Cancer": {
+          "ASR": 7.5,
+          "NUM": 13,
+          "SR": 83
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 16,
+          "SR": 109,
+          "ASR": 9.1
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 15.9,
+          "SR": 97,
+          "NUM": 13
+        },
+        "Respiratory_System_Diseases": {
+          "NUM": 20,
+          "SR": 76,
+          "ASR": 11.2
+        },
+        "Ischaemic_Heart_Disease": {
+          "ASR": 20.1,
+          "SR": 83,
+          "NUM": 35
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      },
+      "2011-2015": {
+        "Lung_Cancer": {
+          "SR": 92,
+          "ASR": 19.238,
+          "NUM": 35
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 17,
+          "SR": 119,
+          "ASR": 9.578
+        },
+        "Cancer": {
+          "ASR": 90.005,
+          "NUM": 158,
+          "SR": 90
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 18.153,
+          "NUM": 15,
+          "SR": 113
+        },
+        "COPD": {
+          "NUM": 8,
+          "ASR": 4.308,
+          "SR": 49
+        },
+        "Ischaemic_Heart_Disease": {
+          "NUM": 36,
+          "ASR": 20.452,
+          "SR": 87
+        },
+        "Colorectal_Cancer": {
+          "SR": 64,
+          "NUM": 10,
+          "ASR": 5.723
+        },
+        "Diabetes": {
+          "ASR": 6.166,
+          "NUM": 11,
+          "SR": 102
+        },
+        "Respiratory_System_Diseases": {
+          "ASR": 9.415,
+          "SR": 63,
+          "NUM": 17
+        },
+        "Circulatory_System_Diseases": {
+          "NUM": 71,
+          "ASR": 40.572,
+          "SR": 91
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      }
+    },
+    "Wellington": {
+      "2010-2014": {
+        "Cancer": {
+          "ASR": 132.5,
+          "SR": 132,
+          "NUM": 316
+        },
+        "Lung_Cancer": {
+          "SR": 124,
+          "ASR": 26.0,
+          "NUM": 63
+        },
+        "COPD": {
+          "ASR": 9.0,
+          "NUM": 22,
+          "SR": 106
+        },
+        "Circulatory_System_Diseases": {
+          "ASR": 52.6,
+          "SR": 115,
+          "NUM": 124
+        },
+        "Colorectal_Cancer": {
+          "ASR": 10.5,
+          "NUM": 25,
+          "SR": 117
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 31,
+          "SR": 157,
+          "ASR": 13.1
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 20.5,
+          "SR": 125,
+          "NUM": 23
+        },
+        "Respiratory_System_Diseases": {
+          "NUM": 38,
+          "SR": 107,
+          "ASR": 15.9
+        },
+        "Ischaemic_Heart_Disease": {
+          "ASR": 25.3,
+          "SR": 105,
+          "NUM": 60
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      },
+      "2011-2015": {
+        "Lung_Cancer": {
+          "SR": 128,
+          "ASR": 26.924,
+          "NUM": 66
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 25,
+          "SR": 129,
+          "ASR": 10.404
+        },
+        "Cancer": {
+          "ASR": 126.487,
+          "NUM": 305,
+          "SR": 126
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 21.195,
+          "NUM": 24,
+          "SR": 131
+        },
+        "COPD": {
+          "NUM": 22,
+          "ASR": 8.872,
+          "SR": 101
+        },
+        "Ischaemic_Heart_Disease": {
+          "NUM": 67,
+          "ASR": 27.941,
+          "SR": 119
+        },
+        "Colorectal_Cancer": {
+          "SR": 89,
+          "NUM": 19,
+          "ASR": 7.95
+        },
+        "Diabetes": {
+          "ASR": 5.822,
+          "NUM": 14,
+          "SR": 96
+        },
+        "Respiratory_System_Diseases": {
+          "ASR": 17.284,
+          "SR": 115,
+          "NUM": 42
+        },
+        "Circulatory_System_Diseases": {
+          "NUM": 128,
+          "ASR": 53.722,
+          "SR": 120
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      }
+    }
+  },
+  "South Eastern Melbourne": {
+    "Bayside (Vic.)": {
+      "2010-2014": {
+        "Cancer": {
+          "ASR": 75.6,
+          "SR": 75,
+          "NUM": 383
+        },
+        "Lung_Cancer": {
+          "SR": 61,
+          "ASR": 12.7,
+          "NUM": 65
+        },
+        "COPD": {
+          "ASR": 4.9,
+          "NUM": 25,
+          "SR": 58
+        },
+        "Circulatory_System_Diseases": {
+          "ASR": 25.2,
+          "SR": 55,
+          "NUM": 127
+        },
+        "Colorectal_Cancer": {
+          "ASR": 7.1,
+          "NUM": 36,
+          "SR": 79
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 29,
+          "SR": 69,
+          "ASR": 5.7
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 13.0,
+          "SR": 79,
+          "NUM": 34
+        },
+        "Respiratory_System_Diseases": {
+          "NUM": 36,
+          "SR": 48,
+          "ASR": 7.1
+        },
+        "Ischaemic_Heart_Disease": {
+          "ASR": 11.4,
+          "SR": 47,
+          "NUM": 58
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      },
+      "2011-2015": {
+        "Lung_Cancer": {
+          "SR": 62,
+          "ASR": 13.063,
+          "NUM": 68
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 29,
+          "SR": 70,
+          "ASR": 5.617
+        },
+        "Cancer": {
+          "ASR": 75.703,
+          "NUM": 391,
+          "SR": 75
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 12.359,
+          "NUM": 33,
+          "SR": 77
+        },
+        "COPD": {
+          "NUM": 24,
+          "ASR": 4.617,
+          "SR": 52
+        },
+        "Ischaemic_Heart_Disease": {
+          "NUM": 57,
+          "ASR": 11.004,
+          "SR": 47
+        },
+        "Colorectal_Cancer": {
+          "SR": 85,
+          "NUM": 39,
+          "ASR": 7.572
+        },
+        "Diabetes": {
+          "ASR": 3.298,
+          "NUM": 17,
+          "SR": 55
+        },
+        "Respiratory_System_Diseases": {
+          "ASR": 6.797,
+          "SR": 45,
+          "NUM": 35
+        },
+        "Circulatory_System_Diseases": {
+          "NUM": 117,
+          "ASR": 22.721,
+          "SR": 51
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      }
+    },
+    "Cardinia": {
+      "2010-2014": {
+        "Cancer": {
+          "ASR": 101.5,
+          "SR": 101,
+          "NUM": 332
+        },
+        "Lung_Cancer": {
+          "SR": 96,
+          "ASR": 20.1,
+          "NUM": 65
+        },
+        "COPD": {
+          "ASR": 7.0,
+          "NUM": 22,
+          "SR": 82
+        },
+        "Circulatory_System_Diseases": {
+          "ASR": 36.8,
+          "SR": 81,
+          "NUM": 121
+        },
+        "Colorectal_Cancer": {
+          "ASR": 7.0,
+          "NUM": 23,
+          "SR": 78
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 21,
+          "SR": 77,
+          "ASR": 6.4
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 21.4,
+          "SR": 131,
+          "NUM": 36
+        },
+        "Respiratory_System_Diseases": {
+          "NUM": 48,
+          "SR": 101,
+          "ASR": 14.9
+        },
+        "Ischaemic_Heart_Disease": {
+          "ASR": 19.2,
+          "SR": 80,
+          "NUM": 63
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      },
+      "2011-2015": {
+        "Lung_Cancer": {
+          "SR": 107,
+          "ASR": 22.512,
+          "NUM": 76
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 21,
+          "SR": 76,
+          "ASR": 6.158
+        },
+        "Cancer": {
+          "ASR": 103.565,
+          "NUM": 354,
+          "SR": 103
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 18.797,
+          "NUM": 33,
+          "SR": 117
+        },
+        "COPD": {
+          "NUM": 25,
+          "ASR": 7.569,
+          "SR": 86
+        },
+        "Ischaemic_Heart_Disease": {
+          "NUM": 65,
+          "ASR": 18.898,
+          "SR": 80
+        },
+        "Colorectal_Cancer": {
+          "SR": 81,
+          "NUM": 25,
+          "ASR": 7.268
+        },
+        "Diabetes": {
+          "ASR": 3.525,
+          "NUM": 12,
+          "SR": 58
+        },
+        "Respiratory_System_Diseases": {
+          "ASR": 16.016,
+          "SR": 107,
+          "NUM": 54
+        },
+        "Circulatory_System_Diseases": {
+          "NUM": 125,
+          "ASR": 36.354,
+          "SR": 81
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      }
+    },
+    "Casey": {
+      "2010-2014": {
+        "Cancer": {
+          "ASR": 91.6,
+          "SR": 91,
+          "NUM": 914
+        },
+        "Lung_Cancer": {
+          "SR": 94,
+          "ASR": 19.8,
+          "NUM": 192
+        },
+        "COPD": {
+          "ASR": 7.0,
+          "NUM": 65,
+          "SR": 83
+        },
+        "Circulatory_System_Diseases": {
+          "ASR": 46.0,
+          "SR": 101,
+          "NUM": 461
+        },
+        "Colorectal_Cancer": {
+          "ASR": 10.6,
+          "NUM": 106,
+          "SR": 119
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 99,
+          "SR": 120,
+          "ASR": 10.0
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 16.4,
+          "SR": 100,
+          "NUM": 86
+        },
+        "Respiratory_System_Diseases": {
+          "NUM": 126,
+          "SR": 89,
+          "ASR": 13.1
+        },
+        "Ischaemic_Heart_Disease": {
+          "ASR": 21.3,
+          "SR": 88,
+          "NUM": 213
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      },
+      "2011-2015": {
+        "Lung_Cancer": {
+          "SR": 96,
+          "ASR": 20.145,
+          "NUM": 202
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 98,
+          "SR": 119,
+          "ASR": 9.604
+        },
+        "Cancer": {
+          "ASR": 93.863,
+          "NUM": 969,
+          "SR": 93
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 17.474,
+          "NUM": 95,
+          "SR": 108
+        },
+        "COPD": {
+          "NUM": 69,
+          "ASR": 7.189,
+          "SR": 81
+        },
+        "Ischaemic_Heart_Disease": {
+          "NUM": 203,
+          "ASR": 19.625,
+          "SR": 83
+        },
+        "Colorectal_Cancer": {
+          "SR": 121,
+          "NUM": 112,
+          "ASR": 10.815
+        },
+        "Diabetes": {
+          "ASR": 4.926,
+          "NUM": 50,
+          "SR": 81
+        },
+        "Respiratory_System_Diseases": {
+          "ASR": 12.865,
+          "SR": 86,
+          "NUM": 128
+        },
+        "Circulatory_System_Diseases": {
+          "NUM": 449,
+          "ASR": 43.263,
+          "SR": 97
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      }
+    },
+    "Frankston": {
+      "2010-2014": {
+        "Cancer": {
+          "ASR": 103.2,
+          "SR": 103,
+          "NUM": 635
+        },
+        "Lung_Cancer": {
+          "SR": 101,
+          "ASR": 21.2,
+          "NUM": 130
+        },
+        "COPD": {
+          "ASR": 12.7,
+          "NUM": 78,
+          "SR": 151
+        },
+        "Circulatory_System_Diseases": {
+          "ASR": 48.7,
+          "SR": 107,
+          "NUM": 300
+        },
+        "Colorectal_Cancer": {
+          "ASR": 12.2,
+          "NUM": 75,
+          "SR": 136
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 45,
+          "SR": 88,
+          "ASR": 7.3
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 18.7,
+          "SR": 114,
+          "NUM": 59
+        },
+        "Respiratory_System_Diseases": {
+          "NUM": 108,
+          "SR": 119,
+          "ASR": 17.6
+        },
+        "Ischaemic_Heart_Disease": {
+          "ASR": 26.6,
+          "SR": 111,
+          "NUM": 164
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      },
+      "2011-2015": {
+        "Lung_Cancer": {
+          "SR": 110,
+          "ASR": 23.004,
+          "NUM": 143
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 45,
+          "SR": 90,
+          "ASR": 7.229
+        },
+        "Cancer": {
+          "ASR": 104.038,
+          "NUM": 648,
+          "SR": 103
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 18.475,
+          "NUM": 59,
+          "SR": 115
+        },
+        "COPD": {
+          "NUM": 84,
+          "ASR": 13.568,
+          "SR": 154
+        },
+        "Ischaemic_Heart_Disease": {
+          "NUM": 153,
+          "ASR": 24.538,
+          "SR": 104
+        },
+        "Colorectal_Cancer": {
+          "SR": 135,
+          "NUM": 75,
+          "ASR": 12.037
+        },
+        "Diabetes": {
+          "ASR": 6.272,
+          "NUM": 39,
+          "SR": 104
+        },
+        "Respiratory_System_Diseases": {
+          "ASR": 18.855,
+          "SR": 126,
+          "NUM": 117
+        },
+        "Circulatory_System_Diseases": {
+          "NUM": 302,
+          "ASR": 48.453,
+          "SR": 108
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      }
+    },
+    "Glen Eira": {
+      "2010-2014": {
+        "Cancer": {
+          "ASR": 94.5,
+          "SR": 94,
+          "NUM": 556
+        },
+        "Lung_Cancer": {
+          "SR": 79,
+          "ASR": 16.7,
+          "NUM": 97
+        },
+        "COPD": {
+          "ASR": 3.5,
+          "NUM": 20,
+          "SR": 41
+        },
+        "Circulatory_System_Diseases": {
+          "ASR": 34.7,
+          "SR": 76,
+          "NUM": 205
+        },
+        "Colorectal_Cancer": {
+          "ASR": 7.0,
+          "NUM": 41,
+          "SR": 78
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 39,
+          "SR": 80,
+          "ASR": 6.6
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 21.1,
+          "SR": 129,
+          "NUM": 65
+        },
+        "Respiratory_System_Diseases": {
+          "NUM": 47,
+          "SR": 55,
+          "ASR": 8.1
+        },
+        "Ischaemic_Heart_Disease": {
+          "ASR": 17.8,
+          "SR": 74,
+          "NUM": 105
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      },
+      "2011-2015": {
+        "Lung_Cancer": {
+          "SR": 71,
+          "ASR": 14.873,
+          "NUM": 87
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 33,
+          "SR": 69,
+          "ASR": 5.597
+        },
+        "Cancer": {
+          "ASR": 94.979,
+          "NUM": 563,
+          "SR": 94
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 21.63,
+          "NUM": 67,
+          "SR": 134
+        },
+        "COPD": {
+          "NUM": 24,
+          "ASR": 4.182,
+          "SR": 47
+        },
+        "Ischaemic_Heart_Disease": {
+          "NUM": 111,
+          "ASR": 18.7,
+          "SR": 79
+        },
+        "Colorectal_Cancer": {
+          "SR": 101,
+          "NUM": 54,
+          "ASR": 9.08
+        },
+        "Diabetes": {
+          "ASR": 4.924,
+          "NUM": 29,
+          "SR": 81
+        },
+        "Respiratory_System_Diseases": {
+          "ASR": 8.588,
+          "SR": 57,
+          "NUM": 50
+        },
+        "Circulatory_System_Diseases": {
+          "NUM": 203,
+          "ASR": 34.146,
+          "SR": 76
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      }
+    },
+    "Greater Dandenong": {
+      "2010-2014": {
+        "Cancer": {
+          "ASR": 98.1,
+          "SR": 97,
+          "NUM": 633
+        },
+        "Lung_Cancer": {
+          "SR": 110,
+          "ASR": 23.1,
+          "NUM": 149
+        },
+        "COPD": {
+          "ASR": 7.7,
+          "NUM": 50,
+          "SR": 91
+        },
+        "Circulatory_System_Diseases": {
+          "ASR": 55.1,
+          "SR": 121,
+          "NUM": 356
+        },
+        "Colorectal_Cancer": {
+          "ASR": 7.3,
+          "NUM": 47,
+          "SR": 81
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 75,
+          "SR": 139,
+          "ASR": 11.6
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 11.7,
+          "SR": 72,
+          "NUM": 37
+        },
+        "Respiratory_System_Diseases": {
+          "NUM": 108,
+          "SR": 112,
+          "ASR": 16.6
+        },
+        "Ischaemic_Heart_Disease": {
+          "ASR": 26.2,
+          "SR": 109,
+          "NUM": 169
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      },
+      "2011-2015": {
+        "Lung_Cancer": {
+          "SR": 106,
+          "ASR": 22.299,
+          "NUM": 145
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 78,
+          "SR": 148,
+          "ASR": 11.943
+        },
+        "Cancer": {
+          "ASR": 97.639,
+          "NUM": 636,
+          "SR": 97
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 13.423,
+          "NUM": 43,
+          "SR": 83
+        },
+        "COPD": {
+          "NUM": 44,
+          "ASR": 6.717,
+          "SR": 76
+        },
+        "Ischaemic_Heart_Disease": {
+          "NUM": 165,
+          "ASR": 25.381,
+          "SR": 108
+        },
+        "Colorectal_Cancer": {
+          "SR": 86,
+          "NUM": 50,
+          "ASR": 7.666
+        },
+        "Diabetes": {
+          "ASR": 8.563,
+          "NUM": 56,
+          "SR": 142
+        },
+        "Respiratory_System_Diseases": {
+          "ASR": 16.299,
+          "SR": 109,
+          "NUM": 107
+        },
+        "Circulatory_System_Diseases": {
+          "NUM": 353,
+          "ASR": 54.094,
+          "SR": 121
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      }
+    },
+    "Kingston (Vic.)": {
+      "2010-2014": {
+        "Cancer": {
+          "ASR": 100.3,
+          "SR": 100,
+          "NUM": 730
+        },
+        "Lung_Cancer": {
+          "SR": 100,
+          "ASR": 21.0,
+          "NUM": 153
+        },
+        "COPD": {
+          "ASR": 4.9,
+          "NUM": 36,
+          "SR": 58
+        },
+        "Circulatory_System_Diseases": {
+          "ASR": 37.9,
+          "SR": 83,
+          "NUM": 277
+        },
+        "Colorectal_Cancer": {
+          "ASR": 10.7,
+          "NUM": 78,
+          "SR": 119
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 64,
+          "SR": 105,
+          "ASR": 8.7
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 21.7,
+          "SR": 133,
+          "NUM": 80
+        },
+        "Respiratory_System_Diseases": {
+          "NUM": 69,
+          "SR": 64,
+          "ASR": 9.4
+        },
+        "Ischaemic_Heart_Disease": {
+          "ASR": 17.9,
+          "SR": 74,
+          "NUM": 131
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      },
+      "2011-2015": {
+        "Lung_Cancer": {
+          "SR": 104,
+          "ASR": 21.76,
+          "NUM": 160
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 65,
+          "SR": 109,
+          "ASR": 8.778
+        },
+        "Cancer": {
+          "ASR": 98.481,
+          "NUM": 723,
+          "SR": 98
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 20.129,
+          "NUM": 75,
+          "SR": 125
+        },
+        "COPD": {
+          "NUM": 39,
+          "ASR": 5.255,
+          "SR": 60
+        },
+        "Ischaemic_Heart_Disease": {
+          "NUM": 132,
+          "ASR": 17.924,
+          "SR": 76
+        },
+        "Colorectal_Cancer": {
+          "SR": 111,
+          "NUM": 73,
+          "ASR": 9.942
+        },
+        "Diabetes": {
+          "ASR": 3.388,
+          "NUM": 25,
+          "SR": 56
+        },
+        "Respiratory_System_Diseases": {
+          "ASR": 9.734,
+          "SR": 65,
+          "NUM": 72
+        },
+        "Circulatory_System_Diseases": {
+          "NUM": 286,
+          "ASR": 38.796,
+          "SR": 87
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      }
+    },
+    "Mornington Peninsula": {
+      "2010-2014": {
+        "Cancer": {
+          "ASR": 97.9,
+          "SR": 97,
+          "NUM": 906
+        },
+        "Lung_Cancer": {
+          "SR": 83,
+          "ASR": 17.5,
+          "NUM": 167
+        },
+        "COPD": {
+          "ASR": 6.3,
+          "NUM": 63,
+          "SR": 75
+        },
+        "Circulatory_System_Diseases": {
+          "ASR": 35.6,
+          "SR": 78,
+          "NUM": 329
+        },
+        "Colorectal_Cancer": {
+          "ASR": 8.1,
+          "NUM": 75,
+          "SR": 90
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 50,
+          "SR": 64,
+          "ASR": 5.3
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 20.4,
+          "SR": 125,
+          "NUM": 92
+        },
+        "Respiratory_System_Diseases": {
+          "NUM": 111,
+          "SR": 78,
+          "ASR": 11.5
+        },
+        "Ischaemic_Heart_Disease": {
+          "ASR": 18.6,
+          "SR": 77,
+          "NUM": 172
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      },
+      "2011-2015": {
+        "Lung_Cancer": {
+          "SR": 94,
+          "ASR": 19.64,
+          "NUM": 189
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 54,
+          "SR": 70,
+          "ASR": 5.654
+        },
+        "Cancer": {
+          "ASR": 97.067,
+          "NUM": 908,
+          "SR": 97
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 17.516,
+          "NUM": 80,
+          "SR": 109
+        },
+        "COPD": {
+          "NUM": 71,
+          "ASR": 7.028,
+          "SR": 80
+        },
+        "Ischaemic_Heart_Disease": {
+          "NUM": 175,
+          "ASR": 18.698,
+          "SR": 79
+        },
+        "Colorectal_Cancer": {
+          "SR": 93,
+          "NUM": 77,
+          "ASR": 8.279
+        },
+        "Diabetes": {
+          "ASR": 2.619,
+          "NUM": 25,
+          "SR": 43
+        },
+        "Respiratory_System_Diseases": {
+          "ASR": 11.646,
+          "SR": 78,
+          "NUM": 114
+        },
+        "Circulatory_System_Diseases": {
+          "NUM": 347,
+          "ASR": 37.131,
+          "SR": 83
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      }
+    },
+    "Port Phillip": {
+      "2010-2014": {
+        "Cancer": {
+          "ASR": 90.1,
+          "SR": 89,
+          "NUM": 350
+        },
+        "Lung_Cancer": {
+          "SR": 95,
+          "ASR": 20.0,
+          "NUM": 75
+        },
+        "COPD": {
+          "ASR": 7.4,
+          "NUM": 27,
+          "SR": 88
+        },
+        "Circulatory_System_Diseases": {
+          "ASR": 41.5,
+          "SR": 91,
+          "NUM": 163
+        },
+        "Colorectal_Cancer": {
+          "ASR": 7.6,
+          "NUM": 30,
+          "SR": 85
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 17,
+          "SR": 53,
+          "ASR": 4.4
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 14.6,
+          "SR": 89,
+          "NUM": 29
+        },
+        "Respiratory_System_Diseases": {
+          "NUM": 39,
+          "SR": 70,
+          "ASR": 10.3
+        },
+        "Ischaemic_Heart_Disease": {
+          "ASR": 23.1,
+          "SR": 96,
+          "NUM": 90
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      },
+      "2011-2015": {
+        "Lung_Cancer": {
+          "SR": 101,
+          "ASR": 21.163,
+          "NUM": 81
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 17,
+          "SR": 54,
+          "ASR": 4.339
+        },
+        "Cancer": {
+          "ASR": 88.603,
+          "NUM": 351,
+          "SR": 88
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 15.803,
+          "NUM": 32,
+          "SR": 98
+        },
+        "COPD": {
+          "NUM": 32,
+          "ASR": 8.659,
+          "SR": 98
+        },
+        "Ischaemic_Heart_Disease": {
+          "NUM": 87,
+          "ASR": 21.934,
+          "SR": 93
+        },
+        "Colorectal_Cancer": {
+          "SR": 100,
+          "NUM": 36,
+          "ASR": 8.937
+        },
+        "Diabetes": {
+          "ASR": 6.103,
+          "NUM": 24,
+          "SR": 101
+        },
+        "Respiratory_System_Diseases": {
+          "ASR": 12.024,
+          "SR": 80,
+          "NUM": 46
+        },
+        "Circulatory_System_Diseases": {
+          "NUM": 160,
+          "ASR": 39.981,
+          "SR": 89
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      }
+    },
+    "Stonnington": {
+      "2010-2014": {
+        "Cancer": {
+          "ASR": 81.5,
+          "SR": 81,
+          "NUM": 364
+        },
+        "Lung_Cancer": {
+          "SR": 47,
+          "ASR": 9.9,
+          "NUM": 44
+        },
+        "COPD": {
+          "ASR": 3.8,
+          "NUM": 17,
+          "SR": 44
+        },
+        "Circulatory_System_Diseases": {
+          "ASR": 27.1,
+          "SR": 59,
+          "NUM": 122
+        },
+        "Colorectal_Cancer": {
+          "ASR": 9.6,
+          "NUM": 43,
+          "SR": 107
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 30,
+          "SR": 80,
+          "ASR": 6.6
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 17.3,
+          "SR": 106,
+          "NUM": 39
+        },
+        "Respiratory_System_Diseases": {
+          "NUM": 31,
+          "SR": 46,
+          "ASR": 6.8
+        },
+        "Ischaemic_Heart_Disease": {
+          "ASR": 12.8,
+          "SR": 53,
+          "NUM": 57
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      },
+      "2011-2015": {
+        "Lung_Cancer": {
+          "SR": 41,
+          "ASR": 8.523,
+          "NUM": 38
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 31,
+          "SR": 85,
+          "ASR": 6.86
+        },
+        "Cancer": {
+          "ASR": 77.408,
+          "NUM": 347,
+          "SR": 77
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 17.668,
+          "NUM": 40,
+          "SR": 110
+        },
+        "COPD": {
+          "NUM": 17,
+          "ASR": 3.755,
+          "SR": 43
+        },
+        "Ischaemic_Heart_Disease": {
+          "NUM": 52,
+          "ASR": 11.615,
+          "SR": 49
+        },
+        "Colorectal_Cancer": {
+          "SR": 104,
+          "NUM": 42,
+          "ASR": 9.311
+        },
+        "Diabetes": {
+          "ASR": 4.191,
+          "NUM": 19,
+          "SR": 69
+        },
+        "Respiratory_System_Diseases": {
+          "ASR": 6.83,
+          "SR": 45,
+          "NUM": 31
+        },
+        "Circulatory_System_Diseases": {
+          "NUM": 120,
+          "ASR": 26.587,
+          "SR": 59
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      }
+    }
+  },
+  "North Western Melbourne": {
+    "Brimbank": {
+      "2010-2014": {
+        "Cancer": {
+          "ASR": 93.1,
+          "SR": 93,
+          "NUM": 791
+        },
+        "Lung_Cancer": {
+          "SR": 91,
+          "ASR": 19.2,
+          "NUM": 162
+        },
+        "COPD": {
+          "ASR": 5.5,
+          "NUM": 46,
+          "SR": 65
+        },
+        "Circulatory_System_Diseases": {
+          "ASR": 47.3,
+          "SR": 104,
+          "NUM": 401
+        },
+        "Colorectal_Cancer": {
+          "ASR": 10.2,
+          "NUM": 87,
+          "SR": 114
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 86,
+          "SR": 123,
+          "ASR": 10.2
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 12.6,
+          "SR": 77,
+          "NUM": 54
+        },
+        "Respiratory_System_Diseases": {
+          "NUM": 91,
+          "SR": 74,
+          "ASR": 10.9
+        },
+        "Ischaemic_Heart_Disease": {
+          "ASR": 21.6,
+          "SR": 90,
+          "NUM": 183
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      },
+      "2011-2015": {
+        "Lung_Cancer": {
+          "SR": 92,
+          "ASR": 19.367,
+          "NUM": 166
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 75,
+          "SR": 109,
+          "ASR": 8.762
+        },
+        "Cancer": {
+          "ASR": 90.597,
+          "NUM": 782,
+          "SR": 90
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 12.432,
+          "NUM": 54,
+          "SR": 77
+        },
+        "COPD": {
+          "NUM": 43,
+          "ASR": 5.09,
+          "SR": 58
+        },
+        "Ischaemic_Heart_Disease": {
+          "NUM": 193,
+          "ASR": 22.399,
+          "SR": 95
+        },
+        "Colorectal_Cancer": {
+          "SR": 105,
+          "NUM": 81,
+          "ASR": 9.367
+        },
+        "Diabetes": {
+          "ASR": 7.693,
+          "NUM": 66,
+          "SR": 127
+        },
+        "Respiratory_System_Diseases": {
+          "ASR": 10.564,
+          "SR": 70,
+          "NUM": 90
+        },
+        "Circulatory_System_Diseases": {
+          "NUM": 405,
+          "ASR": 46.99,
+          "SR": 105
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      }
+    },
+    "Darebin": {
+      "2010-2014": {
+        "Cancer": {
+          "ASR": 99.1,
+          "SR": 98,
+          "NUM": 584
+        },
+        "Lung_Cancer": {
+          "SR": 90,
+          "ASR": 19.0,
+          "NUM": 110
+        },
+        "COPD": {
+          "ASR": 7.1,
+          "NUM": 42,
+          "SR": 84
+        },
+        "Circulatory_System_Diseases": {
+          "ASR": 50.5,
+          "SR": 111,
+          "NUM": 303
+        },
+        "Colorectal_Cancer": {
+          "ASR": 8.3,
+          "NUM": 49,
+          "SR": 92
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 47,
+          "SR": 93,
+          "ASR": 7.8
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 16.5,
+          "SR": 101,
+          "NUM": 50
+        },
+        "Respiratory_System_Diseases": {
+          "NUM": 74,
+          "SR": 84,
+          "ASR": 12.4
+        },
+        "Ischaemic_Heart_Disease": {
+          "ASR": 28.2,
+          "SR": 117,
+          "NUM": 167
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      },
+      "2011-2015": {
+        "Lung_Cancer": {
+          "SR": 83,
+          "ASR": 17.321,
+          "NUM": 100
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 56,
+          "SR": 116,
+          "ASR": 9.358
+        },
+        "Cancer": {
+          "ASR": 100.745,
+          "NUM": 592,
+          "SR": 100
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 17.4,
+          "NUM": 53,
+          "SR": 108
+        },
+        "COPD": {
+          "NUM": 43,
+          "ASR": 7.378,
+          "SR": 84
+        },
+        "Ischaemic_Heart_Disease": {
+          "NUM": 162,
+          "ASR": 27.424,
+          "SR": 117
+        },
+        "Colorectal_Cancer": {
+          "SR": 106,
+          "NUM": 56,
+          "ASR": 9.479
+        },
+        "Diabetes": {
+          "ASR": 5.056,
+          "NUM": 30,
+          "SR": 84
+        },
+        "Respiratory_System_Diseases": {
+          "ASR": 13.673,
+          "SR": 91,
+          "NUM": 81
+        },
+        "Circulatory_System_Diseases": {
+          "NUM": 309,
+          "ASR": 51.713,
+          "SR": 116
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      }
+    },
+    "Hobsons Bay": {
+      "2010-2014": {
+        "Cancer": {
+          "ASR": 110.7,
+          "SR": 110,
+          "NUM": 433
+        },
+        "Lung_Cancer": {
+          "SR": 127,
+          "ASR": 26.7,
+          "NUM": 103
+        },
+        "COPD": {
+          "ASR": 9.7,
+          "NUM": 37,
+          "SR": 115
+        },
+        "Circulatory_System_Diseases": {
+          "ASR": 47.1,
+          "SR": 103,
+          "NUM": 186
+        },
+        "Colorectal_Cancer": {
+          "ASR": 11.0,
+          "NUM": 43,
+          "SR": 122
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 38,
+          "SR": 116,
+          "ASR": 9.6
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 17.8,
+          "SR": 109,
+          "NUM": 36
+        },
+        "Respiratory_System_Diseases": {
+          "NUM": 64,
+          "SR": 112,
+          "ASR": 16.5
+        },
+        "Ischaemic_Heart_Disease": {
+          "ASR": 25.1,
+          "SR": 104,
+          "NUM": 99
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      },
+      "2011-2015": {
+        "Lung_Cancer": {
+          "SR": 113,
+          "ASR": 23.774,
+          "NUM": 93
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 40,
+          "SR": 124,
+          "ASR": 10.051
+        },
+        "Cancer": {
+          "ASR": 105.632,
+          "NUM": 417,
+          "SR": 105
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 16.613,
+          "NUM": 34,
+          "SR": 103
+        },
+        "COPD": {
+          "NUM": 39,
+          "ASR": 10.237,
+          "SR": 116
+        },
+        "Ischaemic_Heart_Disease": {
+          "NUM": 94,
+          "ASR": 23.691,
+          "SR": 101
+        },
+        "Colorectal_Cancer": {
+          "SR": 121,
+          "NUM": 43,
+          "ASR": 10.827
+        },
+        "Diabetes": {
+          "ASR": 4.794,
+          "NUM": 19,
+          "SR": 79
+        },
+        "Respiratory_System_Diseases": {
+          "ASR": 16.276,
+          "SR": 108,
+          "NUM": 63
+        },
+        "Circulatory_System_Diseases": {
+          "NUM": 195,
+          "ASR": 49.277,
+          "SR": 110
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      }
+    },
+    "Hume": {
+      "2010-2014": {
+        "Cancer": {
+          "ASR": 100.4,
+          "SR": 100,
+          "NUM": 696
+        },
+        "Lung_Cancer": {
+          "SR": 105,
+          "ASR": 22.0,
+          "NUM": 149
+        },
+        "COPD": {
+          "ASR": 9.5,
+          "NUM": 63,
+          "SR": 113
+        },
+        "Circulatory_System_Diseases": {
+          "ASR": 49.9,
+          "SR": 109,
+          "NUM": 347
+        },
+        "Colorectal_Cancer": {
+          "ASR": 8.5,
+          "NUM": 59,
+          "SR": 95
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 51,
+          "SR": 89,
+          "ASR": 7.4
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 16.5,
+          "SR": 101,
+          "NUM": 60
+        },
+        "Respiratory_System_Diseases": {
+          "NUM": 124,
+          "SR": 124,
+          "ASR": 18.4
+        },
+        "Ischaemic_Heart_Disease": {
+          "ASR": 27.5,
+          "SR": 114,
+          "NUM": 190
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      },
+      "2011-2015": {
+        "Lung_Cancer": {
+          "SR": 110,
+          "ASR": 23.052,
+          "NUM": 161
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 57,
+          "SR": 101,
+          "ASR": 8.135
+        },
+        "Cancer": {
+          "ASR": 101.22,
+          "NUM": 722,
+          "SR": 101
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 16.613,
+          "NUM": 61,
+          "SR": 103
+        },
+        "COPD": {
+          "NUM": 64,
+          "ASR": 9.538,
+          "SR": 108
+        },
+        "Ischaemic_Heart_Disease": {
+          "NUM": 193,
+          "ASR": 27.112,
+          "SR": 115
+        },
+        "Colorectal_Cancer": {
+          "SR": 114,
+          "NUM": 73,
+          "ASR": 10.23
+        },
+        "Diabetes": {
+          "ASR": 6.182,
+          "NUM": 44,
+          "SR": 102
+        },
+        "Respiratory_System_Diseases": {
+          "ASR": 19.111,
+          "SR": 127,
+          "NUM": 133
+        },
+        "Circulatory_System_Diseases": {
+          "NUM": 352,
+          "ASR": 49.156,
+          "SR": 110
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      }
+    },
+    "Macedon Ranges": {
+      "2010-2014": {
+        "Cancer": {
+          "ASR": 79.9,
+          "SR": 79,
+          "NUM": 186
+        },
+        "Lung_Cancer": {
+          "SR": 69,
+          "ASR": 14.5,
+          "NUM": 34
+        },
+        "COPD": {
+          "ASR": 5.6,
+          "NUM": 13,
+          "SR": 66
+        },
+        "Circulatory_System_Diseases": {
+          "ASR": 33.8,
+          "SR": 74,
+          "NUM": 78
+        },
+        "Colorectal_Cancer": {
+          "ASR": 8.2,
+          "NUM": 19,
+          "SR": 91
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 15,
+          "SR": 78,
+          "ASR": 6.5
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 13.1,
+          "SR": 80,
+          "NUM": 15
+        },
+        "Respiratory_System_Diseases": {
+          "NUM": 19,
+          "SR": 56,
+          "ASR": 8.3
+        },
+        "Ischaemic_Heart_Disease": {
+          "ASR": 16.7,
+          "SR": 69,
+          "NUM": 39
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      },
+      "2011-2015": {
+        "Lung_Cancer": {
+          "SR": 57,
+          "ASR": 12.058,
+          "NUM": 29
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 16,
+          "SR": 84,
+          "ASR": 6.764
+        },
+        "Cancer": {
+          "ASR": 79.215,
+          "NUM": 189,
+          "SR": 79
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 11.899,
+          "NUM": 14,
+          "SR": 74
+        },
+        "COPD": {
+          "NUM": 16,
+          "ASR": 6.708,
+          "SR": 76
+        },
+        "Ischaemic_Heart_Disease": {
+          "NUM": 44,
+          "ASR": 18.431,
+          "SR": 78
+        },
+        "Colorectal_Cancer": {
+          "SR": 75,
+          "NUM": 16,
+          "ASR": 6.724
+        },
+        "Diabetes": {
+          "ASR": 3.375,
+          "NUM": 8,
+          "SR": 56
+        },
+        "Respiratory_System_Diseases": {
+          "ASR": 8.88,
+          "SR": 59,
+          "NUM": 21
+        },
+        "Circulatory_System_Diseases": {
+          "NUM": 88,
+          "ASR": 37.146,
+          "SR": 83
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      }
+    },
+    "Maribyrnong": {
+      "2010-2014": {
+        "Cancer": {
+          "ASR": 98.8,
+          "SR": 98,
+          "NUM": 257
+        },
+        "Lung_Cancer": {
+          "SR": 96,
+          "ASR": 20.1,
+          "NUM": 50
+        },
+        "COPD": {
+          "ASR": 10.4,
+          "NUM": 25,
+          "SR": 123
+        },
+        "Circulatory_System_Diseases": {
+          "ASR": 58.8,
+          "SR": 129,
+          "NUM": 156
+        },
+        "Colorectal_Cancer": {
+          "ASR": 9.9,
+          "NUM": 26,
+          "SR": 111
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 23,
+          "SR": 106,
+          "ASR": 8.8
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 12.6,
+          "SR": 77,
+          "NUM": 17
+        },
+        "Respiratory_System_Diseases": {
+          "NUM": 44,
+          "SR": 118,
+          "ASR": 17.4
+        },
+        "Ischaemic_Heart_Disease": {
+          "ASR": 30.6,
+          "SR": 127,
+          "NUM": 80
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      },
+      "2011-2015": {
+        "Lung_Cancer": {
+          "SR": 97,
+          "ASR": 20.302,
+          "NUM": 51
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 22,
+          "SR": 104,
+          "ASR": 8.383
+        },
+        "Cancer": {
+          "ASR": 94.075,
+          "NUM": 248,
+          "SR": 94
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 9.412,
+          "NUM": 13,
+          "SR": 58
+        },
+        "COPD": {
+          "NUM": 30,
+          "ASR": 12.474,
+          "SR": 141
+        },
+        "Ischaemic_Heart_Disease": {
+          "NUM": 87,
+          "ASR": 32.893,
+          "SR": 140
+        },
+        "Colorectal_Cancer": {
+          "SR": 88,
+          "NUM": 21,
+          "ASR": 7.867
+        },
+        "Diabetes": {
+          "ASR": 6.9,
+          "NUM": 18,
+          "SR": 114
+        },
+        "Respiratory_System_Diseases": {
+          "ASR": 18.897,
+          "SR": 126,
+          "NUM": 48
+        },
+        "Circulatory_System_Diseases": {
+          "NUM": 167,
+          "ASR": 62.25,
+          "SR": 139
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      }
+    },
+    "Melbourne": {
+      "2010-2014": {
+        "Cancer": {
+          "ASR": 67.2,
+          "SR": 67,
+          "NUM": 197
+        },
+        "Lung_Cancer": {
+          "SR": 45,
+          "ASR": 9.4,
+          "NUM": 26
+        },
+        "COPD": {
+          "ASR": 6.7,
+          "NUM": 18,
+          "SR": 80
+        },
+        "Circulatory_System_Diseases": {
+          "ASR": 36.7,
+          "SR": 80,
+          "NUM": 109
+        },
+        "Colorectal_Cancer": {
+          "ASR": 5.4,
+          "NUM": 16,
+          "SR": 60
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 17,
+          "SR": 71,
+          "ASR": 5.9
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 10.5,
+          "SR": 64,
+          "NUM": 15
+        },
+        "Respiratory_System_Diseases": {
+          "NUM": 26,
+          "SR": 62,
+          "ASR": 9.1
+        },
+        "Ischaemic_Heart_Disease": {
+          "ASR": 18.7,
+          "SR": 78,
+          "NUM": 54
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      },
+      "2011-2015": {
+        "Lung_Cancer": {
+          "SR": 53,
+          "ASR": 11.19,
+          "NUM": 32
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 19,
+          "SR": 79,
+          "ASR": 6.383
+        },
+        "Cancer": {
+          "ASR": 67.782,
+          "NUM": 206,
+          "SR": 67
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 10.092,
+          "NUM": 15,
+          "SR": 63
+        },
+        "COPD": {
+          "NUM": 18,
+          "ASR": 6.511,
+          "SR": 74
+        },
+        "Ischaemic_Heart_Disease": {
+          "NUM": 55,
+          "ASR": 18.419,
+          "SR": 78
+        },
+        "Colorectal_Cancer": {
+          "SR": 47,
+          "NUM": 13,
+          "ASR": 4.192
+        },
+        "Diabetes": {
+          "ASR": 1.972,
+          "NUM": 6,
+          "SR": 33
+        },
+        "Respiratory_System_Diseases": {
+          "ASR": 8.465,
+          "SR": 56,
+          "NUM": 25
+        },
+        "Circulatory_System_Diseases": {
+          "NUM": 111,
+          "ASR": 36.046,
+          "SR": 81
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      }
+    },
+    "Melton": {
+      "2010-2014": {
+        "Cancer": {
+          "ASR": 96.5,
+          "SR": 96,
+          "NUM": 374
+        },
+        "Lung_Cancer": {
+          "SR": 101,
+          "ASR": 21.3,
+          "NUM": 79
+        },
+        "COPD": {
+          "ASR": 9.1,
+          "NUM": 31,
+          "SR": 108
+        },
+        "Circulatory_System_Diseases": {
+          "ASR": 49.5,
+          "SR": 109,
+          "NUM": 193
+        },
+        "Colorectal_Cancer": {
+          "ASR": 9.3,
+          "NUM": 36,
+          "SR": 103
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 35,
+          "SR": 112,
+          "ASR": 9.3
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 17.0,
+          "SR": 104,
+          "NUM": 35
+        },
+        "Respiratory_System_Diseases": {
+          "NUM": 63,
+          "SR": 117,
+          "ASR": 17.2
+        },
+        "Ischaemic_Heart_Disease": {
+          "ASR": 24.7,
+          "SR": 103,
+          "NUM": 96
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      },
+      "2011-2015": {
+        "Lung_Cancer": {
+          "SR": 98,
+          "ASR": 20.576,
+          "NUM": 80
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 40,
+          "SR": 123,
+          "ASR": 9.959
+        },
+        "Cancer": {
+          "ASR": 98.335,
+          "NUM": 401,
+          "SR": 98
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 16.676,
+          "NUM": 37,
+          "SR": 103
+        },
+        "COPD": {
+          "NUM": 32,
+          "ASR": 8.703,
+          "SR": 99
+        },
+        "Ischaemic_Heart_Disease": {
+          "NUM": 95,
+          "ASR": 23.226,
+          "SR": 99
+        },
+        "Colorectal_Cancer": {
+          "SR": 109,
+          "NUM": 40,
+          "ASR": 9.711
+        },
+        "Diabetes": {
+          "ASR": 7.432,
+          "NUM": 29,
+          "SR": 123
+        },
+        "Respiratory_System_Diseases": {
+          "ASR": 16.438,
+          "SR": 109,
+          "NUM": 63
+        },
+        "Circulatory_System_Diseases": {
+          "NUM": 196,
+          "ASR": 47.918,
+          "SR": 107
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      }
+    },
+    "Moonee Valley": {
+      "2010-2014": {
+        "Cancer": {
+          "ASR": 88.4,
+          "SR": 88,
+          "NUM": 465
+        },
+        "Lung_Cancer": {
+          "SR": 69,
+          "ASR": 14.5,
+          "NUM": 76
+        },
+        "COPD": {
+          "ASR": 6.4,
+          "NUM": 34,
+          "SR": 76
+        },
+        "Circulatory_System_Diseases": {
+          "ASR": 39.3,
+          "SR": 86,
+          "NUM": 208
+        },
+        "Colorectal_Cancer": {
+          "ASR": 8.5,
+          "NUM": 45,
+          "SR": 95
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 35,
+          "SR": 79,
+          "ASR": 6.6
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 12.3,
+          "SR": 75,
+          "NUM": 33
+        },
+        "Respiratory_System_Diseases": {
+          "NUM": 64,
+          "SR": 82,
+          "ASR": 12.0
+        },
+        "Ischaemic_Heart_Disease": {
+          "ASR": 21.4,
+          "SR": 89,
+          "NUM": 113
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      },
+      "2011-2015": {
+        "Lung_Cancer": {
+          "SR": 75,
+          "ASR": 15.645,
+          "NUM": 82
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 37,
+          "SR": 86,
+          "ASR": 6.964
+        },
+        "Cancer": {
+          "ASR": 90.687,
+          "NUM": 477,
+          "SR": 90
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 13.677,
+          "NUM": 37,
+          "SR": 85
+        },
+        "COPD": {
+          "NUM": 36,
+          "ASR": 6.816,
+          "SR": 77
+        },
+        "Ischaemic_Heart_Disease": {
+          "NUM": 109,
+          "ASR": 20.657,
+          "SR": 88
+        },
+        "Colorectal_Cancer": {
+          "SR": 104,
+          "NUM": 49,
+          "ASR": 9.303
+        },
+        "Diabetes": {
+          "ASR": 5.481,
+          "NUM": 29,
+          "SR": 91
+        },
+        "Respiratory_System_Diseases": {
+          "ASR": 12.097,
+          "SR": 81,
+          "NUM": 64
+        },
+        "Circulatory_System_Diseases": {
+          "NUM": 210,
+          "ASR": 39.657,
+          "SR": 89
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      }
+    },
+    "Moorabool": {
+      "2010-2014": {
+        "Cancer": {
+          "ASR": 109.8,
+          "SR": 109,
+          "NUM": 161
+        },
+        "Lung_Cancer": {
+          "SR": 107,
+          "ASR": 22.5,
+          "NUM": 33
+        },
+        "COPD": {
+          "ASR": 9.1,
+          "NUM": 13,
+          "SR": 108
+        },
+        "Circulatory_System_Diseases": {
+          "ASR": 46.5,
+          "SR": 102,
+          "NUM": 68
+        },
+        "Colorectal_Cancer": {
+          "ASR": 9.7,
+          "NUM": 14,
+          "SR": 108
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 13,
+          "SR": 107,
+          "ASR": 8.9
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 9.8,
+          "SR": 60,
+          "NUM": 7
+        },
+        "Respiratory_System_Diseases": {
+          "NUM": 23,
+          "SR": 108,
+          "ASR": 15.9
+        },
+        "Ischaemic_Heart_Disease": {
+          "ASR": 23.1,
+          "SR": 96,
+          "NUM": 34
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      },
+      "2011-2015": {
+        "Lung_Cancer": {
+          "SR": 132,
+          "ASR": 27.582,
+          "NUM": 42
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 12,
+          "SR": 100,
+          "ASR": 8.04
+        },
+        "Cancer": {
+          "ASR": 114.332,
+          "NUM": 173,
+          "SR": 114
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 9.46,
+          "NUM": 7,
+          "SR": 59
+        },
+        "COPD": {
+          "NUM": 11,
+          "ASR": 7.442,
+          "SR": 84
+        },
+        "Ischaemic_Heart_Disease": {
+          "NUM": 33,
+          "ASR": 21.868,
+          "SR": 93
+        },
+        "Colorectal_Cancer": {
+          "SR": 112,
+          "NUM": 15,
+          "ASR": 10.03
+        },
+        "Diabetes": {
+          "ASR": null,
+          "NUM": null,
+          "SR": null
+        },
+        "Respiratory_System_Diseases": {
+          "ASR": 14.058,
+          "SR": 94,
+          "NUM": 21
+        },
+        "Circulatory_System_Diseases": {
+          "NUM": 67,
+          "ASR": 44.605,
+          "SR": 100
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      }
+    },
+    "Moreland": {
+      "2010-2014": {
+        "Cancer": {
+          "ASR": 100.9,
+          "SR": 100,
+          "NUM": 606
+        },
+        "Lung_Cancer": {
+          "SR": 97,
+          "ASR": 20.5,
+          "NUM": 121
+        },
+        "COPD": {
+          "ASR": 5.9,
+          "NUM": 35,
+          "SR": 70
+        },
+        "Circulatory_System_Diseases": {
+          "ASR": 46.5,
+          "SR": 102,
+          "NUM": 285
+        },
+        "Colorectal_Cancer": {
+          "ASR": 11.5,
+          "NUM": 70,
+          "SR": 129
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 50,
+          "SR": 98,
+          "ASR": 8.1
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 18.2,
+          "SR": 111,
+          "NUM": 56
+        },
+        "Respiratory_System_Diseases": {
+          "NUM": 71,
+          "SR": 78,
+          "ASR": 11.5
+        },
+        "Ischaemic_Heart_Disease": {
+          "ASR": 25.4,
+          "SR": 105,
+          "NUM": 153
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      },
+      "2011-2015": {
+        "Lung_Cancer": {
+          "SR": 97,
+          "ASR": 20.433,
+          "NUM": 119
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 48,
+          "SR": 98,
+          "ASR": 7.948
+        },
+        "Cancer": {
+          "ASR": 99.352,
+          "NUM": 590,
+          "SR": 99
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 16.573,
+          "NUM": 51,
+          "SR": 103
+        },
+        "COPD": {
+          "NUM": 40,
+          "ASR": 6.88,
+          "SR": 78
+        },
+        "Ischaemic_Heart_Disease": {
+          "NUM": 147,
+          "ASR": 24.696,
+          "SR": 105
+        },
+        "Colorectal_Cancer": {
+          "SR": 126,
+          "NUM": 68,
+          "ASR": 11.302
+        },
+        "Diabetes": {
+          "ASR": 7.182,
+          "NUM": 43,
+          "SR": 119
+        },
+        "Respiratory_System_Diseases": {
+          "ASR": 11.764,
+          "SR": 78,
+          "NUM": 70
+        },
+        "Circulatory_System_Diseases": {
+          "NUM": 275,
+          "ASR": 45.393,
+          "SR": 101
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      }
+    },
+    "Wyndham": {
+      "2010-2014": {
+        "Cancer": {
+          "ASR": 96.2,
+          "SR": 96,
+          "NUM": 543
+        },
+        "Lung_Cancer": {
+          "SR": 105,
+          "ASR": 22.2,
+          "NUM": 119
+        },
+        "COPD": {
+          "ASR": 8.1,
+          "NUM": 41,
+          "SR": 96
+        },
+        "Circulatory_System_Diseases": {
+          "ASR": 41.5,
+          "SR": 91,
+          "NUM": 237
+        },
+        "Colorectal_Cancer": {
+          "ASR": 9.0,
+          "NUM": 51,
+          "SR": 101
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 46,
+          "SR": 100,
+          "ASR": 8.3
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 12.6,
+          "SR": 77,
+          "NUM": 38
+        },
+        "Respiratory_System_Diseases": {
+          "NUM": 74,
+          "SR": 93,
+          "ASR": 13.7
+        },
+        "Ischaemic_Heart_Disease": {
+          "ASR": 19.7,
+          "SR": 82,
+          "NUM": 111
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      },
+      "2011-2015": {
+        "Lung_Cancer": {
+          "SR": 113,
+          "ASR": 23.638,
+          "NUM": 133
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 52,
+          "SR": 111,
+          "ASR": 8.958
+        },
+        "Cancer": {
+          "ASR": 97.916,
+          "NUM": 582,
+          "SR": 97
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 13.539,
+          "NUM": 43,
+          "SR": 84
+        },
+        "COPD": {
+          "NUM": 42,
+          "ASR": 7.886,
+          "SR": 89
+        },
+        "Ischaemic_Heart_Disease": {
+          "NUM": 114,
+          "ASR": 19.198,
+          "SR": 82
+        },
+        "Colorectal_Cancer": {
+          "SR": 106,
+          "NUM": 57,
+          "ASR": 9.522
+        },
+        "Diabetes": {
+          "ASR": 4.504,
+          "NUM": 26,
+          "SR": 74
+        },
+        "Respiratory_System_Diseases": {
+          "ASR": 12.671,
+          "SR": 84,
+          "NUM": 72
+        },
+        "Circulatory_System_Diseases": {
+          "NUM": 252,
+          "ASR": 41.812,
+          "SR": 93
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      }
+    },
+    "Yarra": {
+      "2010-2014": {
+        "Cancer": {
+          "ASR": 96.2,
+          "SR": 96,
+          "NUM": 284
+        },
+        "Lung_Cancer": {
+          "SR": 112,
+          "ASR": 23.7,
+          "NUM": 67
+        },
+        "COPD": {
+          "ASR": 6.7,
+          "NUM": 19,
+          "SR": 79
+        },
+        "Circulatory_System_Diseases": {
+          "ASR": 39.8,
+          "SR": 87,
+          "NUM": 119
+        },
+        "Colorectal_Cancer": {
+          "ASR": 10.9,
+          "NUM": 32,
+          "SR": 121
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 26,
+          "SR": 105,
+          "ASR": 8.7
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 16.7,
+          "SR": 102,
+          "NUM": 26
+        },
+        "Respiratory_System_Diseases": {
+          "NUM": 35,
+          "SR": 83,
+          "ASR": 12.3
+        },
+        "Ischaemic_Heart_Disease": {
+          "ASR": 19.2,
+          "SR": 80,
+          "NUM": 57
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      },
+      "2011-2015": {
+        "Lung_Cancer": {
+          "SR": 114,
+          "ASR": 23.991,
+          "NUM": 69
+        },
+        "Cerebrovascular_Diseases": {
+          "NUM": 22,
+          "SR": 91,
+          "ASR": 7.343
+        },
+        "Cancer": {
+          "ASR": 94.395,
+          "NUM": 284,
+          "SR": 94
+        },
+        "Breast_Cancer_Females": {
+          "ASR": 14.557,
+          "NUM": 23,
+          "SR": 90
+        },
+        "COPD": {
+          "NUM": 16,
+          "ASR": 5.602,
+          "SR": 64
+        },
+        "Ischaemic_Heart_Disease": {
+          "NUM": 60,
+          "ASR": 19.866,
+          "SR": 84
+        },
+        "Colorectal_Cancer": {
+          "SR": 111,
+          "NUM": 30,
+          "ASR": 9.933
+        },
+        "Diabetes": {
+          "ASR": 5.304,
+          "NUM": 16,
+          "SR": 88
+        },
+        "Respiratory_System_Diseases": {
+          "ASR": 10.8,
+          "SR": 72,
+          "NUM": 32
+        },
+        "Circulatory_System_Diseases": {
+          "NUM": 123,
+          "ASR": 40.466,
+          "SR": 90
+        },
+        "bbox": [
+          96.81,
+          -43.75,
+          159.11,
+          -9.14
+        ]
+      }
+    }
+  }
+}

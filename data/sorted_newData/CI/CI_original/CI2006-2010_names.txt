@@ -1,0 +1,13 @@
+lung_canc_2006_2010_num
+lymphoma_2006_2010_num
+colortl_canc_2006_2010_sr
+colortl_canc_2006_2010_asr_100000
+lung_canc_2006_2010_asr_100000
+colortl_canc_2006_2010_num
+lymphoma_2006_2010_asr_100000
+lga_code
+lung_canc_2006_2010_sr
+melanoma_skin_2006_2010_asr_100000
+melanoma_skin_2006_2010_num
+melanoma_skin_2006_2010_sr
+lymphoma_2006_2010_sr
