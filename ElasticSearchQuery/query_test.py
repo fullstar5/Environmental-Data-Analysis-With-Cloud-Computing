@@ -6,6 +6,19 @@ from pathlib import Path
 def construct_query(params):
     query = {"bool": {"must": []}}
 
+    if "startDate" in params and "endDate" in params:
+        start_date = params["startDate"]
+        end_date = params["endDate"]
+
+        query["bool"]["must"].append({
+            "range": {
+                "timestamp": {
+                    "gte": f"{start_date}T00:00:00",
+                    "lte": f"{end_date}T23:59:59"
+                }
+            }
+        })
+
     # 添加查询条件（仅当相关参数不为空时）
     if "healthAdvice" in params and params["healthAdvice"]:
         query["bool"]["must"].append({"match": {"healthAdvice": params["healthAdvice"]}})
@@ -35,28 +48,37 @@ def construct_query(params):
 
     return query
 
+
 def main():
+
     # 从查询字符串中获取参数
-    date_str = request.args.get('date', None)  # 提取日期参数
-    start_hour = request.args.get('startHour', None)  # 开始小时
-    end_hour = request.args.get('endHour', None)  # 结束小时
+    start_date = request.args.get("startDate", None)
+    end_date = request.args.get("endDate", start_date)  # 默认使用 start_date 作为 end_date
+    start_hour = request.args.get('startHour', None)
+    end_hour = request.args.get('endHour', None)
 
-    # 创建Elasticsearch客户端
-    client = Elasticsearch(
-        'https://elasticsearch-master.elastic.svc.cluster.local:9200',
-        verify_certs=False,
-        basic_auth=('elastic', 'elastic')
-    )
+    # connect to ES
+    try:
+        client = Elasticsearch(
+            'https://elasticsearch-master.elastic.svc.cluster.local:9200',
+            verify_certs=False,
+            basic_auth=('elastic', 'elastic'),
+            timeout=60,
+            ssl_show_warn=False
+        )
+    except Exception as e:
+        print("error when connect with ES: ", e)
+        return 500
 
-    # 构建索引名称
-    if date_str:
-        index_name = f"epa-air-quality-{date_str}"
-        output_file_path = Path(f"./epa-air-quality-results-{date_str}.json")
-    else:
-        index_name = "epa-air-quality-*"
-        output_file_path = Path(f"./epa-air-quality-results-all.json")
+    # if exact date given
+    if end_date:
+        index_name = f"epa-air-quality-{start_date}-{end_date}"
+        output_file_path = Path(f"./epa-air-quality-results-{start_date}-{end_date}.json")
+    # else:
+    #     index_name = "epa-air-quality-*"
+    #     output_file_path = Path(f"./epa-air-quality-results-all.json")
 
-    # 构建查询
+    # construct params
     params = {
         "startHour": start_hour,
         "endHour": end_hour,
@@ -66,12 +88,11 @@ def main():
         "siteName": request.args.get("siteName", None),
     }
 
+    # query and dump into json file
     query = construct_query(params)
+    size = 10000  # query size
+    res = client.search(index=index_name, query=query, size=size)
 
-    # 执行Elasticsearch查询
-    res = client.search(index=index_name, query=query)
-
-    # 将结果存储到JSON文件
     with output_file_path.open("w") as f:
         json.dump(res, f, indent=2)
 
