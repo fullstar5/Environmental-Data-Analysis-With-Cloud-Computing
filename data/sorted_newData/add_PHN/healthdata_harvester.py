@@ -9,18 +9,16 @@ def upload_data(es, data):
     for region, areas in data.items():
         for area, periods in areas.items():
             for period, diseases in periods.items():
-                
-                year = period.split('-')[1]
+                bbox = diseases.pop("bbox", None)
                 for disease, stats in diseases.items():
-                    
-                    doc_id = f"{area}_{disease}_{year}"
+                    doc_id = f"{region}-{area}-{period}-{disease}"
                     document = {
                         "region": region,
                         "area": area,
                         "period": period,
                         "disease": disease,
                         "stats": stats,
-                        "site": periods.get("site", [])  
+                        "bbox": bbox
                     }
                     es.index(index="health_data", id=doc_id, body=document)
                     print(f"Document {doc_id} uploaded successfully!")
