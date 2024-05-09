@@ -27,6 +27,8 @@ def construct_query(params):
     
 def main():
 
+    current_app.logger.info(f'Received request: ${request.headers}')
+
     try:
         client = Elasticsearch(
             'https://elasticsearch-master.elastic.svc.cluster.local:9200',
@@ -39,7 +41,6 @@ def main():
         print("Error when connect with ES: ", e)
         return 500
     
-    current_app.logger.info(f'Received request: ${request.headers}')
 
     start = request.args.get("startDate",'01')
     end = request.args.get("endDate", start)
@@ -58,4 +59,3 @@ def main():
     res = client.search(index=indices, query=construct_query(params))
     data = res['hits']
     return jsonify(data)
-
