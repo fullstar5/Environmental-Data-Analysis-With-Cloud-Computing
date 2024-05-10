@@ -1,4 +1,4 @@
-#get_data.py: the fuctions of searching for data via ES
+#get_data.py: fuctions of searching for data via ES
 """
 All functions must have 'es' when used, all results will be stored in a dict.
                          ↓↓
@@ -13,7 +13,7 @@ es = Elasticsearch(
 
 
 def twitter(es, city=None, size=1000, language=None):
-
+    # from get_data import twitter
     """
     e.g.: results = twitter(es, city="Ballarat", size=5, language="de")
     default size is 1000
@@ -46,8 +46,10 @@ def twitter(es, city=None, size=1000, language=None):
 
 
 def epa(es, start, end, avg=None, time=None, health_advice=None, city=None, health_parameter=None, size=1000):
-
+    # from get_data import epa
     """
+    e.g.: results = epa(es, 1, 5)
+    must have start and end date.
     start: start date, end: end date.
                 ↓
                 1
@@ -90,8 +92,10 @@ def epa(es, start, end, avg=None, time=None, health_advice=None, city=None, heal
 
 
 def bom(es, start, end, air_temp=None, apparent_temp=None, cloud=None, cloud_type=None, delta_temp=None, dew_point=None, time=None, press=None, press_tend=None, rain_trace=None, vis_km=None, weather=None, wind_spd_kmh=None, size=1000):
-
+    # from get_data import bom
     """
+    e.g.: results = bom(es, 3, 10)
+    must have start and end date.
     start: start date, end: end date.
                 ↓
                 3
@@ -149,8 +153,9 @@ def bom(es, start, end, air_temp=None, apparent_temp=None, cloud=None, cloud_typ
 
 
 def health(es, asr=None, disease=None, lga=None, num=None, period=None, phn=None, sr=None, size=1000):
-
+    # from get_data import health
     """
+    e.g.results = health(es, phn="North Western Melbourne", size=5)
     default size is 1000
     Add whatever u want to search for.
     """
