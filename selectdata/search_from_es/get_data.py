@@ -1,6 +1,6 @@
 #get_data.py: Fuctions of searching for data via ES
 """
-All functions must have 'es' when used, all results will be stored in a dict.
+All functions must have 'es' when used, all results will be stored in a list.
                          ↓↓
 es = Elasticsearch(
     'https://127.0.0.1:9200',
@@ -229,7 +229,7 @@ def health(es, asr=None, disease=None, lga=None, num=None, period=None, phn=None
     if period:
         must_conditions.append({"match": {"Period": period}})
     if phn:
-        must_conditions.append({"match": {"PHN": phn}})
+        must_conditions.append({"wildcard": {"PHN": "*"+ phn + "*"}})
     if sr:
         must_conditions.append({"match": {"SR": sr}})
 
