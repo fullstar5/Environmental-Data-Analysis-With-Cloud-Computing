@@ -1,0 +1,6088 @@
+{
+    "26890": {
+        "2017-2018": {
+            "Diabetes": {
+                "ASR": null
+            },
+            "Genitourinary_Diseases": {
+                "ASR": 93.3537690977923
+            },
+            "Cancers": {
+                "ASR": 3225.96107372688
+            },
+            "Musculoskeletal_Disorders": {
+                "ASR": 3130.77891169213
+            },
+            "Mental_Health_Conditions": {
+                "ASR": null
+            },
+            "Respiratory_Diseases": {
+                "ASR": 136.61744443028
+            },
+            "Infectious_Diseases": {
+                "ASR": null
+            },
+            "Nervous_System_Diseases": {
+                "ASR": 72.8496947870176
+            },
+            "Digestive_System_Diseases": {
+                "ASR": 4305.66957588549
+            },
+            "Asthma": {
+                "ASR": null
+            },
+            "All_Cancers": {
+                "ASR": 119.521181960731
+            },
+            "Mood_Affective_Disorders": {
+                "ASR": null
+            },
+            "Endocrine_Disorders": {
+                "ASR": 1545.72660132201
+            },
+            "Chronic_Kidney_Disease": {
+                "ASR": null
+            },
+            "Congenital_Abnormalities": {
+                "ASR": null
+            },
+            "Stroke": {
+                "ASR": null
+            },
+            "Eye_Disorders": {
+                "ASR": 164.58722922344
+            },
+            "Heart_Failure": {
+                "ASR": null
+            },
+            "COPD": {
+                "ASR": null
+            },
+            "Skin_Disorders": {
+                "ASR": null
+            },
+            "Ear_Disorders": {
+                "ASR": null
+            },
+            "Ischemic_Heart_Disease": {
+                "ASR": 44.2886850817942
+            },
+            "Circulatory_System_Diseases": {
+                "ASR": 125.829523734827
+            },
+            "COPD_Public_Hospital": {
+                "ASR": 177.224740205612
+            }
+        }
+    },
+    "20110": {
+        "2017-2018": {
+            "Diabetes": {
+                "ASR": null
+            },
+            "Genitourinary_Diseases": {
+                "ASR": 264.230943982481
+            },
+            "Cancers": {
+                "ASR": 2852.46184105566
+            },
+            "Musculoskeletal_Disorders": {
+                "ASR": 2427.63269822959
+            },
+            "Mental_Health_Conditions": {
+                "ASR": 1135.8318495952
+            },
+            "Respiratory_Diseases": {
+                "ASR": 289.359433141573
+            },
+            "Infectious_Diseases": {
+                "ASR": 102.388676470211
+            },
+            "Nervous_System_Diseases": {
+                "ASR": 146.058631008774
+            },
+            "Digestive_System_Diseases": {
+                "ASR": 4376.63833031211
+            },
+            "Asthma": {
+                "ASR": null
+            },
+            "All_Cancers": {
+                "ASR": 105.683113636268
+            },
+            "Mood_Affective_Disorders": {
+                "ASR": 89.8983773592162
+            },
+            "Endocrine_Disorders": {
+                "ASR": 831.744303341505
+            },
+            "Chronic_Kidney_Disease": {
+                "ASR": null
+            },
+            "Congenital_Abnormalities": {
+                "ASR": 154.848164720958
+            },
+            "Stroke": {
+                "ASR": null
+            },
+            "Eye_Disorders": {
+                "ASR": 64.8403898379207
+            },
+            "Heart_Failure": {
+                "ASR": null
+            },
+            "COPD": {
+                "ASR": null
+            },
+            "Skin_Disorders": {
+                "ASR": 107.559936918961
+            },
+            "Ear_Disorders": {
+                "ASR": 210.388186912955
+            },
+            "Ischemic_Heart_Disease": {
+                "ASR": 124.587492236045
+            },
+            "Circulatory_System_Diseases": {
+                "ASR": 106.783985388741
+            },
+            "COPD_Public_Hospital": {
+                "ASR": 121.355463521826
+            }
+        }
+    },
+    "20260": {
+        "2017-2018": {
+            "Diabetes": {
+                "ASR": null
+            },
+            "Genitourinary_Diseases": {
+                "ASR": 270.836592447939
+            },
+            "Cancers": {
+                "ASR": 3156.09926217891
+            },
+            "Musculoskeletal_Disorders": {
+                "ASR": 2957.17106973715
+            },
+            "Mental_Health_Conditions": {
+                "ASR": 1005.37033181574
+            },
+            "Respiratory_Diseases": {
+                "ASR": 280.37256158871
+            },
+            "Infectious_Diseases": {
+                "ASR": 94.6227686895156
+            },
+            "Nervous_System_Diseases": {
+                "ASR": 190.595833607304
+            },
+            "Digestive_System_Diseases": {
+                "ASR": 4311.0601979148
+            },
+            "Asthma": {
+                "ASR": null
+            },
+            "All_Cancers": {
+                "ASR": 116.932816478539
+            },
+            "Mood_Affective_Disorders": {
+                "ASR": null
+            },
+            "Endocrine_Disorders": {
+                "ASR": 1227.50793951529
+            },
+            "Chronic_Kidney_Disease": {
+                "ASR": null
+            },
+            "Congenital_Abnormalities": {
+                "ASR": null
+            },
+            "Stroke": {
+                "ASR": null
+            },
+            "Eye_Disorders": {
+                "ASR": 88.2617073326527
+            },
+            "Heart_Failure": {
+                "ASR": 180.91040584365
+            },
+            "COPD": {
+                "ASR": null
+            },
+            "Skin_Disorders": {
+                "ASR": 98.0284834934796
+            },
+            "Ear_Disorders": {
+                "ASR": 233.279898449816
+            },
+            "Ischemic_Heart_Disease": {
+                "ASR": 106.737045077535
+            },
+            "Circulatory_System_Diseases": {
+                "ASR": 96.3534153926554
+            },
+            "COPD_Public_Hospital": {
+                "ASR": 123.203907439099
+            }
+        }
+    },
+    "20570": {
+        "2017-2018": {
+            "Diabetes": {
+                "ASR": 240.639258592018
+            },
+            "Genitourinary_Diseases": {
+                "ASR": 2524.50672920825
+            },
+            "Cancers": {
+                "ASR": 4067.66836126899
+            },
+            "Musculoskeletal_Disorders": {
+                "ASR": 2966.88761643098
+            },
+            "Mental_Health_Conditions": {
+                "ASR": 1229.63301973598
+            },
+            "Respiratory_Diseases": {
+                "ASR": 2533.52427666358
+            },
+            "Infectious_Diseases": {
+                "ASR": 116.646661006813
+            },
+            "Nervous_System_Diseases": {
+                "ASR": 2338.85036924287
+            },
+            "Digestive_System_Diseases": {
+                "ASR": 4550.37725727092
+            },
+            "Asthma": {
+                "ASR": 192.014022287621
+            },
+            "All_Cancers": {
+                "ASR": 150.706260631185
+            },
+            "Mood_Affective_Disorders": {
+                "ASR": 79.6529175426395
+            },
+            "Endocrine_Disorders": {
+                "ASR": 1171.89388624724
+            },
+            "Chronic_Kidney_Disease": {
+                "ASR": 107.332769356798
+            },
+            "Congenital_Abnormalities": {
+                "ASR": 141.901312198432
+            },
+            "Stroke": {
+                "ASR": 246.290992781491
+            },
+            "Eye_Disorders": {
+                "ASR": 82.895472217304
+            },
+            "Heart_Failure": {
+                "ASR": 263.981359073728
+            },
+            "COPD": {
+                "ASR": 437.974599922303
+            },
+            "Skin_Disorders": {
+                "ASR": 113.456414929033
+            },
+            "Ear_Disorders": {
+                "ASR": 386.258513890356
+            },
+            "Ischemic_Heart_Disease": {
+                "ASR": 811.874244932996
+            },
+            "Circulatory_System_Diseases": {
+                "ASR": 109.797278956939
+            },
+            "COPD_Public_Hospital": {
+                "ASR": 116.618957264307
+            }
+        }
+    },
+    "20660": {
+        "2017-2018": {
+            "Diabetes": {
+                "ASR": 400.0
+            },
+            "Genitourinary_Diseases": {
+                "ASR": 3214.0
+            },
+            "Cancers": {
+                "ASR": 3568.14403201792
+            },
+            "Musculoskeletal_Disorders": {
+                "ASR": 2898.73390223979
+            },
+            "Mental_Health_Conditions": {
+                "ASR": 1600.39371798837
+            },
+            "Respiratory_Diseases": {
+                "ASR": 2606.0
+            },
+            "Infectious_Diseases": {
+                "ASR": 122.550470156934
+            },
+            "Nervous_System_Diseases": {
+                "ASR": 2465.0
+            },
+            "Digestive_System_Diseases": {
+                "ASR": 5907.01552391772
+            },
+            "Asthma": {
+                "ASR": 248.0
+            },
+            "All_Cancers": {
+                "ASR": 132.198988879993
+            },
+            "Mood_Affective_Disorders": {
+                "ASR": 92.2454057065269
+            },
+            "Endocrine_Disorders": {
+                "ASR": 1043.00620997681
+            },
+            "Chronic_Kidney_Disease": {
+                "ASR": 97.5728471798505
+            },
+            "Congenital_Abnormalities": {
+                "ASR": 121.469061413408
+            },
+            "Stroke": {
+                "ASR": 357.0
+            },
+            "Eye_Disorders": {
+                "ASR": 98.4315538180383
+            },
+            "Heart_Failure": {
+                "ASR": 323.826287012316
+            },
+            "COPD": {
+                "ASR": 329.0
+            },
+            "Skin_Disorders": {
+                "ASR": 108.326957349536
+            },
+            "Ear_Disorders": {
+                "ASR": 302.561224354486
+            },
+            "Ischemic_Heart_Disease": {
+                "ASR": 751.0
+            },
+            "Circulatory_System_Diseases": {
+                "ASR": 110.394180146362
+            },
+            "COPD_Public_Hospital": {
+                "ASR": 62.5873516406546
+            }
+        }
+    },
+    "20740": {
+        "2017-2018": {
+            "Diabetes": {
+                "ASR": 83.601539021247
+            },
+            "Genitourinary_Diseases": {
+                "ASR": 915.879449995785
+            },
+            "Cancers": {
+                "ASR": 3383.86567199964
+            },
+            "Musculoskeletal_Disorders": {
+                "ASR": 2576.73167101498
+            },
+            "Mental_Health_Conditions": {
+                "ASR": 1526.13490596586
+            },
+            "Respiratory_Diseases": {
+                "ASR": 854.798855893528
+            },
+            "Infectious_Diseases": {
+                "ASR": 90.418055771127
+            },
+            "Nervous_System_Diseases": {
+                "ASR": 618.81709369809
+            },
+            "Digestive_System_Diseases": {
+                "ASR": 5243.43503069531
+            },
+            "Asthma": {
+                "ASR": null
+            },
+            "All_Cancers": {
+                "ASR": 125.371514246604
+            },
+            "Mood_Affective_Disorders": {
+                "ASR": 86.2327868065692
+            },
+            "Endocrine_Disorders": {
+                "ASR": 587.643258535382
+            },
+            "Chronic_Kidney_Disease": {
+                "ASR": 85.6314611731228
+            },
+            "Congenital_Abnormalities": {
+                "ASR": 127.11868109667
+            },
+            "Stroke": {
+                "ASR": null
+            },
+            "Eye_Disorders": {
+                "ASR": 87.1641102112854
+            },
+            "Heart_Failure": {
+                "ASR": 245.593523938998
+            },
+            "COPD": {
+                "ASR": null
+            },
+            "Skin_Disorders": {
+                "ASR": 113.318218114744
+            },
+            "Ear_Disorders": {
+                "ASR": 300.621208286133
+            },
+            "Ischemic_Heart_Disease": {
+                "ASR": 373.847266186362
+            },
+            "Circulatory_System_Diseases": {
+                "ASR": 97.9373420713122
+            },
+            "COPD_Public_Hospital": {
+                "ASR": 131.112573240528
+            }
+        }
+    },
+    "20830": {
+        "2017-2018": {
+            "Diabetes": {
+                "ASR": 515.648032635985
+            },
+            "Genitourinary_Diseases": {
+                "ASR": 1174.1257225541
+            },
+            "Cancers": {
+                "ASR": 2955.12193901981
+            },
+            "Musculoskeletal_Disorders": {
+                "ASR": 2696.80429989485
+            },
+            "Mental_Health_Conditions": {
+                "ASR": 1708.28803862931
+            },
+            "Respiratory_Diseases": {
+                "ASR": 1035.83357539603
+            },
+            "Infectious_Diseases": {
+                "ASR": 80.4773261865089
+            },
+            "Nervous_System_Diseases": {
+                "ASR": 666.766521085772
+            },
+            "Digestive_System_Diseases": {
+                "ASR": 3645.22887334125
+            },
+            "Asthma": {
+                "ASR": null
+            },
+            "All_Cancers": {
+                "ASR": 109.486648759122
+            },
+            "Mood_Affective_Disorders": {
+                "ASR": 154.126028714252
+            },
+            "Endocrine_Disorders": {
+                "ASR": 1341.28189103743
+            },
+            "Chronic_Kidney_Disease": {
+                "ASR": 65.1623627336521
+            },
+            "Congenital_Abnormalities": {
+                "ASR": 92.077291841234
+            },
+            "Stroke": {
+                "ASR": 111.680138753718
+            },
+            "Eye_Disorders": {
+                "ASR": 105.660956161713
+            },
+            "Heart_Failure": {
+                "ASR": 209.230108850808
+            },
+            "COPD": {
+                "ASR": 154.895381867666
+            },
+            "Skin_Disorders": {
+                "ASR": 127.322312562895
+            },
+            "Ear_Disorders": {
+                "ASR": 324.309566369197
+            },
+            "Ischemic_Heart_Disease": {
+                "ASR": 318.667428972085
+            },
+            "Circulatory_System_Diseases": {
+                "ASR": 89.6293436665665
+            },
+            "COPD_Public_Hospital": {
+                "ASR": 76.9378184881496
+            }
+        }
+    },
+    "20910": {
+        "2017-2018": {
+            "Diabetes": {
+                "ASR": 143.0
+            },
+            "Genitourinary_Diseases": {
+                "ASR": 2487.0
+            },
+            "Cancers": {
+                "ASR": 3604.1037734475
+            },
+            "Musculoskeletal_Disorders": {
+                "ASR": 2813.81705699967
+            },
+            "Mental_Health_Conditions": {
+                "ASR": 2002.50076681703
+            },
+            "Respiratory_Diseases": {
+                "ASR": 2099.0
+            },
+            "Infectious_Diseases": {
+                "ASR": 119.572732647528
+            },
+            "Nervous_System_Diseases": {
+                "ASR": 1745.0
+            },
+            "Digestive_System_Diseases": {
+                "ASR": 5427.87458445736
+            },
+            "Asthma": {
+                "ASR": 135.0
+            },
+            "All_Cancers": {
+                "ASR": 133.531289766594
+            },
+            "Mood_Affective_Disorders": {
+                "ASR": 75.6805541611524
+            },
+            "Endocrine_Disorders": {
+                "ASR": 935.462771797001
+            },
+            "Chronic_Kidney_Disease": {
+                "ASR": 82.8679077450536
+            },
+            "Congenital_Abnormalities": {
+                "ASR": 106.975956005795
+            },
+            "Stroke": {
+                "ASR": 281.0
+            },
+            "Eye_Disorders": {
+                "ASR": 85.1039354907641
+            },
+            "Heart_Failure": {
+                "ASR": 240.169413107656
+            },
+            "COPD": {
+                "ASR": 252.0
+            },
+            "Skin_Disorders": {
+                "ASR": 118.102861755411
+            },
+            "Ear_Disorders": {
+                "ASR": 334.521136549055
+            },
+            "Ischemic_Heart_Disease": {
+                "ASR": 571.0
+            },
+            "Circulatory_System_Diseases": {
+                "ASR": 93.6317502448364
+            },
+            "COPD_Public_Hospital": {
+                "ASR": 41.3534523620539
+            }
+        }
+    },
+    "21010": {
+        "2017-2018": {
+            "Diabetes": {
+                "ASR": null
+            },
+            "Genitourinary_Diseases": {
+                "ASR": 283.3379504333
+            },
+            "Cancers": {
+                "ASR": 2971.97406593331
+            },
+            "Musculoskeletal_Disorders": {
+                "ASR": 2525.86945102895
+            },
+            "Mental_Health_Conditions": {
+                "ASR": 1004.50361160017
+            },
+            "Respiratory_Diseases": {
+                "ASR": 450.989056864228
+            },
+            "Infectious_Diseases": {
+                "ASR": null
+            },
+            "Nervous_System_Diseases": {
+                "ASR": 210.523703874125
+            },
+            "Digestive_System_Diseases": {
+                "ASR": 4815.00433798133
+            },
+            "Asthma": {
+                "ASR": null
+            },
+            "All_Cancers": {
+                "ASR": 110.111016530841
+            },
+            "Mood_Affective_Disorders": {
+                "ASR": 34.197468728044
+            },
+            "Endocrine_Disorders": {
+                "ASR": 1557.1260664607
+            },
+            "Chronic_Kidney_Disease": {
+                "ASR": null
+            },
+            "Congenital_Abnormalities": {
+                "ASR": 115.872222518215
+            },
+            "Stroke": {
+                "ASR": null
+            },
+            "Eye_Disorders": {
+                "ASR": 60.0490095985454
+            },
+            "Heart_Failure": {
+                "ASR": null
+            },
+            "COPD": {
+                "ASR": null
+            },
+            "Skin_Disorders": {
+                "ASR": 151.655714251878
+            },
+            "Ear_Disorders": {
+                "ASR": 257.68650548695
+            },
+            "Ischemic_Heart_Disease": {
+                "ASR": 131.94213381
+            },
+            "Circulatory_System_Diseases": {
+                "ASR": 111.492878324883
+            },
+            "COPD_Public_Hospital": {
+                "ASR": 186.910749287039
+            }
+        }
+    },
+    "21110": {
+        "2017-2018": {
+            "Diabetes": {
+                "ASR": 203.0
+            },
+            "Genitourinary_Diseases": {
+                "ASR": 3485.0
+            },
+            "Cancers": {
+                "ASR": 3355.90067057493
+            },
+            "Musculoskeletal_Disorders": {
+                "ASR": 2419.43325382584
+            },
+            "Mental_Health_Conditions": {
+                "ASR": 2628.35613662293
+            },
+            "Respiratory_Diseases": {
+                "ASR": 2677.0
+            },
+            "Infectious_Diseases": {
+                "ASR": 91.0536871679251
+            },
+            "Nervous_System_Diseases": {
+                "ASR": 2998.0
+            },
+            "Digestive_System_Diseases": {
+                "ASR": 4954.34140138637
+            },
+            "Asthma": {
+                "ASR": 229.0
+            },
+            "All_Cancers": {
+                "ASR": 124.335416802331
+            },
+            "Mood_Affective_Disorders": {
+                "ASR": 218.062868282866
+            },
+            "Endocrine_Disorders": {
+                "ASR": 739.955506711105
+            },
+            "Chronic_Kidney_Disease": {
+                "ASR": 58.8411041464888
+            },
+            "Congenital_Abnormalities": {
+                "ASR": 103.758915995182
+            },
+            "Stroke": {
+                "ASR": 362.0
+            },
+            "Eye_Disorders": {
+                "ASR": 123.623708524966
+            },
+            "Heart_Failure": {
+                "ASR": 208.505170045524
+            },
+            "COPD": {
+                "ASR": 206.0
+            },
+            "Skin_Disorders": {
+                "ASR": 82.9661272544766
+            },
+            "Ear_Disorders": {
+                "ASR": 274.384290611435
+            },
+            "Ischemic_Heart_Disease": {
+                "ASR": 748.0
+            },
+            "Circulatory_System_Diseases": {
+                "ASR": 82.6027340930043
+            },
+            "COPD_Public_Hospital": {
+                "ASR": 18.1144653249147
+            }
+        }
+    },
+    "21180": {
+        "2017-2018": {
+            "Diabetes": {
+                "ASR": 430.9983004
+            },
+            "Genitourinary_Diseases": {
+                "ASR": 4008.9723208
+            },
+            "Cancers": {
+                "ASR": 2100.14287507903
+            },
+            "Musculoskeletal_Disorders": {
+                "ASR": 1981.49246192478
+            },
+            "Mental_Health_Conditions": {
+                "ASR": 1053.89190913719
+            },
+            "Respiratory_Diseases": {
+                "ASR": 3302.9779052
+            },
+            "Infectious_Diseases": {
+                "ASR": 112.567835058009
+            },
+            "Nervous_System_Diseases": {
+                "ASR": 2696.9809402
+            },
+            "Digestive_System_Diseases": {
+                "ASR": 4617.76967287864
+            },
+            "Asthma": {
+                "ASR": 409.9976934
+            },
+            "All_Cancers": {
+                "ASR": 77.8098535534609
+            },
+            "Mood_Affective_Disorders": {
+                "ASR": 63.4418982278089
+            },
+            "Endocrine_Disorders": {
+                "ASR": 643.082251210769
+            },
+            "Chronic_Kidney_Disease": {
+                "ASR": 123.225192533567
+            },
+            "Congenital_Abnormalities": {
+                "ASR": 96.6127397312522
+            },
+            "Stroke": {
+                "ASR": 446.9984218
+            },
+            "Eye_Disorders": {
+                "ASR": 92.4833771382638
+            },
+            "Heart_Failure": {
+                "ASR": 330.864119948699
+            },
+            "COPD": {
+                "ASR": 473.995144
+            },
+            "Skin_Disorders": {
+                "ASR": 83.600454865704
+            },
+            "Ear_Disorders": {
+                "ASR": 211.859297979686
+            },
+            "Ischemic_Heart_Disease": {
+                "ASR": 1259.9904094
+            },
+            "Circulatory_System_Diseases": {
+                "ASR": 97.79553034891
+            },
+            "COPD_Public_Hospital": {
+                "ASR": 87.7074420378591
+            }
+        }
+    },
+    "21270": {
+        "2017-2018": {
+            "Diabetes": {
+                "ASR": null
+            },
+            "Genitourinary_Diseases": {
+                "ASR": 172.840396932297
+            },
+            "Cancers": {
+                "ASR": 2628.90988168302
+            },
+            "Musculoskeletal_Disorders": {
+                "ASR": 2514.45638468538
+            },
+            "Mental_Health_Conditions": {
+                "ASR": 1210.22973740831
+            },
+            "Respiratory_Diseases": {
+                "ASR": 201.338706490728
+            },
+            "Infectious_Diseases": {
+                "ASR": null
+            },
+            "Nervous_System_Diseases": {
+                "ASR": 83.6443890935743
+            },
+            "Digestive_System_Diseases": {
+                "ASR": 5061.25551636359
+            },
+            "Asthma": {
+                "ASR": null
+            },
+            "All_Cancers": {
+                "ASR": 97.4005603744005
+            },
+            "Mood_Affective_Disorders": {
+                "ASR": null
+            },
+            "Endocrine_Disorders": {
+                "ASR": 1401.54014851284
+            },
+            "Chronic_Kidney_Disease": {
+                "ASR": null
+            },
+            "Congenital_Abnormalities": {
+                "ASR": null
+            },
+            "Stroke": {
+                "ASR": null
+            },
+            "Eye_Disorders": {
+                "ASR": 79.4241879335249
+            },
+            "Heart_Failure": {
+                "ASR": null
+            },
+            "COPD": {
+                "ASR": null
+            },
+            "Skin_Disorders": {
+                "ASR": 111.048096967312
+            },
+            "Ear_Disorders": {
+                "ASR": 332.522867946668
+            },
+            "Ischemic_Heart_Disease": {
+                "ASR": 75.1319070176796
+            },
+            "Circulatory_System_Diseases": {
+                "ASR": 106.194498055507
+            },
+            "COPD_Public_Hospital": {
+                "ASR": 161.841439697414
+            }
+        }
+    },
+    "21370": {
+        "2017-2018": {
+            "Diabetes": {
+                "ASR": 133.33735682073
+            },
+            "Genitourinary_Diseases": {
+                "ASR": 937.642619093888
+            },
+            "Cancers": {
+                "ASR": 3170.93787048721
+            },
+            "Musculoskeletal_Disorders": {
+                "ASR": 2906.16453528019
+            },
+            "Mental_Health_Conditions": {
+                "ASR": 1123.99495703995
+            },
+            "Respiratory_Diseases": {
+                "ASR": 1073.6787744695
+            },
+            "Infectious_Diseases": {
+                "ASR": 120.693110219218
+            },
+            "Nervous_System_Diseases": {
+                "ASR": 705.45586299572
+            },
+            "Digestive_System_Diseases": {
+                "ASR": 5308.83113267821
+            },
+            "Asthma": {
+                "ASR": null
+            },
+            "All_Cancers": {
+                "ASR": 117.482583807756
+            },
+            "Mood_Affective_Disorders": {
+                "ASR": 53.3934660132575
+            },
+            "Endocrine_Disorders": {
+                "ASR": 1331.2688850847
+            },
+            "Chronic_Kidney_Disease": {
+                "ASR": 77.4796277988148
+            },
+            "Congenital_Abnormalities": {
+                "ASR": 125.851529217239
+            },
+            "Stroke": {
+                "ASR": 154.146595905485
+            },
+            "Eye_Disorders": {
+                "ASR": 99.7028947544079
+            },
+            "Heart_Failure": {
+                "ASR": 260.125409034581
+            },
+            "COPD": {
+                "ASR": 259.644593496947
+            },
+            "Skin_Disorders": {
+                "ASR": 117.59978819908
+            },
+            "Ear_Disorders": {
+                "ASR": 406.515246611595
+            },
+            "Ischemic_Heart_Disease": {
+                "ASR": 378.042190606701
+            },
+            "Circulatory_System_Diseases": {
+                "ASR": 112.188909294455
+            },
+            "COPD_Public_Hospital": {
+                "ASR": 172.256684016309
+            }
+        }
+    },
+    "21450": {
+        "2017-2018": {
+            "Diabetes": {
+                "ASR": 197.476414795838
+            },
+            "Genitourinary_Diseases": {
+                "ASR": 2177.38891776829
+            },
+            "Cancers": {
+                "ASR": 2964.27033364217
+            },
+            "Musculoskeletal_Disorders": {
+                "ASR": 3210.26965963264
+            },
+            "Mental_Health_Conditions": {
+                "ASR": 2061.64014249521
+            },
+            "Respiratory_Diseases": {
+                "ASR": 1952.00144464235
+            },
+            "Infectious_Diseases": {
+                "ASR": 121.605781746917
+            },
+            "Nervous_System_Diseases": {
+                "ASR": 1723.4916731126
+            },
+            "Digestive_System_Diseases": {
+                "ASR": 5049.83278275525
+            },
+            "Asthma": {
+                "ASR": 185.671663940945
+            },
+            "All_Cancers": {
+                "ASR": 109.825594863343
+            },
+            "Mood_Affective_Disorders": {
+                "ASR": 179.173906100073
+            },
+            "Endocrine_Disorders": {
+                "ASR": 963.386141239111
+            },
+            "Chronic_Kidney_Disease": {
+                "ASR": 73.85447162338
+            },
+            "Congenital_Abnormalities": {
+                "ASR": 112.069777194146
+            },
+            "Stroke": {
+                "ASR": 191.571014831148
+            },
+            "Eye_Disorders": {
+                "ASR": 97.5108039794605
+            },
+            "Heart_Failure": {
+                "ASR": 255.18156999046
+            },
+            "COPD": {
+                "ASR": 253.452305322133
+            },
+            "Skin_Disorders": {
+                "ASR": 132.520178221717
+            },
+            "Ear_Disorders": {
+                "ASR": 317.618772871678
+            },
+            "Ischemic_Heart_Disease": {
+                "ASR": 538.328551865598
+            },
+            "Circulatory_System_Diseases": {
+                "ASR": 110.301106848413
+            },
+            "COPD_Public_Hospital": {
+                "ASR": 93.1821500620016
+            }
+        }
+    },
+    "21610": {
+        "2017-2018": {
+            "Diabetes": {
+                "ASR": 686.0
+            },
+            "Genitourinary_Diseases": {
+                "ASR": 6657.0
+            },
+            "Cancers": {
+                "ASR": 2779.07939902014
+            },
+            "Musculoskeletal_Disorders": {
+                "ASR": 2730.85522547858
+            },
+            "Mental_Health_Conditions": {
+                "ASR": 2014.74492570136
+            },
+            "Respiratory_Diseases": {
+                "ASR": 6126.0
+            },
+            "Infectious_Diseases": {
+                "ASR": 118.267137263974
+            },
+            "Nervous_System_Diseases": {
+                "ASR": 4407.0
+            },
+            "Digestive_System_Diseases": {
+                "ASR": 4744.12442668066
+            },
+            "Asthma": {
+                "ASR": 751.0
+            },
+            "All_Cancers": {
+                "ASR": 102.964309532064
+            },
+            "Mood_Affective_Disorders": {
+                "ASR": 165.570814292892
+            },
+            "Endocrine_Disorders": {
+                "ASR": 864.772550774856
+            },
+            "Chronic_Kidney_Disease": {
+                "ASR": 103.861501475005
+            },
+            "Congenital_Abnormalities": {
+                "ASR": 91.7147536228044
+            },
+            "Stroke": {
+                "ASR": 489.0
+            },
+            "Eye_Disorders": {
+                "ASR": 89.2164233870135
+            },
+            "Heart_Failure": {
+                "ASR": 304.239890818934
+            },
+            "COPD": {
+                "ASR": 837.0
+            },
+            "Skin_Disorders": {
+                "ASR": 122.453598226725
+            },
+            "Ear_Disorders": {
+                "ASR": 280.77313082301
+            },
+            "Ischemic_Heart_Disease": {
+                "ASR": 1634.0
+            },
+            "Circulatory_System_Diseases": {
+                "ASR": 109.457187229326
+            },
+            "COPD_Public_Hospital": {
+                "ASR": 99.3478476287119
+            }
+        }
+    },
+    "21670": {
+        "2017-2018": {
+            "Diabetes": {
+                "ASR": null
+            },
+            "Genitourinary_Diseases": {
+                "ASR": 271.732485747367
+            },
+            "Cancers": {
+                "ASR": 2808.68702596713
+            },
+            "Musculoskeletal_Disorders": {
+                "ASR": 2703.16931809697
+            },
+            "Mental_Health_Conditions": {
+                "ASR": 1115.24560179366
+            },
+            "Respiratory_Diseases": {
+                "ASR": 344.024766145731
+            },
+            "Infectious_Diseases": {
+                "ASR": 88.6721528022563
+            },
+            "Nervous_System_Diseases": {
+                "ASR": 243.227738730744
+            },
+            "Digestive_System_Diseases": {
+                "ASR": 4942.83995534839
+            },
+            "Asthma": {
+                "ASR": null
+            },
+            "All_Cancers": {
+                "ASR": 104.061265907818
+            },
+            "Mood_Affective_Disorders": {
+                "ASR": 44.6361408976197
+            },
+            "Endocrine_Disorders": {
+                "ASR": 1009.46605228147
+            },
+            "Chronic_Kidney_Disease": {
+                "ASR": null
+            },
+            "Congenital_Abnormalities": {
+                "ASR": null
+            },
+            "Stroke": {
+                "ASR": null
+            },
+            "Eye_Disorders": {
+                "ASR": 90.6907984421561
+            },
+            "Heart_Failure": {
+                "ASR": 285.407359614449
+            },
+            "COPD": {
+                "ASR": null
+            },
+            "Skin_Disorders": {
+                "ASR": 88.1950509137637
+            },
+            "Ear_Disorders": {
+                "ASR": 286.61262070315
+            },
+            "Ischemic_Heart_Disease": {
+                "ASR": 129.025608993394
+            },
+            "Circulatory_System_Diseases": {
+                "ASR": 101.09445911211
+            },
+            "COPD_Public_Hospital": {
+                "ASR": 162.050267810806
+            }
+        }
+    },
+    "21750": {
+        "2017-2018": {
+            "Diabetes": {
+                "ASR": null
+            },
+            "Genitourinary_Diseases": {
+                "ASR": 418.718808249428
+            },
+            "Cancers": {
+                "ASR": 2632.28570532561
+            },
+            "Musculoskeletal_Disorders": {
+                "ASR": 2382.67705488797
+            },
+            "Mental_Health_Conditions": {
+                "ASR": 753.567986129529
+            },
+            "Respiratory_Diseases": {
+                "ASR": 502.407979778592
+            },
+            "Infectious_Diseases": {
+                "ASR": 97.3516361993536
+            },
+            "Nervous_System_Diseases": {
+                "ASR": 367.286395439246
+            },
+            "Digestive_System_Diseases": {
+                "ASR": 4490.71302026128
+            },
+            "Asthma": {
+                "ASR": null
+            },
+            "All_Cancers": {
+                "ASR": 97.5256339331423
+            },
+            "Mood_Affective_Disorders": {
+                "ASR": null
+            },
+            "Endocrine_Disorders": {
+                "ASR": 944.77215125956
+            },
+            "Chronic_Kidney_Disease": {
+                "ASR": null
+            },
+            "Congenital_Abnormalities": {
+                "ASR": 97.8593916947534
+            },
+            "Stroke": {
+                "ASR": null
+            },
+            "Eye_Disorders": {
+                "ASR": 73.7405101151076
+            },
+            "Heart_Failure": {
+                "ASR": 278.13017638001
+            },
+            "COPD": {
+                "ASR": null
+            },
+            "Skin_Disorders": {
+                "ASR": 92.5505771866982
+            },
+            "Ear_Disorders": {
+                "ASR": 263.886691521676
+            },
+            "Ischemic_Heart_Disease": {
+                "ASR": 142.767529107957
+            },
+            "Circulatory_System_Diseases": {
+                "ASR": 94.9759104553887
+            },
+            "COPD_Public_Hospital": {
+                "ASR": 112.806334181063
+            }
+        }
+    },
+    "21830": {
+        "2017-2018": {
+            "Diabetes": {
+                "ASR": null
+            },
+            "Genitourinary_Diseases": {
+                "ASR": 300.93050996011
+            },
+            "Cancers": {
+                "ASR": 2861.39804461179
+            },
+            "Musculoskeletal_Disorders": {
+                "ASR": 2863.27565329527
+            },
+            "Mental_Health_Conditions": {
+                "ASR": 857.582985940503
+            },
+            "Respiratory_Diseases": {
+                "ASR": 381.889236696151
+            },
+            "Infectious_Diseases": {
+                "ASR": 99.6274461392943
+            },
+            "Nervous_System_Diseases": {
+                "ASR": 260.149208902598
+            },
+            "Digestive_System_Diseases": {
+                "ASR": 4663.28788214755
+            },
+            "Asthma": {
+                "ASR": null
+            },
+            "All_Cancers": {
+                "ASR": 106.014198105938
+            },
+            "Mood_Affective_Disorders": {
+                "ASR": 52.4140855005299
+            },
+            "Endocrine_Disorders": {
+                "ASR": 1101.54343471456
+            },
+            "Chronic_Kidney_Disease": {
+                "ASR": null
+            },
+            "Congenital_Abnormalities": {
+                "ASR": null
+            },
+            "Stroke": {
+                "ASR": 67.5397058440532
+            },
+            "Eye_Disorders": {
+                "ASR": 74.762414069079
+            },
+            "Heart_Failure": {
+                "ASR": null
+            },
+            "COPD": {
+                "ASR": null
+            },
+            "Skin_Disorders": {
+                "ASR": 102.290964258669
+            },
+            "Ear_Disorders": {
+                "ASR": 211.478996531373
+            },
+            "Ischemic_Heart_Disease": {
+                "ASR": 112.715675543818
+            },
+            "Circulatory_System_Diseases": {
+                "ASR": 101.227369985002
+            },
+            "COPD_Public_Hospital": {
+                "ASR": 125.070055868113
+            }
+        }
+    },
+    "21890": {
+        "2017-2018": {
+            "Diabetes": {
+                "ASR": 394.0
+            },
+            "Genitourinary_Diseases": {
+                "ASR": 2929.0
+            },
+            "Cancers": {
+                "ASR": 2597.83383358988
+            },
+            "Musculoskeletal_Disorders": {
+                "ASR": 2098.48411487872
+            },
+            "Mental_Health_Conditions": {
+                "ASR": 1438.77746865824
+            },
+            "Respiratory_Diseases": {
+                "ASR": 2843.0
+            },
+            "Infectious_Diseases": {
+                "ASR": 96.8546711730872
+            },
+            "Nervous_System_Diseases": {
+                "ASR": 2006.0
+            },
+            "Digestive_System_Diseases": {
+                "ASR": 4677.9061260569
+            },
+            "Asthma": {
+                "ASR": 282.0
+            },
+            "All_Cancers": {
+                "ASR": 96.2491993028082
+            },
+            "Mood_Affective_Disorders": {
+                "ASR": 83.8415466137537
+            },
+            "Endocrine_Disorders": {
+                "ASR": 740.299698893051
+            },
+            "Chronic_Kidney_Disease": {
+                "ASR": 83.2782798802419
+            },
+            "Congenital_Abnormalities": {
+                "ASR": 79.1714624957259
+            },
+            "Stroke": {
+                "ASR": 316.0
+            },
+            "Eye_Disorders": {
+                "ASR": 81.5570936476972
+            },
+            "Heart_Failure": {
+                "ASR": 378.388333439228
+            },
+            "COPD": {
+                "ASR": 409.0
+            },
+            "Skin_Disorders": {
+                "ASR": 89.5448133373673
+            },
+            "Ear_Disorders": {
+                "ASR": 220.749445037057
+            },
+            "Ischemic_Heart_Disease": {
+                "ASR": 616.0
+            },
+            "Circulatory_System_Diseases": {
+                "ASR": 92.2143117563171
+            },
+            "COPD_Public_Hospital": {
+                "ASR": 91.4354093973571
+            }
+        }
+    },
+    "22110": {
+        "2017-2018": {
+            "Diabetes": {
+                "ASR": 112.841903956205
+            },
+            "Genitourinary_Diseases": {
+                "ASR": 940.875972116847
+            },
+            "Cancers": {
+                "ASR": 2650.03096293379
+            },
+            "Musculoskeletal_Disorders": {
+                "ASR": 2556.68283100463
+            },
+            "Mental_Health_Conditions": {
+                "ASR": 1193.31879396588
+            },
+            "Respiratory_Diseases": {
+                "ASR": 1015.96944449355
+            },
+            "Infectious_Diseases": {
+                "ASR": 85.4299248189483
+            },
+            "Nervous_System_Diseases": {
+                "ASR": 688.406815101125
+            },
+            "Digestive_System_Diseases": {
+                "ASR": 4742.16221097077
+            },
+            "Asthma": {
+                "ASR": null
+            },
+            "All_Cancers": {
+                "ASR": 98.1830920099927
+            },
+            "Mood_Affective_Disorders": {
+                "ASR": 50.7176918324136
+            },
+            "Endocrine_Disorders": {
+                "ASR": 636.088433012969
+            },
+            "Chronic_Kidney_Disease": {
+                "ASR": null
+            },
+            "Congenital_Abnormalities": {
+                "ASR": 107.334209768469
+            },
+            "Stroke": {
+                "ASR": 148.586485929136
+            },
+            "Eye_Disorders": {
+                "ASR": 71.7405548412483
+            },
+            "Heart_Failure": {
+                "ASR": 226.721061407135
+            },
+            "COPD": {
+                "ASR": null
+            },
+            "Skin_Disorders": {
+                "ASR": 104.758422262102
+            },
+            "Ear_Disorders": {
+                "ASR": 262.55382560314
+            },
+            "Ischemic_Heart_Disease": {
+                "ASR": 445.863823037782
+            },
+            "Circulatory_System_Diseases": {
+                "ASR": 99.6337987713389
+            },
+            "COPD_Public_Hospital": {
+                "ASR": 104.672163485894
+            }
+        }
+    },
+    "22410": {
+        "2017-2018": {
+            "Diabetes": {
+                "ASR": null
+            },
+            "Genitourinary_Diseases": {
+                "ASR": 387.465381570299
+            },
+            "Cancers": {
+                "ASR": 2412.69869402418
+            },
+            "Musculoskeletal_Disorders": {
+                "ASR": 2791.73486246637
+            },
+            "Mental_Health_Conditions": {
+                "ASR": 738.143380000273
+            },
+            "Respiratory_Diseases": {
+                "ASR": 522.985078168481
+            },
+            "Infectious_Diseases": {
+                "ASR": null
+            },
+            "Nervous_System_Diseases": {
+                "ASR": 348.871618021265
+            },
+            "Digestive_System_Diseases": {
+                "ASR": 4216.17936403756
+            },
+            "Asthma": {
+                "ASR": null
+            },
+            "All_Cancers": {
+                "ASR": 89.3899811666782
+            },
+            "Mood_Affective_Disorders": {
+                "ASR": null
+            },
+            "Endocrine_Disorders": {
+                "ASR": 1002.43300904614
+            },
+            "Chronic_Kidney_Disease": {
+                "ASR": null
+            },
+            "Congenital_Abnormalities": {
+                "ASR": null
+            },
+            "Stroke": {
+                "ASR": null
+            },
+            "Eye_Disorders": {
+                "ASR": 77.7243206463532
+            },
+            "Heart_Failure": {
+                "ASR": null
+            },
+            "COPD": {
+                "ASR": null
+            },
+            "Skin_Disorders": {
+                "ASR": 78.8715809369647
+            },
+            "Ear_Disorders": {
+                "ASR": null
+            },
+            "Ischemic_Heart_Disease": {
+                "ASR": 209.280171648495
+            },
+            "Circulatory_System_Diseases": {
+                "ASR": 103.484245279895
+            },
+            "COPD_Public_Hospital": {
+                "ASR": 178.18973231567
+            }
+        }
+    },
+    "22170": {
+        "2017-2018": {
+            "Diabetes": {
+                "ASR": 389.0
+            },
+            "Genitourinary_Diseases": {
+                "ASR": 3268.0
+            },
+            "Cancers": {
+                "ASR": 3002.2409907556
+            },
+            "Musculoskeletal_Disorders": {
+                "ASR": 3226.19740874847
+            },
+            "Mental_Health_Conditions": {
+                "ASR": 2418.87295928018
+            },
+            "Respiratory_Diseases": {
+                "ASR": 3269.0
+            },
+            "Infectious_Diseases": {
+                "ASR": 114.418575064333
+            },
+            "Nervous_System_Diseases": {
+                "ASR": 2557.0
+            },
+            "Digestive_System_Diseases": {
+                "ASR": 5396.53432377198
+            },
+            "Asthma": {
+                "ASR": 253.0
+            },
+            "All_Cancers": {
+                "ASR": 111.232399754755
+            },
+            "Mood_Affective_Disorders": {
+                "ASR": 145.54507346886
+            },
+            "Endocrine_Disorders": {
+                "ASR": 1003.29384074583
+            },
+            "Chronic_Kidney_Disease": {
+                "ASR": 84.2184031700999
+            },
+            "Congenital_Abnormalities": {
+                "ASR": 118.281537674853
+            },
+            "Stroke": {
+                "ASR": 360.0
+            },
+            "Eye_Disorders": {
+                "ASR": 73.8242049459054
+            },
+            "Heart_Failure": {
+                "ASR": 277.371721265075
+            },
+            "COPD": {
+                "ASR": 597.0
+            },
+            "Skin_Disorders": {
+                "ASR": 113.178698989879
+            },
+            "Ear_Disorders": {
+                "ASR": 365.342902496261
+            },
+            "Ischemic_Heart_Disease": {
+                "ASR": 971.0
+            },
+            "Circulatory_System_Diseases": {
+                "ASR": 122.077205864666
+            },
+            "COPD_Public_Hospital": {
+                "ASR": 125.154509152952
+            }
+        }
+    },
+    "22250": {
+        "2017-2018": {
+            "Diabetes": {
+                "ASR": null
+            },
+            "Genitourinary_Diseases": {
+                "ASR": 294.226785984148
+            },
+            "Cancers": {
+                "ASR": 2694.53855208903
+            },
+            "Musculoskeletal_Disorders": {
+                "ASR": 2566.81031417243
+            },
+            "Mental_Health_Conditions": {
+                "ASR": 1216.67309662029
+            },
+            "Respiratory_Diseases": {
+                "ASR": 342.698931579224
+            },
+            "Infectious_Diseases": {
+                "ASR": 99.292819561889
+            },
+            "Nervous_System_Diseases": {
+                "ASR": 142.426647554591
+            },
+            "Digestive_System_Diseases": {
+                "ASR": 5126.65704865306
+            },
+            "Asthma": {
+                "ASR": null
+            },
+            "All_Cancers": {
+                "ASR": 99.8320888641028
+            },
+            "Mood_Affective_Disorders": {
+                "ASR": 85.814822956885
+            },
+            "Endocrine_Disorders": {
+                "ASR": 1429.0327798891
+            },
+            "Chronic_Kidney_Disease": {
+                "ASR": null
+            },
+            "Congenital_Abnormalities": {
+                "ASR": null
+            },
+            "Stroke": {
+                "ASR": 55.4267584022567
+            },
+            "Eye_Disorders": {
+                "ASR": 81.65330112686
+            },
+            "Heart_Failure": {
+                "ASR": 261.679264583228
+            },
+            "COPD": {
+                "ASR": null
+            },
+            "Skin_Disorders": {
+                "ASR": 112.915882524201
+            },
+            "Ear_Disorders": {
+                "ASR": 328.673540764103
+            },
+            "Ischemic_Heart_Disease": {
+                "ASR": 127.903141460172
+            },
+            "Circulatory_System_Diseases": {
+                "ASR": 110.068388283566
+            },
+            "COPD_Public_Hospital": {
+                "ASR": 167.28460547668
+            }
+        }
+    },
+    "22830": {
+        "2017-2018": {
+            "Diabetes": {
+                "ASR": 180.714810723743
+            },
+            "Genitourinary_Diseases": {
+                "ASR": 1545.16444350589
+            },
+            "Cancers": {
+                "ASR": 3436.1570964763
+            },
+            "Musculoskeletal_Disorders": {
+                "ASR": 2950.79084382137
+            },
+            "Mental_Health_Conditions": {
+                "ASR": 1327.21208170952
+            },
+            "Respiratory_Diseases": {
+                "ASR": 1646.06691454855
+            },
+            "Infectious_Diseases": {
+                "ASR": 128.580158517708
+            },
+            "Nervous_System_Diseases": {
+                "ASR": 1128.03205697905
+            },
+            "Digestive_System_Diseases": {
+                "ASR": 5412.08649192162
+            },
+            "Asthma": {
+                "ASR": null
+            },
+            "All_Cancers": {
+                "ASR": 127.308900568703
+            },
+            "Mood_Affective_Disorders": {
+                "ASR": 86.8597209437881
+            },
+            "Endocrine_Disorders": {
+                "ASR": 1252.71635461349
+            },
+            "Chronic_Kidney_Disease": {
+                "ASR": 127.292802560842
+            },
+            "Congenital_Abnormalities": {
+                "ASR": 124.709754372654
+            },
+            "Stroke": {
+                "ASR": 192.006838048846
+            },
+            "Eye_Disorders": {
+                "ASR": 86.855772457515
+            },
+            "Heart_Failure": {
+                "ASR": 266.373948917529
+            },
+            "COPD": {
+                "ASR": 278.490428382864
+            },
+            "Skin_Disorders": {
+                "ASR": 130.062487684788
+            },
+            "Ear_Disorders": {
+                "ASR": 268.060059969252
+            },
+            "Ischemic_Heart_Disease": {
+                "ASR": 616.2554712647
+            },
+            "Circulatory_System_Diseases": {
+                "ASR": 117.693468488766
+            },
+            "COPD_Public_Hospital": {
+                "ASR": 131.697447034474
+            }
+        }
+    },
+    "22910": {
+        "2017-2018": {
+            "Diabetes": {
+                "ASR": 29.4164145286854
+            },
+            "Genitourinary_Diseases": {
+                "ASR": 338.6380596409
+            },
+            "Cancers": {
+                "ASR": 2200.27970580725
+            },
+            "Musculoskeletal_Disorders": {
+                "ASR": 2144.93919837476
+            },
+            "Mental_Health_Conditions": {
+                "ASR": 1415.57573837353
+            },
+            "Respiratory_Diseases": {
+                "ASR": 354.654812756853
+            },
+            "Infectious_Diseases": {
+                "ASR": 85.7356484395664
+            },
+            "Nervous_System_Diseases": {
+                "ASR": 331.764933436109
+            },
+            "Digestive_System_Diseases": {
+                "ASR": 3463.54007783824
+            },
+            "Asthma": {
+                "ASR": null
+            },
+            "All_Cancers": {
+                "ASR": 81.519902153834
+            },
+            "Mood_Affective_Disorders": {
+                "ASR": 127.431238293725
+            },
+            "Endocrine_Disorders": {
+                "ASR": 799.929484861504
+            },
+            "Chronic_Kidney_Disease": {
+                "ASR": null
+            },
+            "Congenital_Abnormalities": {
+                "ASR": null
+            },
+            "Stroke": {
+                "ASR": 41.3606721111229
+            },
+            "Eye_Disorders": {
+                "ASR": 66.9035878033413
+            },
+            "Heart_Failure": {
+                "ASR": 174.102315642916
+            },
+            "COPD": {
+                "ASR": null
+            },
+            "Skin_Disorders": {
+                "ASR": 93.2615730021022
+            },
+            "Ear_Disorders": {
+                "ASR": 488.000633461202
+            },
+            "Ischemic_Heart_Disease": {
+                "ASR": 117.668791590432
+            },
+            "Circulatory_System_Diseases": {
+                "ASR": 88.7835342512129
+            },
+            "COPD_Public_Hospital": {
+                "ASR": 85.1751668059622
+            }
+        }
+    },
+    "22980": {
+        "2017-2018": {
+            "Diabetes": {
+                "ASR": null
+            },
+            "Genitourinary_Diseases": {
+                "ASR": 127.151106849295
+            },
+            "Cancers": {
+                "ASR": 2786.28258305484
+            },
+            "Musculoskeletal_Disorders": {
+                "ASR": 2725.63872180745
+            },
+            "Mental_Health_Conditions": {
+                "ASR": null
+            },
+            "Respiratory_Diseases": {
+                "ASR": 186.124676513981
+            },
+            "Infectious_Diseases": {
+                "ASR": null
+            },
+            "Nervous_System_Diseases": {
+                "ASR": 99.1983166036051
+            },
+            "Digestive_System_Diseases": {
+                "ASR": 3857.77216266402
+            },
+            "Asthma": {
+                "ASR": null
+            },
+            "All_Cancers": {
+                "ASR": 103.231185991523
+            },
+            "Mood_Affective_Disorders": {
+                "ASR": null
+            },
+            "Endocrine_Disorders": {
+                "ASR": 1376.32508450624
+            },
+            "Chronic_Kidney_Disease": {
+                "ASR": null
+            },
+            "Congenital_Abnormalities": {
+                "ASR": null
+            },
+            "Stroke": {
+                "ASR": null
+            },
+            "Eye_Disorders": {
+                "ASR": 138.408578526219
+            },
+            "Heart_Failure": {
+                "ASR": null
+            },
+            "COPD": {
+                "ASR": null
+            },
+            "Skin_Disorders": {
+                "ASR": 112.094877957435
+            },
+            "Ear_Disorders": {
+                "ASR": null
+            },
+            "Ischemic_Heart_Disease": {
+                "ASR": 60.3371204083784
+            },
+            "Circulatory_System_Diseases": {
+                "ASR": 106.786714503087
+            },
+            "COPD_Public_Hospital": {
+                "ASR": 149.520024538639
+            }
+        }
+    },
+    "23110": {
+        "2017-2018": {
+            "Diabetes": {
+                "ASR": 254.0951633
+            },
+            "Genitourinary_Diseases": {
+                "ASR": 2004.8352754
+            },
+            "Cancers": {
+                "ASR": 2523.40028652595
+            },
+            "Musculoskeletal_Disorders": {
+                "ASR": 2361.11049369572
+            },
+            "Mental_Health_Conditions": {
+                "ASR": 1349.81930516379
+            },
+            "Respiratory_Diseases": {
+                "ASR": 1571.8796568
+            },
+            "Infectious_Diseases": {
+                "ASR": 95.5596128172757
+            },
+            "Nervous_System_Diseases": {
+                "ASR": 1576.0487891
+            },
+            "Digestive_System_Diseases": {
+                "ASR": 4594.26213820448
+            },
+            "Asthma": {
+                "ASR": null
+            },
+            "All_Cancers": {
+                "ASR": 93.4914519775025
+            },
+            "Mood_Affective_Disorders": {
+                "ASR": 96.0144794802295
+            },
+            "Endocrine_Disorders": {
+                "ASR": 852.755065933714
+            },
+            "Chronic_Kidney_Disease": {
+                "ASR": 81.9927698802233
+            },
+            "Congenital_Abnormalities": {
+                "ASR": 93.8966599093088
+            },
+            "Stroke": {
+                "ASR": 180.4630155
+            },
+            "Eye_Disorders": {
+                "ASR": 91.4169080454581
+            },
+            "Heart_Failure": {
+                "ASR": 285.572864577629
+            },
+            "COPD": {
+                "ASR": 232.7273111
+            },
+            "Skin_Disorders": {
+                "ASR": 92.7483023038288
+            },
+            "Ear_Disorders": {
+                "ASR": 250.484942155371
+            },
+            "Ischemic_Heart_Disease": {
+                "ASR": 587.8372682
+            },
+            "Circulatory_System_Diseases": {
+                "ASR": 93.4817082341998
+            },
+            "COPD_Public_Hospital": {
+                "ASR": 80.5092616113421
+            }
+        }
+    },
+    "23190": {
+        "2017-2018": {
+            "Diabetes": {
+                "ASR": 38.9788845
+            },
+            "Genitourinary_Diseases": {
+                "ASR": 385.5847285
+            },
+            "Cancers": {
+                "ASR": 2994.18043574205
+            },
+            "Musculoskeletal_Disorders": {
+                "ASR": 3088.36911880532
+            },
+            "Mental_Health_Conditions": {
+                "ASR": 984.94577700761
+            },
+            "Respiratory_Diseases": {
+                "ASR": 418.5988055
+            },
+            "Infectious_Diseases": {
+                "ASR": null
+            },
+            "Nervous_System_Diseases": {
+                "ASR": 293.563613
+            },
+            "Digestive_System_Diseases": {
+                "ASR": 4608.4842508161
+            },
+            "Asthma": {
+                "ASR": null
+            },
+            "All_Cancers": {
+                "ASR": 110.933757880144
+            },
+            "Mood_Affective_Disorders": {
+                "ASR": 84.4310903857076
+            },
+            "Endocrine_Disorders": {
+                "ASR": 1307.9979856402
+            },
+            "Chronic_Kidney_Disease": {
+                "ASR": null
+            },
+            "Congenital_Abnormalities": {
+                "ASR": 119.540935156352
+            },
+            "Stroke": {
+                "ASR": null
+            },
+            "Eye_Disorders": {
+                "ASR": 99.3556729430365
+            },
+            "Heart_Failure": {
+                "ASR": null
+            },
+            "COPD": {
+                "ASR": null
+            },
+            "Skin_Disorders": {
+                "ASR": 113.578305546808
+            },
+            "Ear_Disorders": {
+                "ASR": 366.389599646793
+            },
+            "Ischemic_Heart_Disease": {
+                "ASR": 200.8662685
+            },
+            "Circulatory_System_Diseases": {
+                "ASR": 113.601736017982
+            },
+            "COPD_Public_Hospital": {
+                "ASR": 93.2710776902345
+            }
+        }
+    },
+    "23270": {
+        "2017-2018": {
+            "Diabetes": {
+                "ASR": 606.174030631979
+            },
+            "Genitourinary_Diseases": {
+                "ASR": 4916.18168736608
+            },
+            "Cancers": {
+                "ASR": 2559.13469612053
+            },
+            "Musculoskeletal_Disorders": {
+                "ASR": 2789.13614516821
+            },
+            "Mental_Health_Conditions": {
+                "ASR": 1036.30178903462
+            },
+            "Respiratory_Diseases": {
+                "ASR": 4495.27987781287
+            },
+            "Infectious_Diseases": {
+                "ASR": 125.157125587233
+            },
+            "Nervous_System_Diseases": {
+                "ASR": 3681.12160217706
+            },
+            "Digestive_System_Diseases": {
+                "ASR": 5047.2942527386
+            },
+            "Asthma": {
+                "ASR": null
+            },
+            "All_Cancers": {
+                "ASR": 94.8154043668224
+            },
+            "Mood_Affective_Disorders": {
+                "ASR": 55.5707217299936
+            },
+            "Endocrine_Disorders": {
+                "ASR": 1074.37837779117
+            },
+            "Chronic_Kidney_Disease": {
+                "ASR": 139.775227397357
+            },
+            "Congenital_Abnormalities": {
+                "ASR": 112.776314639016
+            },
+            "Stroke": {
+                "ASR": 377.829052567539
+            },
+            "Eye_Disorders": {
+                "ASR": 101.225440488677
+            },
+            "Heart_Failure": {
+                "ASR": 455.619685470884
+            },
+            "COPD": {
+                "ASR": 468.95300101002
+            },
+            "Skin_Disorders": {
+                "ASR": 109.082417262975
+            },
+            "Ear_Disorders": {
+                "ASR": 299.008318801735
+            },
+            "Ischemic_Heart_Disease": {
+                "ASR": 1322.78514511073
+            },
+            "Circulatory_System_Diseases": {
+                "ASR": 126.272893223642
+            },
+            "COPD_Public_Hospital": {
+                "ASR": 100.269172688351
+            }
+        }
+    },
+    "23350": {
+        "2017-2018": {
+            "Diabetes": {
+                "ASR": null
+            },
+            "Genitourinary_Diseases": {
+                "ASR": 270.2021737
+            },
+            "Cancers": {
+                "ASR": 3050.11162051133
+            },
+            "Musculoskeletal_Disorders": {
+                "ASR": 2480.01793182064
+            },
+            "Mental_Health_Conditions": {
+                "ASR": 1088.27449851686
+            },
+            "Respiratory_Diseases": {
+                "ASR": 362.0634213
+            },
+            "Infectious_Diseases": {
+                "ASR": 85.1733623938362
+            },
+            "Nervous_System_Diseases": {
+                "ASR": 197.2368618
+            },
+            "Digestive_System_Diseases": {
+                "ASR": 4979.46599375812
+            },
+            "Asthma": {
+                "ASR": null
+            },
+            "All_Cancers": {
+                "ASR": 113.005996558575
+            },
+            "Mood_Affective_Disorders": {
+                "ASR": 70.4499840204296
+            },
+            "Endocrine_Disorders": {
+                "ASR": 1031.87258609175
+            },
+            "Chronic_Kidney_Disease": {
+                "ASR": null
+            },
+            "Congenital_Abnormalities": {
+                "ASR": 123.720672474195
+            },
+            "Stroke": {
+                "ASR": null
+            },
+            "Eye_Disorders": {
+                "ASR": 69.2505578401898
+            },
+            "Heart_Failure": {
+                "ASR": 211.559779580804
+            },
+            "COPD": {
+                "ASR": null
+            },
+            "Skin_Disorders": {
+                "ASR": 111.257799956641
+            },
+            "Ear_Disorders": {
+                "ASR": 237.595098812437
+            },
+            "Ischemic_Heart_Disease": {
+                "ASR": 173.4449904
+            },
+            "Circulatory_System_Diseases": {
+                "ASR": 120.557497549903
+            },
+            "COPD_Public_Hospital": {
+                "ASR": 104.452430310243
+            }
+        }
+    },
+    "23430": {
+        "2017-2018": {
+            "Diabetes": {
+                "ASR": 256.0
+            },
+            "Genitourinary_Diseases": {
+                "ASR": 3681.0
+            },
+            "Cancers": {
+                "ASR": 3048.2500038287
+            },
+            "Musculoskeletal_Disorders": {
+                "ASR": 2427.00975199374
+            },
+            "Mental_Health_Conditions": {
+                "ASR": 1979.84946020857
+            },
+            "Respiratory_Diseases": {
+                "ASR": 3031.0
+            },
+            "Infectious_Diseases": {
+                "ASR": 103.040731661241
+            },
+            "Nervous_System_Diseases": {
+                "ASR": 2593.0
+            },
+            "Digestive_System_Diseases": {
+                "ASR": 5122.76410142235
+            },
+            "Asthma": {
+                "ASR": 272.0
+            },
+            "All_Cancers": {
+                "ASR": 112.937024050481
+            },
+            "Mood_Affective_Disorders": {
+                "ASR": 167.549696005124
+            },
+            "Endocrine_Disorders": {
+                "ASR": 858.786181821008
+            },
+            "Chronic_Kidney_Disease": {
+                "ASR": 91.0046373192712
+            },
+            "Congenital_Abnormalities": {
+                "ASR": 100.282425614563
+            },
+            "Stroke": {
+                "ASR": 376.0
+            },
+            "Eye_Disorders": {
+                "ASR": 79.0926300319108
+            },
+            "Heart_Failure": {
+                "ASR": 246.547581807978
+            },
+            "COPD": {
+                "ASR": 386.0
+            },
+            "Skin_Disorders": {
+                "ASR": 94.4075192441388
+            },
+            "Ear_Disorders": {
+                "ASR": 290.437823094126
+            },
+            "Ischemic_Heart_Disease": {
+                "ASR": 821.0
+            },
+            "Circulatory_System_Diseases": {
+                "ASR": 92.4324116042734
+            },
+            "COPD_Public_Hospital": {
+                "ASR": 56.9511501867249
+            }
+        }
+    },
+    "23670": {
+        "2017-2018": {
+            "Diabetes": {
+                "ASR": 381.926568549476
+            },
+            "Genitourinary_Diseases": {
+                "ASR": 3681.05457007451
+            },
+            "Cancers": {
+                "ASR": 3009.11822514688
+            },
+            "Musculoskeletal_Disorders": {
+                "ASR": 2561.7902146504
+            },
+            "Mental_Health_Conditions": {
+                "ASR": 2704.90404426432
+            },
+            "Respiratory_Diseases": {
+                "ASR": 3146.3554350454
+            },
+            "Infectious_Diseases": {
+                "ASR": 113.163428826158
+            },
+            "Nervous_System_Diseases": {
+                "ASR": 2800.37787243306
+            },
+            "Digestive_System_Diseases": {
+                "ASR": 5288.12523178913
+            },
+            "Asthma": {
+                "ASR": 291.916369736903
+            },
+            "All_Cancers": {
+                "ASR": 111.48719984821
+            },
+            "Mood_Affective_Disorders": {
+                "ASR": 220.235474802193
+            },
+            "Endocrine_Disorders": {
+                "ASR": 900.633325355357
+            },
+            "Chronic_Kidney_Disease": {
+                "ASR": 83.7955635731992
+            },
+            "Congenital_Abnormalities": {
+                "ASR": 101.488255552389
+            },
+            "Stroke": {
+                "ASR": 358.931667955763
+            },
+            "Eye_Disorders": {
+                "ASR": 96.313720522416
+            },
+            "Heart_Failure": {
+                "ASR": 250.890572774643
+            },
+            "COPD": {
+                "ASR": 382.952065580908
+            },
+            "Skin_Disorders": {
+                "ASR": 122.381946898077
+            },
+            "Ear_Disorders": {
+                "ASR": 334.11739100168
+            },
+            "Ischemic_Heart_Disease": {
+                "ASR": 961.765427310827
+            },
+            "Circulatory_System_Diseases": {
+                "ASR": 96.4899057341033
+            },
+            "COPD_Public_Hospital": {
+                "ASR": 56.3887206717463
+            }
+        }
+    },
+    "23810": {
+        "2017-2018": {
+            "Diabetes": {
+                "ASR": 226.280272882712
+            },
+            "Genitourinary_Diseases": {
+                "ASR": 1849.47974855123
+            },
+            "Cancers": {
+                "ASR": 2604.8984825196
+            },
+            "Musculoskeletal_Disorders": {
+                "ASR": 3136.33968570762
+            },
+            "Mental_Health_Conditions": {
+                "ASR": 1738.70343619619
+            },
+            "Respiratory_Diseases": {
+                "ASR": 1836.69271636604
+            },
+            "Infectious_Diseases": {
+                "ASR": 109.534900120793
+            },
+            "Nervous_System_Diseases": {
+                "ASR": 1286.0870769782
+            },
+            "Digestive_System_Diseases": {
+                "ASR": 5120.22603117081
+            },
+            "Asthma": {
+                "ASR": null
+            },
+            "All_Cancers": {
+                "ASR": 96.5109430656497
+            },
+            "Mood_Affective_Disorders": {
+                "ASR": 121.638774898057
+            },
+            "Endocrine_Disorders": {
+                "ASR": 864.377875893786
+            },
+            "Chronic_Kidney_Disease": {
+                "ASR": 107.701526942728
+            },
+            "Congenital_Abnormalities": {
+                "ASR": 106.005273519862
+            },
+            "Stroke": {
+                "ASR": 252.381753632076
+            },
+            "Eye_Disorders": {
+                "ASR": 101.190264798501
+            },
+            "Heart_Failure": {
+                "ASR": 294.300920167214
+            },
+            "COPD": {
+                "ASR": 365.610098317004
+            },
+            "Skin_Disorders": {
+                "ASR": 115.227488843567
+            },
+            "Ear_Disorders": {
+                "ASR": 250.433427446155
+            },
+            "Ischemic_Heart_Disease": {
+                "ASR": 548.461849818727
+            },
+            "Circulatory_System_Diseases": {
+                "ASR": 107.696324888696
+            },
+            "COPD_Public_Hospital": {
+                "ASR": 144.765961282751
+            }
+        }
+    },
+    "23940": {
+        "2017-2018": {
+            "Diabetes": {
+                "ASR": null
+            },
+            "Genitourinary_Diseases": {
+                "ASR": 182.587876407469
+            },
+            "Cancers": {
+                "ASR": 2519.26420727077
+            },
+            "Musculoskeletal_Disorders": {
+                "ASR": 2418.03731955529
+            },
+            "Mental_Health_Conditions": {
+                "ASR": 1237.9766163718
+            },
+            "Respiratory_Diseases": {
+                "ASR": 231.59711604238
+            },
+            "Infectious_Diseases": {
+                "ASR": 89.4012362001635
+            },
+            "Nervous_System_Diseases": {
+                "ASR": 98.3332060399917
+            },
+            "Digestive_System_Diseases": {
+                "ASR": 4180.61607642926
+            },
+            "Asthma": {
+                "ASR": null
+            },
+            "All_Cancers": {
+                "ASR": 93.3382111075838
+            },
+            "Mood_Affective_Disorders": {
+                "ASR": 117.935676410745
+            },
+            "Endocrine_Disorders": {
+                "ASR": 752.233883366742
+            },
+            "Chronic_Kidney_Disease": {
+                "ASR": null
+            },
+            "Congenital_Abnormalities": {
+                "ASR": null
+            },
+            "Stroke": {
+                "ASR": null
+            },
+            "Eye_Disorders": {
+                "ASR": 60.7566276099402
+            },
+            "Heart_Failure": {
+                "ASR": 361.066037634692
+            },
+            "COPD": {
+                "ASR": 63.8643061804573
+            },
+            "Skin_Disorders": {
+                "ASR": 123.07568373509
+            },
+            "Ear_Disorders": {
+                "ASR": 268.979854469247
+            },
+            "Ischemic_Heart_Disease": {
+                "ASR": 86.1911461242411
+            },
+            "Circulatory_System_Diseases": {
+                "ASR": 119.603128473578
+            },
+            "COPD_Public_Hospital": {
+                "ASR": 169.575876725122
+            }
+        }
+    },
+    "24130": {
+        "2017-2018": {
+            "Diabetes": {
+                "ASR": 70.9692011
+            },
+            "Genitourinary_Diseases": {
+                "ASR": 940.655777
+            },
+            "Cancers": {
+                "ASR": 3157.02330356246
+            },
+            "Musculoskeletal_Disorders": {
+                "ASR": 2609.77873549954
+            },
+            "Mental_Health_Conditions": {
+                "ASR": 825.446289297009
+            },
+            "Respiratory_Diseases": {
+                "ASR": 834.6575887
+            },
+            "Infectious_Diseases": {
+                "ASR": 83.8712805826455
+            },
+            "Nervous_System_Diseases": {
+                "ASR": 787.6430951
+            },
+            "Digestive_System_Diseases": {
+                "ASR": 5361.48181602638
+            },
+            "Asthma": {
+                "ASR": null
+            },
+            "All_Cancers": {
+                "ASR": 116.967052018218
+            },
+            "Mood_Affective_Disorders": {
+                "ASR": 47.0948378472158
+            },
+            "Endocrine_Disorders": {
+                "ASR": 587.301975955186
+            },
+            "Chronic_Kidney_Disease": {
+                "ASR": 66.6043097618003
+            },
+            "Congenital_Abnormalities": {
+                "ASR": 135.217409044612
+            },
+            "Stroke": {
+                "ASR": 96.9510841
+            },
+            "Eye_Disorders": {
+                "ASR": 87.3869437017144
+            },
+            "Heart_Failure": {
+                "ASR": 210.691263732318
+            },
+            "COPD": {
+                "ASR": 105.9528958
+            },
+            "Skin_Disorders": {
+                "ASR": 70.2962809138588
+            },
+            "Ear_Disorders": {
+                "ASR": 289.027212399875
+            },
+            "Ischemic_Heart_Disease": {
+                "ASR": 255.9057916
+            },
+            "Circulatory_System_Diseases": {
+                "ASR": 90.6466445066962
+            },
+            "COPD_Public_Hospital": {
+                "ASR": 56.7661529226235
+            }
+        }
+    },
+    "24210": {
+        "2017-2018": {
+            "Diabetes": {
+                "ASR": 189.262202436266
+            },
+            "Genitourinary_Diseases": {
+                "ASR": 2549.48520246247
+            },
+            "Cancers": {
+                "ASR": 2811.30549358296
+            },
+            "Musculoskeletal_Disorders": {
+                "ASR": 2288.97446380018
+            },
+            "Mental_Health_Conditions": {
+                "ASR": 1976.45824171009
+            },
+            "Respiratory_Diseases": {
+                "ASR": 2014.63054435018
+            },
+            "Infectious_Diseases": {
+                "ASR": 83.6789488683114
+            },
+            "Nervous_System_Diseases": {
+                "ASR": 2099.18442997402
+            },
+            "Digestive_System_Diseases": {
+                "ASR": 4832.34486562952
+            },
+            "Asthma": {
+                "ASR": 122.165964976092
+            },
+            "All_Cancers": {
+                "ASR": 104.15827958443
+            },
+            "Mood_Affective_Disorders": {
+                "ASR": 163.655140065319
+            },
+            "Endocrine_Disorders": {
+                "ASR": 704.89812654799
+            },
+            "Chronic_Kidney_Disease": {
+                "ASR": 71.5765921950934
+            },
+            "Congenital_Abnormalities": {
+                "ASR": 88.7441045485808
+            },
+            "Stroke": {
+                "ASR": 329.790013542445
+            },
+            "Eye_Disorders": {
+                "ASR": 104.867756120983
+            },
+            "Heart_Failure": {
+                "ASR": 226.959813772695
+            },
+            "COPD": {
+                "ASR": 232.981084431834
+            },
+            "Skin_Disorders": {
+                "ASR": 84.3616680420232
+            },
+            "Ear_Disorders": {
+                "ASR": 250.716384973516
+            },
+            "Ischemic_Heart_Disease": {
+                "ASR": 690.202441931769
+            },
+            "Circulatory_System_Diseases": {
+                "ASR": 80.4388438179172
+            },
+            "COPD_Public_Hospital": {
+                "ASR": 35.5644397488769
+            }
+        }
+    },
+    "24250": {
+        "2017-2018": {
+            "Diabetes": {
+                "ASR": null
+            },
+            "Genitourinary_Diseases": {
+                "ASR": 170.450031380013
+            },
+            "Cancers": {
+                "ASR": 3087.18257004757
+            },
+            "Musculoskeletal_Disorders": {
+                "ASR": 2823.85641489921
+            },
+            "Mental_Health_Conditions": {
+                "ASR": 946.973157544912
+            },
+            "Respiratory_Diseases": {
+                "ASR": 207.251742700697
+            },
+            "Infectious_Diseases": {
+                "ASR": null
+            },
+            "Nervous_System_Diseases": {
+                "ASR": 181.103158341263
+            },
+            "Digestive_System_Diseases": {
+                "ASR": 4214.23044363607
+            },
+            "Asthma": {
+                "ASR": null
+            },
+            "All_Cancers": {
+                "ASR": 114.379467472735
+            },
+            "Mood_Affective_Disorders": {
+                "ASR": 49.0836095152199
+            },
+            "Endocrine_Disorders": {
+                "ASR": 742.867299813773
+            },
+            "Chronic_Kidney_Disease": {
+                "ASR": null
+            },
+            "Congenital_Abnormalities": {
+                "ASR": null
+            },
+            "Stroke": {
+                "ASR": null
+            },
+            "Eye_Disorders": {
+                "ASR": 68.6518356342503
+            },
+            "Heart_Failure": {
+                "ASR": null
+            },
+            "COPD": {
+                "ASR": null
+            },
+            "Skin_Disorders": {
+                "ASR": 100.593049266424
+            },
+            "Ear_Disorders": {
+                "ASR": null
+            },
+            "Ischemic_Heart_Disease": {
+                "ASR": 67.7926261170504
+            },
+            "Circulatory_System_Diseases": {
+                "ASR": 90.2223136418312
+            },
+            "COPD_Public_Hospital": {
+                "ASR": 127.887135644955
+            }
+        }
+    },
+    "24330": {
+        "2017-2018": {
+            "Diabetes": {
+                "ASR": 159.0
+            },
+            "Genitourinary_Diseases": {
+                "ASR": 1528.0
+            },
+            "Cancers": {
+                "ASR": 2085.57245420241
+            },
+            "Musculoskeletal_Disorders": {
+                "ASR": 1955.62516783362
+            },
+            "Mental_Health_Conditions": {
+                "ASR": 1236.03602199475
+            },
+            "Respiratory_Diseases": {
+                "ASR": 1349.0
+            },
+            "Infectious_Diseases": {
+                "ASR": 130.199102472764
+            },
+            "Nervous_System_Diseases": {
+                "ASR": 1073.0
+            },
+            "Digestive_System_Diseases": {
+                "ASR": 3652.08161528314
+            },
+            "Asthma": {
+                "ASR": null
+            },
+            "All_Cancers": {
+                "ASR": 77.2700225124039
+            },
+            "Mood_Affective_Disorders": {
+                "ASR": 61.0741251150501
+            },
+            "Endocrine_Disorders": {
+                "ASR": 792.439454561524
+            },
+            "Chronic_Kidney_Disease": {
+                "ASR": 89.6090297932224
+            },
+            "Congenital_Abnormalities": {
+                "ASR": 104.391527992659
+            },
+            "Stroke": {
+                "ASR": null
+            },
+            "Eye_Disorders": {
+                "ASR": 100.170364010864
+            },
+            "Heart_Failure": {
+                "ASR": 393.891957951661
+            },
+            "COPD": {
+                "ASR": 151.0
+            },
+            "Skin_Disorders": {
+                "ASR": 82.0046847489348
+            },
+            "Ear_Disorders": {
+                "ASR": 232.014379246939
+            },
+            "Ischemic_Heart_Disease": {
+                "ASR": 352.0
+            },
+            "Circulatory_System_Diseases": {
+                "ASR": 94.0389560107848
+            },
+            "COPD_Public_Hospital": {
+                "ASR": 83.3409175726232
+            }
+        }
+    },
+    "24410": {
+        "2017-2018": {
+            "Diabetes": {
+                "ASR": 225.700899194418
+            },
+            "Genitourinary_Diseases": {
+                "ASR": 2573.29859597928
+            },
+            "Cancers": {
+                "ASR": 2971.11529549126
+            },
+            "Musculoskeletal_Disorders": {
+                "ASR": 2686.10743325488
+            },
+            "Mental_Health_Conditions": {
+                "ASR": 2989.4676764479
+            },
+            "Respiratory_Diseases": {
+                "ASR": 2235.90847924369
+            },
+            "Infectious_Diseases": {
+                "ASR": 109.685668922419
+            },
+            "Nervous_System_Diseases": {
+                "ASR": 2351.24018771308
+            },
+            "Digestive_System_Diseases": {
+                "ASR": 5166.7556730926
+            },
+            "Asthma": {
+                "ASR": 194.735944154139
+            },
+            "All_Cancers": {
+                "ASR": 110.079199265871
+            },
+            "Mood_Affective_Disorders": {
+                "ASR": 234.144504837047
+            },
+            "Endocrine_Disorders": {
+                "ASR": 810.064854026976
+            },
+            "Chronic_Kidney_Disease": {
+                "ASR": 95.9612779705228
+            },
+            "Congenital_Abnormalities": {
+                "ASR": 109.441928793923
+            },
+            "Stroke": {
+                "ASR": 235.039667138387
+            },
+            "Eye_Disorders": {
+                "ASR": 101.118598701929
+            },
+            "Heart_Failure": {
+                "ASR": 237.808813296565
+            },
+            "COPD": {
+                "ASR": 314.946213912465
+            },
+            "Skin_Disorders": {
+                "ASR": 107.01667265017
+            },
+            "Ear_Disorders": {
+                "ASR": 322.281759678449
+            },
+            "Ischemic_Heart_Disease": {
+                "ASR": 606.31296734158
+            },
+            "Circulatory_System_Diseases": {
+                "ASR": 92.1851923386025
+            },
+            "COPD_Public_Hospital": {
+                "ASR": 61.7336513934352
+            }
+        }
+    },
+    "24600": {
+        "2017-2018": {
+            "Diabetes": {
+                "ASR": 148.018403593743
+            },
+            "Genitourinary_Diseases": {
+                "ASR": 1747.47857746342
+            },
+            "Cancers": {
+                "ASR": 2249.95051480333
+            },
+            "Musculoskeletal_Disorders": {
+                "ASR": 1603.89282352063
+            },
+            "Mental_Health_Conditions": {
+                "ASR": 917.546386847247
+            },
+            "Respiratory_Diseases": {
+                "ASR": 1266.38138279592
+            },
+            "Infectious_Diseases": {
+                "ASR": 75.164875933109
+            },
+            "Nervous_System_Diseases": {
+                "ASR": 1321.37116386988
+            },
+            "Digestive_System_Diseases": {
+                "ASR": 2730.63521265813
+            },
+            "Asthma": {
+                "ASR": 150.028748740284
+            },
+            "All_Cancers": {
+                "ASR": 83.3601952213815
+            },
+            "Mood_Affective_Disorders": {
+                "ASR": 51.8815381436791
+            },
+            "Endocrine_Disorders": {
+                "ASR": 514.053408564822
+            },
+            "Chronic_Kidney_Disease": {
+                "ASR": 64.0375464789366
+            },
+            "Congenital_Abnormalities": {
+                "ASR": 66.5508392317771
+            },
+            "Stroke": {
+                "ASR": 119.026094800131
+            },
+            "Eye_Disorders": {
+                "ASR": 66.6219075488667
+            },
+            "Heart_Failure": {
+                "ASR": 123.174171379914
+            },
+            "COPD": {
+                "ASR": 112.067306237343
+            },
+            "Skin_Disorders": {
+                "ASR": 48.8907023321084
+            },
+            "Ear_Disorders": {
+                "ASR": 161.001484282109
+            },
+            "Ischemic_Heart_Disease": {
+                "ASR": 266.082993857526
+            },
+            "Circulatory_System_Diseases": {
+                "ASR": 63.2436812944602
+            },
+            "COPD_Public_Hospital": {
+                "ASR": 46.0709504905657
+            }
+        }
+    },
+    "24650": {
+        "2017-2018": {
+            "Diabetes": {
+                "ASR": 319.827668968021
+            },
+            "Genitourinary_Diseases": {
+                "ASR": 2815.84599183392
+            },
+            "Cancers": {
+                "ASR": 2381.71129444201
+            },
+            "Musculoskeletal_Disorders": {
+                "ASR": 2563.632913362
+            },
+            "Mental_Health_Conditions": {
+                "ASR": 916.772686313722
+            },
+            "Respiratory_Diseases": {
+                "ASR": 2317.74221698713
+            },
+            "Infectious_Diseases": {
+                "ASR": 103.072208517432
+            },
+            "Nervous_System_Diseases": {
+                "ASR": 2156.89745762294
+            },
+            "Digestive_System_Diseases": {
+                "ASR": 5077.64801833545
+            },
+            "Asthma": {
+                "ASR": null
+            },
+            "All_Cancers": {
+                "ASR": 88.241904503846
+            },
+            "Mood_Affective_Disorders": {
+                "ASR": 45.019404626371
+            },
+            "Endocrine_Disorders": {
+                "ASR": 1063.8211827011
+            },
+            "Chronic_Kidney_Disease": {
+                "ASR": 89.8935748476594
+            },
+            "Congenital_Abnormalities": {
+                "ASR": 101.844420845976
+            },
+            "Stroke": {
+                "ASR": null
+            },
+            "Eye_Disorders": {
+                "ASR": 94.2725728491161
+            },
+            "Heart_Failure": {
+                "ASR": 321.252774129636
+            },
+            "COPD": {
+                "ASR": 286.05185498998
+            },
+            "Skin_Disorders": {
+                "ASR": 89.4741055727872
+            },
+            "Ear_Disorders": {
+                "ASR": 200.17776901812
+            },
+            "Ischemic_Heart_Disease": {
+                "ASR": 730.224445489268
+            },
+            "Circulatory_System_Diseases": {
+                "ASR": 104.093680760124
+            },
+            "COPD_Public_Hospital": {
+                "ASR": 110.04996034115
+            }
+        }
+    },
+    "24780": {
+        "2017-2018": {
+            "Diabetes": {
+                "ASR": null
+            },
+            "Genitourinary_Diseases": {
+                "ASR": 1137.0
+            },
+            "Cancers": {
+                "ASR": 2632.11509686491
+            },
+            "Musculoskeletal_Disorders": {
+                "ASR": 2499.63664203816
+            },
+            "Mental_Health_Conditions": {
+                "ASR": 1116.79063179752
+            },
+            "Respiratory_Diseases": {
+                "ASR": 1200.0
+            },
+            "Infectious_Diseases": {
+                "ASR": 80.1249047544075
+            },
+            "Nervous_System_Diseases": {
+                "ASR": 738.0
+            },
+            "Digestive_System_Diseases": {
+                "ASR": 4751.1381998751
+            },
+            "Asthma": {
+                "ASR": null
+            },
+            "All_Cancers": {
+                "ASR": 97.5193129254146
+            },
+            "Mood_Affective_Disorders": {
+                "ASR": 43.1478662623383
+            },
+            "Endocrine_Disorders": {
+                "ASR": 1203.00991309985
+            },
+            "Chronic_Kidney_Disease": {
+                "ASR": 81.8237453953289
+            },
+            "Congenital_Abnormalities": {
+                "ASR": 95.3712946524958
+            },
+            "Stroke": {
+                "ASR": null
+            },
+            "Eye_Disorders": {
+                "ASR": 89.9766089898747
+            },
+            "Heart_Failure": {
+                "ASR": 176.834567984123
+            },
+            "COPD": {
+                "ASR": 195.0
+            },
+            "Skin_Disorders": {
+                "ASR": 107.640045918691
+            },
+            "Ear_Disorders": {
+                "ASR": 239.820986957552
+            },
+            "Ischemic_Heart_Disease": {
+                "ASR": 445.0
+            },
+            "Circulatory_System_Diseases": {
+                "ASR": 89.3316374433825
+            },
+            "COPD_Public_Hospital": {
+                "ASR": 107.456516042488
+            }
+        }
+    },
+    "24850": {
+        "2017-2018": {
+            "Diabetes": {
+                "ASR": 189.555302591632
+            },
+            "Genitourinary_Diseases": {
+                "ASR": 987.661601111354
+            },
+            "Cancers": {
+                "ASR": 3283.96065949496
+            },
+            "Musculoskeletal_Disorders": {
+                "ASR": 3245.47524251366
+            },
+            "Mental_Health_Conditions": {
+                "ASR": 1084.20581284106
+            },
+            "Respiratory_Diseases": {
+                "ASR": 1057.9516852967
+            },
+            "Infectious_Diseases": {
+                "ASR": 117.651862401748
+            },
+            "Nervous_System_Diseases": {
+                "ASR": 788.093145793021
+            },
+            "Digestive_System_Diseases": {
+                "ASR": 5246.14311079912
+            },
+            "Asthma": {
+                "ASR": null
+            },
+            "All_Cancers": {
+                "ASR": 121.670054462849
+            },
+            "Mood_Affective_Disorders": {
+                "ASR": 64.2483483619683
+            },
+            "Endocrine_Disorders": {
+                "ASR": 1148.14312996322
+            },
+            "Chronic_Kidney_Disease": {
+                "ASR": 143.450891781369
+            },
+            "Congenital_Abnormalities": {
+                "ASR": 100.412276831888
+            },
+            "Stroke": {
+                "ASR": null
+            },
+            "Eye_Disorders": {
+                "ASR": 94.7139721973813
+            },
+            "Heart_Failure": {
+                "ASR": 357.884575716323
+            },
+            "COPD": {
+                "ASR": 216.061955851844
+            },
+            "Skin_Disorders": {
+                "ASR": 139.811650046446
+            },
+            "Ear_Disorders": {
+                "ASR": 248.693592724122
+            },
+            "Ischemic_Heart_Disease": {
+                "ASR": 286.330053753998
+            },
+            "Circulatory_System_Diseases": {
+                "ASR": 124.79831977474
+            },
+            "COPD_Public_Hospital": {
+                "ASR": 185.471716861091
+            }
+        }
+    },
+    "24900": {
+        "2017-2018": {
+            "Diabetes": {
+                "ASR": 105.0
+            },
+            "Genitourinary_Diseases": {
+                "ASR": 645.0
+            },
+            "Cancers": {
+                "ASR": 3330.05280523563
+            },
+            "Musculoskeletal_Disorders": {
+                "ASR": 2714.87106801933
+            },
+            "Mental_Health_Conditions": {
+                "ASR": 1148.10404421049
+            },
+            "Respiratory_Diseases": {
+                "ASR": 876.0
+            },
+            "Infectious_Diseases": {
+                "ASR": 133.828846534509
+            },
+            "Nervous_System_Diseases": {
+                "ASR": 538.0
+            },
+            "Digestive_System_Diseases": {
+                "ASR": 4900.30829291094
+            },
+            "Asthma": {
+                "ASR": null
+            },
+            "All_Cancers": {
+                "ASR": 123.377758806493
+            },
+            "Mood_Affective_Disorders": {
+                "ASR": 74.9341412855327
+            },
+            "Endocrine_Disorders": {
+                "ASR": 1174.11492913397
+            },
+            "Chronic_Kidney_Disease": {
+                "ASR": null
+            },
+            "Congenital_Abnormalities": {
+                "ASR": 164.308844067715
+            },
+            "Stroke": {
+                "ASR": 82.0
+            },
+            "Eye_Disorders": {
+                "ASR": 85.3713294434134
+            },
+            "Heart_Failure": {
+                "ASR": 230.522548078723
+            },
+            "COPD": {
+                "ASR": null
+            },
+            "Skin_Disorders": {
+                "ASR": 125.74333822736
+            },
+            "Ear_Disorders": {
+                "ASR": 252.71862315545
+            },
+            "Ischemic_Heart_Disease": {
+                "ASR": 341.0
+            },
+            "Circulatory_System_Diseases": {
+                "ASR": 103.887374143862
+            },
+            "COPD_Public_Hospital": {
+                "ASR": 168.888215454557
+            }
+        }
+    },
+    "24970": {
+        "2017-2018": {
+            "Diabetes": {
+                "ASR": 304.0
+            },
+            "Genitourinary_Diseases": {
+                "ASR": 3853.0
+            },
+            "Cancers": {
+                "ASR": 3103.6214536259
+            },
+            "Musculoskeletal_Disorders": {
+                "ASR": 1991.91074870954
+            },
+            "Mental_Health_Conditions": {
+                "ASR": 2738.91899819087
+            },
+            "Respiratory_Diseases": {
+                "ASR": 3213.0
+            },
+            "Infectious_Diseases": {
+                "ASR": 91.7388451606592
+            },
+            "Nervous_System_Diseases": {
+                "ASR": 2804.0
+            },
+            "Digestive_System_Diseases": {
+                "ASR": 4586.0421394336
+            },
+            "Asthma": {
+                "ASR": 304.0
+            },
+            "All_Cancers": {
+                "ASR": 114.988524665458
+            },
+            "Mood_Affective_Disorders": {
+                "ASR": 215.65859336949
+            },
+            "Endocrine_Disorders": {
+                "ASR": 713.522020403678
+            },
+            "Chronic_Kidney_Disease": {
+                "ASR": 69.447913666992
+            },
+            "Congenital_Abnormalities": {
+                "ASR": 83.8049321641141
+            },
+            "Stroke": {
+                "ASR": 417.0
+            },
+            "Eye_Disorders": {
+                "ASR": 91.1588630914304
+            },
+            "Heart_Failure": {
+                "ASR": 250.231132684472
+            },
+            "COPD": {
+                "ASR": 440.0
+            },
+            "Skin_Disorders": {
+                "ASR": 87.4282652061118
+            },
+            "Ear_Disorders": {
+                "ASR": 243.637958753528
+            },
+            "Ischemic_Heart_Disease": {
+                "ASR": 1046.0
+            },
+            "Circulatory_System_Diseases": {
+                "ASR": 87.7680724975432
+            },
+            "COPD_Public_Hospital": {
+                "ASR": 45.8790575861611
+            }
+        }
+    },
+    "25060": {
+        "2017-2018": {
+            "Diabetes": {
+                "ASR": 217.005927400936
+            },
+            "Genitourinary_Diseases": {
+                "ASR": 2646.03699515757
+            },
+            "Cancers": {
+                "ASR": 2692.21564695375
+            },
+            "Musculoskeletal_Disorders": {
+                "ASR": 2384.22353389647
+            },
+            "Mental_Health_Conditions": {
+                "ASR": 1415.75049862125
+            },
+            "Respiratory_Diseases": {
+                "ASR": 2196.03822151638
+            },
+            "Infectious_Diseases": {
+                "ASR": 109.618870628169
+            },
+            "Nervous_System_Diseases": {
+                "ASR": 2018.04128741342
+            },
+            "Digestive_System_Diseases": {
+                "ASR": 4690.71978347114
+            },
+            "Asthma": {
+                "ASR": 195.0057230078
+            },
+            "All_Cancers": {
+                "ASR": 99.7460257154764
+            },
+            "Mood_Affective_Disorders": {
+                "ASR": 87.3543393714563
+            },
+            "Endocrine_Disorders": {
+                "ASR": 812.694080633557
+            },
+            "Chronic_Kidney_Disease": {
+                "ASR": 77.4013884651835
+            },
+            "Congenital_Abnormalities": {
+                "ASR": 114.452012832674
+            },
+            "Stroke": {
+                "ASR": 287.005927400936
+            },
+            "Eye_Disorders": {
+                "ASR": 95.8267080692817
+            },
+            "Heart_Failure": {
+                "ASR": 324.072131138837
+            },
+            "COPD": {
+                "ASR": 314.003270290172
+            },
+            "Skin_Disorders": {
+                "ASR": 85.3214079077797
+            },
+            "Ear_Disorders": {
+                "ASR": 290.420775503608
+            },
+            "Ischemic_Heart_Disease": {
+                "ASR": 791.006949366615
+            },
+            "Circulatory_System_Diseases": {
+                "ASR": 101.447534566472
+            },
+            "COPD_Public_Hospital": {
+                "ASR": 70.0265101345465
+            }
+        }
+    },
+    "25150": {
+        "2017-2018": {
+            "Diabetes": {
+                "ASR": 91.8146419465723
+            },
+            "Genitourinary_Diseases": {
+                "ASR": 651.2522960475
+            },
+            "Cancers": {
+                "ASR": 3219.09346975307
+            },
+            "Musculoskeletal_Disorders": {
+                "ASR": 2950.83778825638
+            },
+            "Mental_Health_Conditions": {
+                "ASR": 761.646151684348
+            },
+            "Respiratory_Diseases": {
+                "ASR": 679.368176060828
+            },
+            "Infectious_Diseases": {
+                "ASR": 103.517481345181
+            },
+            "Nervous_System_Diseases": {
+                "ASR": 559.737187230124
+            },
+            "Digestive_System_Diseases": {
+                "ASR": 4752.22060056194
+            },
+            "Asthma": {
+                "ASR": null
+            },
+            "All_Cancers": {
+                "ASR": 119.266738672226
+            },
+            "Mood_Affective_Disorders": {
+                "ASR": 31.8758507003594
+            },
+            "Endocrine_Disorders": {
+                "ASR": 1150.65499450528
+            },
+            "Chronic_Kidney_Disease": {
+                "ASR": 104.512447453451
+            },
+            "Congenital_Abnormalities": {
+                "ASR": 127.966143597371
+            },
+            "Stroke": {
+                "ASR": 77.0278234568075
+            },
+            "Eye_Disorders": {
+                "ASR": 75.9061635434357
+            },
+            "Heart_Failure": {
+                "ASR": 184.092996642277
+            },
+            "COPD": {
+                "ASR": 141.332817122135
+            },
+            "Skin_Disorders": {
+                "ASR": 118.154463417053
+            },
+            "Ear_Disorders": {
+                "ASR": 391.70391612335
+            },
+            "Ischemic_Heart_Disease": {
+                "ASR": 208.882247815131
+            },
+            "Circulatory_System_Diseases": {
+                "ASR": 96.710803940737
+            },
+            "COPD_Public_Hospital": {
+                "ASR": 118.487296456265
+            }
+        }
+    },
+    "25250": {
+        "2017-2018": {
+            "Diabetes": {
+                "ASR": 412.840684524505
+            },
+            "Genitourinary_Diseases": {
+                "ASR": 3507.54619995958
+            },
+            "Cancers": {
+                "ASR": 2585.59645308446
+            },
+            "Musculoskeletal_Disorders": {
+                "ASR": 2291.35138752744
+            },
+            "Mental_Health_Conditions": {
+                "ASR": 1401.05566529089
+            },
+            "Respiratory_Diseases": {
+                "ASR": 3438.38099026999
+            },
+            "Infectious_Diseases": {
+                "ASR": 113.763910200253
+            },
+            "Nervous_System_Diseases": {
+                "ASR": 2604.98593345313
+            },
+            "Digestive_System_Diseases": {
+                "ASR": 4583.42743177837
+            },
+            "Asthma": {
+                "ASR": 310.878897457437
+            },
+            "All_Cancers": {
+                "ASR": 95.7958069187454
+            },
+            "Mood_Affective_Disorders": {
+                "ASR": 64.7201997005091
+            },
+            "Endocrine_Disorders": {
+                "ASR": 951.28348515927
+            },
+            "Chronic_Kidney_Disease": {
+                "ASR": 95.3652497521767
+            },
+            "Congenital_Abnormalities": {
+                "ASR": 105.013245774705
+            },
+            "Stroke": {
+                "ASR": 395.10817505503
+            },
+            "Eye_Disorders": {
+                "ASR": 95.918202616854
+            },
+            "Heart_Failure": {
+                "ASR": 393.136244351949
+            },
+            "COPD": {
+                "ASR": 432.604943183146
+            },
+            "Skin_Disorders": {
+                "ASR": 95.6116003580895
+            },
+            "Ear_Disorders": {
+                "ASR": 270.581297941761
+            },
+            "Ischemic_Heart_Disease": {
+                "ASR": 856.59847943938
+            },
+            "Circulatory_System_Diseases": {
+                "ASR": 102.681231074943
+            },
+            "COPD_Public_Hospital": {
+                "ASR": 83.9810214644863
+            }
+        }
+    },
+    "25340": {
+        "2017-2018": {
+            "Diabetes": {
+                "ASR": 422.0
+            },
+            "Genitourinary_Diseases": {
+                "ASR": 4504.0
+            },
+            "Cancers": {
+                "ASR": 3416.77009485639
+            },
+            "Musculoskeletal_Disorders": {
+                "ASR": 3232.68174350381
+            },
+            "Mental_Health_Conditions": {
+                "ASR": 1609.73824623233
+            },
+            "Respiratory_Diseases": {
+                "ASR": 3851.0
+            },
+            "Infectious_Diseases": {
+                "ASR": 93.8692739336157
+            },
+            "Nervous_System_Diseases": {
+                "ASR": 3198.0
+            },
+            "Digestive_System_Diseases": {
+                "ASR": 5219.14699210206
+            },
+            "Asthma": {
+                "ASR": 263.0
+            },
+            "All_Cancers": {
+                "ASR": 126.590616220154
+            },
+            "Mood_Affective_Disorders": {
+                "ASR": 94.4150191296884
+            },
+            "Endocrine_Disorders": {
+                "ASR": 953.839078743798
+            },
+            "Chronic_Kidney_Disease": {
+                "ASR": 64.4870514453277
+            },
+            "Congenital_Abnormalities": {
+                "ASR": 122.34153181965
+            },
+            "Stroke": {
+                "ASR": 577.0
+            },
+            "Eye_Disorders": {
+                "ASR": 81.8813023160835
+            },
+            "Heart_Failure": {
+                "ASR": 231.28030637169
+            },
+            "COPD": {
+                "ASR": 710.0
+            },
+            "Skin_Disorders": {
+                "ASR": 108.027381715359
+            },
+            "Ear_Disorders": {
+                "ASR": 327.009378403336
+            },
+            "Ischemic_Heart_Disease": {
+                "ASR": 1481.0
+            },
+            "Circulatory_System_Diseases": {
+                "ASR": 115.006051991107
+            },
+            "COPD_Public_Hospital": {
+                "ASR": 70.869982053458
+            }
+        }
+    },
+    "22490": {
+        "2017-2018": {
+            "Diabetes": {
+                "ASR": 42.8910679660273
+            },
+            "Genitourinary_Diseases": {
+                "ASR": 477.435320894923
+            },
+            "Cancers": {
+                "ASR": 3549.26259224023
+            },
+            "Musculoskeletal_Disorders": {
+                "ASR": 3027.44139371883
+            },
+            "Mental_Health_Conditions": {
+                "ASR": 731.584230312394
+            },
+            "Respiratory_Diseases": {
+                "ASR": 487.394031231935
+            },
+            "Infectious_Diseases": {
+                "ASR": 124.922598052239
+            },
+            "Nervous_System_Diseases": {
+                "ASR": 441.965663849946
+            },
+            "Digestive_System_Diseases": {
+                "ASR": 4724.09750749697
+            },
+            "Asthma": {
+                "ASR": null
+            },
+            "All_Cancers": {
+                "ASR": 131.499435491786
+            },
+            "Mood_Affective_Disorders": {
+                "ASR": 49.3910664250483
+            },
+            "Endocrine_Disorders": {
+                "ASR": 892.554412796694
+            },
+            "Chronic_Kidney_Disease": {
+                "ASR": null
+            },
+            "Congenital_Abnormalities": {
+                "ASR": 128.533272257507
+            },
+            "Stroke": {
+                "ASR": null
+            },
+            "Eye_Disorders": {
+                "ASR": 90.8382634372378
+            },
+            "Heart_Failure": {
+                "ASR": 280.343891071821
+            },
+            "COPD": {
+                "ASR": 53.7680767544136
+            },
+            "Skin_Disorders": {
+                "ASR": 87.1613144927317
+            },
+            "Ear_Disorders": {
+                "ASR": 337.965751352034
+            },
+            "Ischemic_Heart_Disease": {
+                "ASR": 127.860085085686
+            },
+            "Circulatory_System_Diseases": {
+                "ASR": 101.917644323731
+            },
+            "COPD_Public_Hospital": {
+                "ASR": 69.4504799803112
+            }
+        }
+    },
+    "22620": {
+        "2017-2018": {
+            "Diabetes": {
+                "ASR": 330.801800177557
+            },
+            "Genitourinary_Diseases": {
+                "ASR": 2945.98418303322
+            },
+            "Cancers": {
+                "ASR": 2951.50937299122
+            },
+            "Musculoskeletal_Disorders": {
+                "ASR": 2537.30289581327
+            },
+            "Mental_Health_Conditions": {
+                "ASR": 1379.75977209933
+            },
+            "Respiratory_Diseases": {
+                "ASR": 2743.77168830606
+            },
+            "Infectious_Diseases": {
+                "ASR": 103.628172420893
+            },
+            "Nervous_System_Diseases": {
+                "ASR": 1885.78858770696
+            },
+            "Digestive_System_Diseases": {
+                "ASR": 4919.61123701053
+            },
+            "Asthma": {
+                "ASR": 222.171435069045
+            },
+            "All_Cancers": {
+                "ASR": 109.352803944575
+            },
+            "Mood_Affective_Disorders": {
+                "ASR": 87.5160486704789
+            },
+            "Endocrine_Disorders": {
+                "ASR": 988.358038790601
+            },
+            "Chronic_Kidney_Disease": {
+                "ASR": 89.08175219963
+            },
+            "Congenital_Abnormalities": {
+                "ASR": 100.331466110792
+            },
+            "Stroke": {
+                "ASR": 293.817695894414
+            },
+            "Eye_Disorders": {
+                "ASR": 83.6449034372778
+            },
+            "Heart_Failure": {
+                "ASR": 294.810051559778
+            },
+            "COPD": {
+                "ASR": 429.720433782911
+            },
+            "Skin_Disorders": {
+                "ASR": 105.030829095348
+            },
+            "Ear_Disorders": {
+                "ASR": 377.528077098948
+            },
+            "Ischemic_Heart_Disease": {
+                "ASR": 912.304069479696
+            },
+            "Circulatory_System_Diseases": {
+                "ASR": 115.438090084949
+            },
+            "COPD_Public_Hospital": {
+                "ASR": 105.16279604858
+            }
+        }
+    },
+    "22670": {
+        "2017-2018": {
+            "Diabetes": {
+                "ASR": 318.0
+            },
+            "Genitourinary_Diseases": {
+                "ASR": 2954.0
+            },
+            "Cancers": {
+                "ASR": 2403.49382690668
+            },
+            "Musculoskeletal_Disorders": {
+                "ASR": 1814.23899416136
+            },
+            "Mental_Health_Conditions": {
+                "ASR": 2090.41461896197
+            },
+            "Respiratory_Diseases": {
+                "ASR": 3016.0
+            },
+            "Infectious_Diseases": {
+                "ASR": 115.368803317033
+            },
+            "Nervous_System_Diseases": {
+                "ASR": 1758.0
+            },
+            "Digestive_System_Diseases": {
+                "ASR": 4505.36618417843
+            },
+            "Asthma": {
+                "ASR": 368.0
+            },
+            "All_Cancers": {
+                "ASR": 89.0489427683429
+            },
+            "Mood_Affective_Disorders": {
+                "ASR": 161.922149696356
+            },
+            "Endocrine_Disorders": {
+                "ASR": 606.114638613763
+            },
+            "Chronic_Kidney_Disease": {
+                "ASR": 112.055815870542
+            },
+            "Congenital_Abnormalities": {
+                "ASR": 76.3322433485607
+            },
+            "Stroke": {
+                "ASR": 408.0
+            },
+            "Eye_Disorders": {
+                "ASR": 82.6926857446933
+            },
+            "Heart_Failure": {
+                "ASR": 326.981524047331
+            },
+            "COPD": {
+                "ASR": 420.0
+            },
+            "Skin_Disorders": {
+                "ASR": 86.1554817524332
+            },
+            "Ear_Disorders": {
+                "ASR": 244.382718324127
+            },
+            "Ischemic_Heart_Disease": {
+                "ASR": 798.0
+            },
+            "Circulatory_System_Diseases": {
+                "ASR": 97.2746211569027
+            },
+            "COPD_Public_Hospital": {
+                "ASR": 89.1848856272983
+            }
+        }
+    },
+    "22750": {
+        "2017-2018": {
+            "Diabetes": {
+                "ASR": 613.953690969749
+            },
+            "Genitourinary_Diseases": {
+                "ASR": 5369.90611562126
+            },
+            "Cancers": {
+                "ASR": 3055.16736650216
+            },
+            "Musculoskeletal_Disorders": {
+                "ASR": 2699.81379982472
+            },
+            "Mental_Health_Conditions": {
+                "ASR": 1107.83836977703
+            },
+            "Respiratory_Diseases": {
+                "ASR": 5804.58821863134
+            },
+            "Infectious_Diseases": {
+                "ASR": 116.881611841761
+            },
+            "Nervous_System_Diseases": {
+                "ASR": 4689.92489249701
+            },
+            "Digestive_System_Diseases": {
+                "ASR": 4890.20136374028
+            },
+            "Asthma": {
+                "ASR": 482.872339034695
+            },
+            "All_Cancers": {
+                "ASR": 113.193310888384
+            },
+            "Mood_Affective_Disorders": {
+                "ASR": 59.8735058888681
+            },
+            "Endocrine_Disorders": {
+                "ASR": 959.417845664685
+            },
+            "Chronic_Kidney_Disease": {
+                "ASR": 110.922891724915
+            },
+            "Congenital_Abnormalities": {
+                "ASR": 99.3196170738547
+            },
+            "Stroke": {
+                "ASR": 636.310386239617
+            },
+            "Eye_Disorders": {
+                "ASR": 92.1953453190751
+            },
+            "Heart_Failure": {
+                "ASR": 201.286346642948
+            },
+            "COPD": {
+                "ASR": 898.310386239617
+            },
+            "Skin_Disorders": {
+                "ASR": 91.0784472577216
+            },
+            "Ear_Disorders": {
+                "ASR": 303.356646202845
+            },
+            "Ischemic_Heart_Disease": {
+                "ASR": 1573.81851925414
+            },
+            "Circulatory_System_Diseases": {
+                "ASR": 95.3417381319445
+            },
+            "COPD_Public_Hospital": {
+                "ASR": 86.4723090233947
+            }
+        }
+    },
+    "25430": {
+        "2017-2018": {
+            "Diabetes": {
+                "ASR": null
+            },
+            "Genitourinary_Diseases": {
+                "ASR": 386.185293984834
+            },
+            "Cancers": {
+                "ASR": 2790.24734550062
+            },
+            "Musculoskeletal_Disorders": {
+                "ASR": 2285.05301562165
+            },
+            "Mental_Health_Conditions": {
+                "ASR": 986.613628657648
+            },
+            "Respiratory_Diseases": {
+                "ASR": 421.537185718221
+            },
+            "Infectious_Diseases": {
+                "ASR": 101.474046613962
+            },
+            "Nervous_System_Diseases": {
+                "ASR": 336.123755394719
+            },
+            "Digestive_System_Diseases": {
+                "ASR": 4157.24371611882
+            },
+            "Asthma": {
+                "ASR": null
+            },
+            "All_Cancers": {
+                "ASR": 103.378079609544
+            },
+            "Mood_Affective_Disorders": {
+                "ASR": null
+            },
+            "Endocrine_Disorders": {
+                "ASR": 671.077512954492
+            },
+            "Chronic_Kidney_Disease": {
+                "ASR": null
+            },
+            "Congenital_Abnormalities": {
+                "ASR": null
+            },
+            "Stroke": {
+                "ASR": null
+            },
+            "Eye_Disorders": {
+                "ASR": 83.2594081587283
+            },
+            "Heart_Failure": {
+                "ASR": 222.55489838532
+            },
+            "COPD": {
+                "ASR": null
+            },
+            "Skin_Disorders": {
+                "ASR": 97.4798163904035
+            },
+            "Ear_Disorders": {
+                "ASR": 302.480371769707
+            },
+            "Ischemic_Heart_Disease": {
+                "ASR": 173.865165977949
+            },
+            "Circulatory_System_Diseases": {
+                "ASR": 96.0783557448524
+            },
+            "COPD_Public_Hospital": {
+                "ASR": 87.0148146722639
+            }
+        }
+    },
+    "25490": {
+        "2017-2018": {
+            "Diabetes": {
+                "ASR": null
+            },
+            "Genitourinary_Diseases": {
+                "ASR": 302.755103441757
+            },
+            "Cancers": {
+                "ASR": 3508.34808554657
+            },
+            "Musculoskeletal_Disorders": {
+                "ASR": 2997.90171838157
+            },
+            "Mental_Health_Conditions": {
+                "ASR": 876.095871435964
+            },
+            "Respiratory_Diseases": {
+                "ASR": 403.033545498368
+            },
+            "Infectious_Diseases": {
+                "ASR": 91.7380843539155
+            },
+            "Nervous_System_Diseases": {
+                "ASR": 243.653555067789
+            },
+            "Digestive_System_Diseases": {
+                "ASR": 4432.43371679106
+            },
+            "Asthma": {
+                "ASR": null
+            },
+            "All_Cancers": {
+                "ASR": 129.983561590147
+            },
+            "Mood_Affective_Disorders": {
+                "ASR": null
+            },
+            "Endocrine_Disorders": {
+                "ASR": 764.847723266804
+            },
+            "Chronic_Kidney_Disease": {
+                "ASR": null
+            },
+            "Congenital_Abnormalities": {
+                "ASR": null
+            },
+            "Stroke": {
+                "ASR": null
+            },
+            "Eye_Disorders": {
+                "ASR": 84.9453711371549
+            },
+            "Heart_Failure": {
+                "ASR": 294.602848929935
+            },
+            "COPD": {
+                "ASR": null
+            },
+            "Skin_Disorders": {
+                "ASR": 97.2379915361464
+            },
+            "Ear_Disorders": {
+                "ASR": 217.907595938499
+            },
+            "Ischemic_Heart_Disease": {
+                "ASR": 129.003845407974
+            },
+            "Circulatory_System_Diseases": {
+                "ASR": 110.584572112716
+            },
+            "COPD_Public_Hospital": {
+                "ASR": 116.066646827497
+            }
+        }
+    },
+    "25620": {
+        "2017-2018": {
+            "Diabetes": {
+                "ASR": null
+            },
+            "Genitourinary_Diseases": {
+                "ASR": 391.768554261976
+            },
+            "Cancers": {
+                "ASR": 2930.87486743446
+            },
+            "Musculoskeletal_Disorders": {
+                "ASR": 2608.02958752491
+            },
+            "Mental_Health_Conditions": {
+                "ASR": 1098.25554861868
+            },
+            "Respiratory_Diseases": {
+                "ASR": 361.384640756068
+            },
+            "Infectious_Diseases": {
+                "ASR": 113.406236408697
+            },
+            "Nervous_System_Diseases": {
+                "ASR": 253.938210117616
+            },
+            "Digestive_System_Diseases": {
+                "ASR": 4813.22321997842
+            },
+            "Asthma": {
+                "ASR": null
+            },
+            "All_Cancers": {
+                "ASR": 108.588299836511
+            },
+            "Mood_Affective_Disorders": {
+                "ASR": 73.3575165360243
+            },
+            "Endocrine_Disorders": {
+                "ASR": 1135.30786091346
+            },
+            "Chronic_Kidney_Disease": {
+                "ASR": null
+            },
+            "Congenital_Abnormalities": {
+                "ASR": 127.208613143886
+            },
+            "Stroke": {
+                "ASR": null
+            },
+            "Eye_Disorders": {
+                "ASR": 78.5869129493804
+            },
+            "Heart_Failure": {
+                "ASR": 240.29120162617
+            },
+            "COPD": {
+                "ASR": 77.2386762534454
+            },
+            "Skin_Disorders": {
+                "ASR": 106.648864175812
+            },
+            "Ear_Disorders": {
+                "ASR": 156.901516779174
+            },
+            "Ischemic_Heart_Disease": {
+                "ASR": 95.8931949899055
+            },
+            "Circulatory_System_Diseases": {
+                "ASR": 91.5781697175511
+            },
+            "COPD_Public_Hospital": {
+                "ASR": 118.127079675397
+            }
+        }
+    },
+    "25710": {
+        "2017-2018": {
+            "Diabetes": {
+                "ASR": 92.0
+            },
+            "Genitourinary_Diseases": {
+                "ASR": 1214.0
+            },
+            "Cancers": {
+                "ASR": 2582.01958920019
+            },
+            "Musculoskeletal_Disorders": {
+                "ASR": 2700.74701624297
+            },
+            "Mental_Health_Conditions": {
+                "ASR": 1220.56032066722
+            },
+            "Respiratory_Diseases": {
+                "ASR": 876.0
+            },
+            "Infectious_Diseases": {
+                "ASR": 77.5041194275816
+            },
+            "Nervous_System_Diseases": {
+                "ASR": 871.0
+            },
+            "Digestive_System_Diseases": {
+                "ASR": 4801.14496611388
+            },
+            "Asthma": {
+                "ASR": 84.0
+            },
+            "All_Cancers": {
+                "ASR": 95.6632848611661
+            },
+            "Mood_Affective_Disorders": {
+                "ASR": 90.0322389000634
+            },
+            "Endocrine_Disorders": {
+                "ASR": 705.105887435022
+            },
+            "Chronic_Kidney_Disease": {
+                "ASR": 80.7874536098839
+            },
+            "Congenital_Abnormalities": {
+                "ASR": 94.9387454979348
+            },
+            "Stroke": {
+                "ASR": 84.0
+            },
+            "Eye_Disorders": {
+                "ASR": 80.7776381387427
+            },
+            "Heart_Failure": {
+                "ASR": 180.97979856706
+            },
+            "COPD": {
+                "ASR": 64.0
+            },
+            "Skin_Disorders": {
+                "ASR": 85.1803689932124
+            },
+            "Ear_Disorders": {
+                "ASR": 229.618982349192
+            },
+            "Ischemic_Heart_Disease": {
+                "ASR": 257.0
+            },
+            "Circulatory_System_Diseases": {
+                "ASR": 77.8823556235075
+            },
+            "COPD_Public_Hospital": {
+                "ASR": 28.9703576074256
+            }
+        }
+    },
+    "22310": {
+        "2017-2018": {
+            "Diabetes": {
+                "ASR": 218.0
+            },
+            "Genitourinary_Diseases": {
+                "ASR": 2908.0
+            },
+            "Cancers": {
+                "ASR": 2905.42949495584
+            },
+            "Musculoskeletal_Disorders": {
+                "ASR": 2303.83950666676
+            },
+            "Mental_Health_Conditions": {
+                "ASR": 2610.53026888037
+            },
+            "Respiratory_Diseases": {
+                "ASR": 2556.0
+            },
+            "Infectious_Diseases": {
+                "ASR": 99.5716776778887
+            },
+            "Nervous_System_Diseases": {
+                "ASR": 2265.0
+            },
+            "Digestive_System_Diseases": {
+                "ASR": 5029.8097863043
+            },
+            "Asthma": {
+                "ASR": 225.0
+            },
+            "All_Cancers": {
+                "ASR": 107.645554116842
+            },
+            "Mood_Affective_Disorders": {
+                "ASR": 193.268780067774
+            },
+            "Endocrine_Disorders": {
+                "ASR": 873.616139423695
+            },
+            "Chronic_Kidney_Disease": {
+                "ASR": 64.0014730084727
+            },
+            "Congenital_Abnormalities": {
+                "ASR": 96.42135938241
+            },
+            "Stroke": {
+                "ASR": 311.0
+            },
+            "Eye_Disorders": {
+                "ASR": 94.6085208533429
+            },
+            "Heart_Failure": {
+                "ASR": 267.198417276108
+            },
+            "COPD": {
+                "ASR": 282.0
+            },
+            "Skin_Disorders": {
+                "ASR": 96.5631034582897
+            },
+            "Ear_Disorders": {
+                "ASR": 281.724127188799
+            },
+            "Ischemic_Heart_Disease": {
+                "ASR": 614.0
+            },
+            "Circulatory_System_Diseases": {
+                "ASR": 85.9427627780647
+            },
+            "COPD_Public_Hospital": {
+                "ASR": 40.5895556337364
+            }
+        }
+    },
+    "25810": {
+        "2017-2018": {
+            "Diabetes": {
+                "ASR": null
+            },
+            "Genitourinary_Diseases": {
+                "ASR": 275.09408284532
+            },
+            "Cancers": {
+                "ASR": 3021.97633955924
+            },
+            "Musculoskeletal_Disorders": {
+                "ASR": 2802.1046885316
+            },
+            "Mental_Health_Conditions": {
+                "ASR": 1027.33472764115
+            },
+            "Respiratory_Diseases": {
+                "ASR": 287.907502992515
+            },
+            "Infectious_Diseases": {
+                "ASR": 107.232662607561
+            },
+            "Nervous_System_Diseases": {
+                "ASR": 199.235709200261
+            },
+            "Digestive_System_Diseases": {
+                "ASR": 4334.56241617421
+            },
+            "Asthma": {
+                "ASR": null
+            },
+            "All_Cancers": {
+                "ASR": 111.963590293484
+            },
+            "Mood_Affective_Disorders": {
+                "ASR": 74.4671447834145
+            },
+            "Endocrine_Disorders": {
+                "ASR": 1435.49120337656
+            },
+            "Chronic_Kidney_Disease": {
+                "ASR": null
+            },
+            "Congenital_Abnormalities": {
+                "ASR": null
+            },
+            "Stroke": {
+                "ASR": null
+            },
+            "Eye_Disorders": {
+                "ASR": 83.0843218834914
+            },
+            "Heart_Failure": {
+                "ASR": null
+            },
+            "COPD": {
+                "ASR": null
+            },
+            "Skin_Disorders": {
+                "ASR": 98.2157561487247
+            },
+            "Ear_Disorders": {
+                "ASR": 273.887897453548
+            },
+            "Ischemic_Heart_Disease": {
+                "ASR": 101.368807180165
+            },
+            "Circulatory_System_Diseases": {
+                "ASR": 94.2375589765105
+            },
+            "COPD_Public_Hospital": {
+                "ASR": 124.435596916876
+            }
+        }
+    },
+    "25900": {
+        "2017-2018": {
+            "Diabetes": {
+                "ASR": 112.978901977517
+            },
+            "Genitourinary_Diseases": {
+                "ASR": 2312.54805814997
+            },
+            "Cancers": {
+                "ASR": 3189.88641311515
+            },
+            "Musculoskeletal_Disorders": {
+                "ASR": 2639.61137572231
+            },
+            "Mental_Health_Conditions": {
+                "ASR": 2045.6385008961
+            },
+            "Respiratory_Diseases": {
+                "ASR": 1791.62800855095
+            },
+            "Infectious_Diseases": {
+                "ASR": 122.243452956798
+            },
+            "Nervous_System_Diseases": {
+                "ASR": 1863.64133361779
+            },
+            "Digestive_System_Diseases": {
+                "ASR": 4369.92525336837
+            },
+            "Asthma": {
+                "ASR": 157.968908177393
+            },
+            "All_Cancers": {
+                "ASR": 118.184623342507
+            },
+            "Mood_Affective_Disorders": {
+                "ASR": 100.673656146506
+            },
+            "Endocrine_Disorders": {
+                "ASR": 752.927464540084
+            },
+            "Chronic_Kidney_Disease": {
+                "ASR": 66.1148351673843
+            },
+            "Congenital_Abnormalities": {
+                "ASR": 122.588501322835
+            },
+            "Stroke": {
+                "ASR": 168.972239444101
+            },
+            "Eye_Disorders": {
+                "ASR": 96.147837922344
+            },
+            "Heart_Failure": {
+                "ASR": 256.205577425954
+            },
+            "COPD": {
+                "ASR": 291.935595510315
+            },
+            "Skin_Disorders": {
+                "ASR": 100.398552478837
+            },
+            "Ear_Disorders": {
+                "ASR": 291.873556183062
+            },
+            "Ischemic_Heart_Disease": {
+                "ASR": 390.920049599011
+            },
+            "Circulatory_System_Diseases": {
+                "ASR": 92.4197462306059
+            },
+            "COPD_Public_Hospital": {
+                "ASR": 100.321943300357
+            }
+        }
+    },
+    "25990": {
+        "2017-2018": {
+            "Diabetes": {
+                "ASR": null
+            },
+            "Genitourinary_Diseases": {
+                "ASR": 153.181857104872
+            },
+            "Cancers": {
+                "ASR": 3061.96748857827
+            },
+            "Musculoskeletal_Disorders": {
+                "ASR": 2615.50569852591
+            },
+            "Mental_Health_Conditions": {
+                "ASR": 849.219721850161
+            },
+            "Respiratory_Diseases": {
+                "ASR": 191.809484257556
+            },
+            "Infectious_Diseases": {
+                "ASR": 94.9625300106641
+            },
+            "Nervous_System_Diseases": {
+                "ASR": 167.763846669479
+            },
+            "Digestive_System_Diseases": {
+                "ASR": 4457.40919489007
+            },
+            "Asthma": {
+                "ASR": null
+            },
+            "All_Cancers": {
+                "ASR": 113.445253986717
+            },
+            "Mood_Affective_Disorders": {
+                "ASR": null
+            },
+            "Endocrine_Disorders": {
+                "ASR": 792.813958452752
+            },
+            "Chronic_Kidney_Disease": {
+                "ASR": null
+            },
+            "Congenital_Abnormalities": {
+                "ASR": 58.576666666864
+            },
+            "Stroke": {
+                "ASR": null
+            },
+            "Eye_Disorders": {
+                "ASR": 85.4687761329877
+            },
+            "Heart_Failure": {
+                "ASR": null
+            },
+            "COPD": {
+                "ASR": null
+            },
+            "Skin_Disorders": {
+                "ASR": 98.9756860388472
+            },
+            "Ear_Disorders": {
+                "ASR": 267.464718811425
+            },
+            "Ischemic_Heart_Disease": {
+                "ASR": 78.2159660818365
+            },
+            "Circulatory_System_Diseases": {
+                "ASR": 114.703746672641
+            },
+            "COPD_Public_Hospital": {
+                "ASR": 133.462981205618
+            }
+        }
+    },
+    "26080": {
+        "2017-2018": {
+            "Diabetes": {
+                "ASR": null
+            },
+            "Genitourinary_Diseases": {
+                "ASR": 69.3087746200442
+            },
+            "Cancers": {
+                "ASR": 2205.10389151163
+            },
+            "Musculoskeletal_Disorders": {
+                "ASR": 1923.51679170485
+            },
+            "Mental_Health_Conditions": {
+                "ASR": 862.846913592959
+            },
+            "Respiratory_Diseases": {
+                "ASR": 67.7562580685553
+            },
+            "Infectious_Diseases": {
+                "ASR": 82.2724985120457
+            },
+            "Nervous_System_Diseases": {
+                "ASR": 55.4470196960354
+            },
+            "Digestive_System_Diseases": {
+                "ASR": 4248.73580855191
+            },
+            "Asthma": {
+                "ASR": 5.65559600899561
+            },
+            "All_Cancers": {
+                "ASR": 81.6986372235411
+            },
+            "Mood_Affective_Disorders": {
+                "ASR": null
+            },
+            "Endocrine_Disorders": {
+                "ASR": 604.838333385962
+            },
+            "Chronic_Kidney_Disease": {
+                "ASR": null
+            },
+            "Congenital_Abnormalities": {
+                "ASR": 170.142604891992
+            },
+            "Stroke": {
+                "ASR": null
+            },
+            "Eye_Disorders": {
+                "ASR": 48.9984890666536
+            },
+            "Heart_Failure": {
+                "ASR": null
+            },
+            "COPD": {
+                "ASR": 7.09721852109253
+            },
+            "Skin_Disorders": {
+                "ASR": 65.4442564220073
+            },
+            "Ear_Disorders": {
+                "ASR": 367.893803913234
+            },
+            "Ischemic_Heart_Disease": {
+                "ASR": 15.8578476330661
+            },
+            "Circulatory_System_Diseases": {
+                "ASR": 50.0334297981604
+            },
+            "COPD_Public_Hospital": {
+                "ASR": null
+            }
+        }
+    },
+    "26170": {
+        "2017-2018": {
+            "Diabetes": {
+                "ASR": 92.203769440493
+            },
+            "Genitourinary_Diseases": {
+                "ASR": 657.954772185177
+            },
+            "Cancers": {
+                "ASR": 2621.64618369917
+            },
+            "Musculoskeletal_Disorders": {
+                "ASR": 3101.69138015861
+            },
+            "Mental_Health_Conditions": {
+                "ASR": 1443.91740363595
+            },
+            "Respiratory_Diseases": {
+                "ASR": 634.195461032697
+            },
+            "Infectious_Diseases": {
+                "ASR": 87.939425653393
+            },
+            "Nervous_System_Diseases": {
+                "ASR": 463.018277233607
+            },
+            "Digestive_System_Diseases": {
+                "ASR": 3501.56033817997
+            },
+            "Asthma": {
+                "ASR": null
+            },
+            "All_Cancers": {
+                "ASR": 97.131441885803
+            },
+            "Mood_Affective_Disorders": {
+                "ASR": 115.9281028766
+            },
+            "Endocrine_Disorders": {
+                "ASR": 592.375937490429
+            },
+            "Chronic_Kidney_Disease": {
+                "ASR": null
+            },
+            "Congenital_Abnormalities": {
+                "ASR": 95.3813831084319
+            },
+            "Stroke": {
+                "ASR": null
+            },
+            "Eye_Disorders": {
+                "ASR": 62.8557547031577
+            },
+            "Heart_Failure": {
+                "ASR": 274.806208019577
+            },
+            "COPD": {
+                "ASR": null
+            },
+            "Skin_Disorders": {
+                "ASR": 129.540988926333
+            },
+            "Ear_Disorders": {
+                "ASR": 216.93230833976
+            },
+            "Ischemic_Heart_Disease": {
+                "ASR": 294.880065647434
+            },
+            "Circulatory_System_Diseases": {
+                "ASR": 107.915572651454
+            },
+            "COPD_Public_Hospital": {
+                "ASR": 130.685260227033
+            }
+        }
+    },
+    "26260": {
+        "2017-2018": {
+            "Diabetes": {
+                "ASR": null
+            },
+            "Genitourinary_Diseases": {
+                "ASR": 294.498624765346
+            },
+            "Cancers": {
+                "ASR": 2299.08474397322
+            },
+            "Musculoskeletal_Disorders": {
+                "ASR": 2469.33250429278
+            },
+            "Mental_Health_Conditions": {
+                "ASR": 885.499172586507
+            },
+            "Respiratory_Diseases": {
+                "ASR": 460.391505917729
+            },
+            "Infectious_Diseases": {
+                "ASR": null
+            },
+            "Nervous_System_Diseases": {
+                "ASR": 344.875681751866
+            },
+            "Digestive_System_Diseases": {
+                "ASR": 4203.30073644789
+            },
+            "Asthma": {
+                "ASR": null
+            },
+            "All_Cancers": {
+                "ASR": 85.1806081187788
+            },
+            "Mood_Affective_Disorders": {
+                "ASR": 68.8053720943748
+            },
+            "Endocrine_Disorders": {
+                "ASR": 476.793963671773
+            },
+            "Chronic_Kidney_Disease": {
+                "ASR": null
+            },
+            "Congenital_Abnormalities": {
+                "ASR": null
+            },
+            "Stroke": {
+                "ASR": null
+            },
+            "Eye_Disorders": {
+                "ASR": 70.5686961819722
+            },
+            "Heart_Failure": {
+                "ASR": null
+            },
+            "COPD": {
+                "ASR": null
+            },
+            "Skin_Disorders": {
+                "ASR": 75.153103949092
+            },
+            "Ear_Disorders": {
+                "ASR": null
+            },
+            "Ischemic_Heart_Disease": {
+                "ASR": 164.095280290338
+            },
+            "Circulatory_System_Diseases": {
+                "ASR": 128.629195572116
+            },
+            "COPD_Public_Hospital": {
+                "ASR": 122.662053436317
+            }
+        }
+    },
+    "26350": {
+        "2017-2018": {
+            "Diabetes": {
+                "ASR": 115.0
+            },
+            "Genitourinary_Diseases": {
+                "ASR": 2142.0
+            },
+            "Cancers": {
+                "ASR": 3172.98927155149
+            },
+            "Musculoskeletal_Disorders": {
+                "ASR": 2542.32927496578
+            },
+            "Mental_Health_Conditions": {
+                "ASR": 1861.58937161225
+            },
+            "Respiratory_Diseases": {
+                "ASR": 1667.0
+            },
+            "Infectious_Diseases": {
+                "ASR": 99.1835665239223
+            },
+            "Nervous_System_Diseases": {
+                "ASR": 1681.0
+            },
+            "Digestive_System_Diseases": {
+                "ASR": 4260.05272181956
+            },
+            "Asthma": {
+                "ASR": 106.0
+            },
+            "All_Cancers": {
+                "ASR": 117.55858778743
+            },
+            "Mood_Affective_Disorders": {
+                "ASR": 133.804271804938
+            },
+            "Endocrine_Disorders": {
+                "ASR": 741.244191601627
+            },
+            "Chronic_Kidney_Disease": {
+                "ASR": 63.294315428978
+            },
+            "Congenital_Abnormalities": {
+                "ASR": 113.211052952439
+            },
+            "Stroke": {
+                "ASR": 208.0
+            },
+            "Eye_Disorders": {
+                "ASR": 96.3875276243736
+            },
+            "Heart_Failure": {
+                "ASR": 209.642983153489
+            },
+            "COPD": {
+                "ASR": 201.0
+            },
+            "Skin_Disorders": {
+                "ASR": 96.8913652604065
+            },
+            "Ear_Disorders": {
+                "ASR": 267.567326704243
+            },
+            "Ischemic_Heart_Disease": {
+                "ASR": 413.0
+            },
+            "Circulatory_System_Diseases": {
+                "ASR": 79.7307138168663
+            },
+            "COPD_Public_Hospital": {
+                "ASR": 37.9088303493977
+            }
+        }
+    },
+    "26430": {
+        "2017-2018": {
+            "Diabetes": {
+                "ASR": null
+            },
+            "Genitourinary_Diseases": {
+                "ASR": 296.480115747196
+            },
+            "Cancers": {
+                "ASR": 3155.27560235307
+            },
+            "Musculoskeletal_Disorders": {
+                "ASR": 2589.93610094317
+            },
+            "Mental_Health_Conditions": {
+                "ASR": 990.024382128761
+            },
+            "Respiratory_Diseases": {
+                "ASR": 308.012214906657
+            },
+            "Infectious_Diseases": {
+                "ASR": 128.213179861326
+            },
+            "Nervous_System_Diseases": {
+                "ASR": 186.050896198828
+            },
+            "Digestive_System_Diseases": {
+                "ASR": 5051.68248258614
+            },
+            "Asthma": {
+                "ASR": 6.11899667420684
+            },
+            "All_Cancers": {
+                "ASR": 116.902300054543
+            },
+            "Mood_Affective_Disorders": {
+                "ASR": 78.7820354779491
+            },
+            "Endocrine_Disorders": {
+                "ASR": 1236.41402250519
+            },
+            "Chronic_Kidney_Disease": {
+                "ASR": null
+            },
+            "Congenital_Abnormalities": {
+                "ASR": null
+            },
+            "Stroke": {
+                "ASR": null
+            },
+            "Eye_Disorders": {
+                "ASR": 83.8018969484112
+            },
+            "Heart_Failure": {
+                "ASR": 234.035665084442
+            },
+            "COPD": {
+                "ASR": 73.164387823918
+            },
+            "Skin_Disorders": {
+                "ASR": 106.735410918298
+            },
+            "Ear_Disorders": {
+                "ASR": 179.375014388329
+            },
+            "Ischemic_Heart_Disease": {
+                "ASR": 80.575014930979
+            },
+            "Circulatory_System_Diseases": {
+                "ASR": 98.3197578493852
+            },
+            "COPD_Public_Hospital": {
+                "ASR": 124.189555576536
+            }
+        }
+    },
+    "26490": {
+        "2017-2018": {
+            "Diabetes": {
+                "ASR": 43.4059766972439
+            },
+            "Genitourinary_Diseases": {
+                "ASR": 610.78993127211
+            },
+            "Cancers": {
+                "ASR": 2895.30352741466
+            },
+            "Musculoskeletal_Disorders": {
+                "ASR": 2309.15534943654
+            },
+            "Mental_Health_Conditions": {
+                "ASR": 1030.24935524534
+            },
+            "Respiratory_Diseases": {
+                "ASR": 584.250516177241
+            },
+            "Infectious_Diseases": {
+                "ASR": 99.979662124016
+            },
+            "Nervous_System_Diseases": {
+                "ASR": 420.713581166495
+            },
+            "Digestive_System_Diseases": {
+                "ASR": 4245.63516696064
+            },
+            "Asthma": {
+                "ASR": null
+            },
+            "All_Cancers": {
+                "ASR": 107.270389140775
+            },
+            "Mood_Affective_Disorders": {
+                "ASR": 45.3025023097446
+            },
+            "Endocrine_Disorders": {
+                "ASR": 790.929271182049
+            },
+            "Chronic_Kidney_Disease": {
+                "ASR": 48.780312105371
+            },
+            "Congenital_Abnormalities": {
+                "ASR": 102.957413910312
+            },
+            "Stroke": {
+                "ASR": 62.3035215004222
+            },
+            "Eye_Disorders": {
+                "ASR": 84.5413275878539
+            },
+            "Heart_Failure": {
+                "ASR": 127.31818482124
+            },
+            "COPD": {
+                "ASR": 42.4370592275655
+            },
+            "Skin_Disorders": {
+                "ASR": 67.8494182249253
+            },
+            "Ear_Disorders": {
+                "ASR": 326.368080007028
+            },
+            "Ischemic_Heart_Disease": {
+                "ASR": 151.470374338551
+            },
+            "Circulatory_System_Diseases": {
+                "ASR": 72.4988798310649
+            },
+            "COPD_Public_Hospital": {
+                "ASR": 34.7361995851182
+            }
+        }
+    },
+    "26610": {
+        "2017-2018": {
+            "Diabetes": {
+                "ASR": null
+            },
+            "Genitourinary_Diseases": {
+                "ASR": 521.932817083554
+            },
+            "Cancers": {
+                "ASR": 2592.92493800801
+            },
+            "Musculoskeletal_Disorders": {
+                "ASR": 2357.22023705201
+            },
+            "Mental_Health_Conditions": {
+                "ASR": 1084.61607836583
+            },
+            "Respiratory_Diseases": {
+                "ASR": 505.962361930048
+            },
+            "Infectious_Diseases": {
+                "ASR": 112.961915086351
+            },
+            "Nervous_System_Diseases": {
+                "ASR": 357.928963351835
+            },
+            "Digestive_System_Diseases": {
+                "ASR": 4777.58298455448
+            },
+            "Asthma": {
+                "ASR": null
+            },
+            "All_Cancers": {
+                "ASR": 96.0673257498864
+            },
+            "Mood_Affective_Disorders": {
+                "ASR": 74.1627992021486
+            },
+            "Endocrine_Disorders": {
+                "ASR": 971.925929797738
+            },
+            "Chronic_Kidney_Disease": {
+                "ASR": 57.5912745898018
+            },
+            "Congenital_Abnormalities": {
+                "ASR": 83.3012523061011
+            },
+            "Stroke": {
+                "ASR": null
+            },
+            "Eye_Disorders": {
+                "ASR": 71.0075331427562
+            },
+            "Heart_Failure": {
+                "ASR": null
+            },
+            "COPD": {
+                "ASR": null
+            },
+            "Skin_Disorders": {
+                "ASR": 89.2077559835361
+            },
+            "Ear_Disorders": {
+                "ASR": 233.495950363745
+            },
+            "Ischemic_Heart_Disease": {
+                "ASR": 235.964951522148
+            },
+            "Circulatory_System_Diseases": {
+                "ASR": 120.120347967528
+            },
+            "COPD_Public_Hospital": {
+                "ASR": 170.590748014592
+            }
+        }
+    },
+    "26670": {
+        "2017-2018": {
+            "Diabetes": {
+                "ASR": null
+            },
+            "Genitourinary_Diseases": {
+                "ASR": 119.473596504536
+            },
+            "Cancers": {
+                "ASR": 2718.30527878459
+            },
+            "Musculoskeletal_Disorders": {
+                "ASR": 2329.10190385823
+            },
+            "Mental_Health_Conditions": {
+                "ASR": 1074.87165516811
+            },
+            "Respiratory_Diseases": {
+                "ASR": 137.27847675202
+            },
+            "Infectious_Diseases": {
+                "ASR": null
+            },
+            "Nervous_System_Diseases": {
+                "ASR": 70.9116748126152
+            },
+            "Digestive_System_Diseases": {
+                "ASR": 4114.60147098695
+            },
+            "Asthma": {
+                "ASR": null
+            },
+            "All_Cancers": {
+                "ASR": 100.712641109177
+            },
+            "Mood_Affective_Disorders": {
+                "ASR": 72.0786408767123
+            },
+            "Endocrine_Disorders": {
+                "ASR": 1021.02159767771
+            },
+            "Chronic_Kidney_Disease": {
+                "ASR": null
+            },
+            "Congenital_Abnormalities": {
+                "ASR": null
+            },
+            "Stroke": {
+                "ASR": null
+            },
+            "Eye_Disorders": {
+                "ASR": 65.2690350866197
+            },
+            "Heart_Failure": {
+                "ASR": null
+            },
+            "COPD": {
+                "ASR": null
+            },
+            "Skin_Disorders": {
+                "ASR": 101.357682613375
+            },
+            "Ear_Disorders": {
+                "ASR": 229.93142263542
+            },
+            "Ischemic_Heart_Disease": {
+                "ASR": 58.9782736476258
+            },
+            "Circulatory_System_Diseases": {
+                "ASR": 102.955712101762
+            },
+            "COPD_Public_Hospital": {
+                "ASR": 119.052926598427
+            }
+        }
+    },
+    "26700": {
+        "2017-2018": {
+            "Diabetes": {
+                "ASR": null
+            },
+            "Genitourinary_Diseases": {
+                "ASR": 651.345284716139
+            },
+            "Cancers": {
+                "ASR": 2753.86264518142
+            },
+            "Musculoskeletal_Disorders": {
+                "ASR": 2494.82032435467
+            },
+            "Mental_Health_Conditions": {
+                "ASR": 945.040407474879
+            },
+            "Respiratory_Diseases": {
+                "ASR": 639.794312494379
+            },
+            "Infectious_Diseases": {
+                "ASR": 106.232948419263
+            },
+            "Nervous_System_Diseases": {
+                "ASR": 392.680229162989
+            },
+            "Digestive_System_Diseases": {
+                "ASR": 5158.59881860069
+            },
+            "Asthma": {
+                "ASR": null
+            },
+            "All_Cancers": {
+                "ASR": 102.030034085109
+            },
+            "Mood_Affective_Disorders": {
+                "ASR": 37.7951583123193
+            },
+            "Endocrine_Disorders": {
+                "ASR": 997.414459244373
+            },
+            "Chronic_Kidney_Disease": {
+                "ASR": 92.2591847048388
+            },
+            "Congenital_Abnormalities": {
+                "ASR": 107.418941346258
+            },
+            "Stroke": {
+                "ASR": null
+            },
+            "Eye_Disorders": {
+                "ASR": 58.3076662168596
+            },
+            "Heart_Failure": {
+                "ASR": 234.153963088435
+            },
+            "COPD": {
+                "ASR": 107.012138887871
+            },
+            "Skin_Disorders": {
+                "ASR": 110.731786482702
+            },
+            "Ear_Disorders": {
+                "ASR": 288.036413685534
+            },
+            "Ischemic_Heart_Disease": {
+                "ASR": 244.572215275534
+            },
+            "Circulatory_System_Diseases": {
+                "ASR": 103.408974862503
+            },
+            "COPD_Public_Hospital": {
+                "ASR": 86.8553833705181
+            }
+        }
+    },
+    "26730": {
+        "2017-2018": {
+            "Diabetes": {
+                "ASR": null
+            },
+            "Genitourinary_Diseases": {
+                "ASR": 710.259242613211
+            },
+            "Cancers": {
+                "ASR": 3238.80364341098
+            },
+            "Musculoskeletal_Disorders": {
+                "ASR": 2980.29077832068
+            },
+            "Mental_Health_Conditions": {
+                "ASR": 1071.4347132826
+            },
+            "Respiratory_Diseases": {
+                "ASR": 851.860910274896
+            },
+            "Infectious_Diseases": {
+                "ASR": 83.8878665908732
+            },
+            "Nervous_System_Diseases": {
+                "ASR": 644.857227268423
+            },
+            "Digestive_System_Diseases": {
+                "ASR": 4369.7265920404
+            },
+            "Asthma": {
+                "ASR": null
+            },
+            "All_Cancers": {
+                "ASR": 119.99699647708
+            },
+            "Mood_Affective_Disorders": {
+                "ASR": 53.7901480197905
+            },
+            "Endocrine_Disorders": {
+                "ASR": 1102.03127503233
+            },
+            "Chronic_Kidney_Disease": {
+                "ASR": null
+            },
+            "Congenital_Abnormalities": {
+                "ASR": 128.803631652674
+            },
+            "Stroke": {
+                "ASR": 101.888421078224
+            },
+            "Eye_Disorders": {
+                "ASR": 76.4228414378451
+            },
+            "Heart_Failure": {
+                "ASR": 245.094357130287
+            },
+            "COPD": {
+                "ASR": 103.93516848678
+            },
+            "Skin_Disorders": {
+                "ASR": 107.79163882871
+            },
+            "Ear_Disorders": {
+                "ASR": 385.403114766927
+            },
+            "Ischemic_Heart_Disease": {
+                "ASR": 278.008106933385
+            },
+            "Circulatory_System_Diseases": {
+                "ASR": 102.49793520933
+            },
+            "COPD_Public_Hospital": {
+                "ASR": 83.5492198096836
+            }
+        }
+    },
+    "26810": {
+        "2017-2018": {
+            "Diabetes": {
+                "ASR": 105.158108875193
+            },
+            "Genitourinary_Diseases": {
+                "ASR": 808.124119496574
+            },
+            "Cancers": {
+                "ASR": 2370.71874457628
+            },
+            "Musculoskeletal_Disorders": {
+                "ASR": 2502.93024139294
+            },
+            "Mental_Health_Conditions": {
+                "ASR": 1220.52114517272
+            },
+            "Respiratory_Diseases": {
+                "ASR": 864.030643808543
+            },
+            "Infectious_Diseases": {
+                "ASR": 105.518777316756
+            },
+            "Nervous_System_Diseases": {
+                "ASR": 643.593249331808
+            },
+            "Digestive_System_Diseases": {
+                "ASR": 4199.7506938701
+            },
+            "Asthma": {
+                "ASR": null
+            },
+            "All_Cancers": {
+                "ASR": 87.8346328341988
+            },
+            "Mood_Affective_Disorders": {
+                "ASR": 60.6696323266363
+            },
+            "Endocrine_Disorders": {
+                "ASR": 810.599500707717
+            },
+            "Chronic_Kidney_Disease": {
+                "ASR": 56.8207521550242
+            },
+            "Congenital_Abnormalities": {
+                "ASR": 109.107052425854
+            },
+            "Stroke": {
+                "ASR": 147.413522625129
+            },
+            "Eye_Disorders": {
+                "ASR": 89.4855246147863
+            },
+            "Heart_Failure": {
+                "ASR": 253.281030956542
+            },
+            "COPD": {
+                "ASR": null
+            },
+            "Skin_Disorders": {
+                "ASR": 102.851242250716
+            },
+            "Ear_Disorders": {
+                "ASR": 222.871936043187
+            },
+            "Ischemic_Heart_Disease": {
+                "ASR": 375.13621807788
+            },
+            "Circulatory_System_Diseases": {
+                "ASR": 108.637122928601
+            },
+            "COPD_Public_Hospital": {
+                "ASR": 116.869979610511
+            }
+        }
+    },
+    "26980": {
+        "2017-2018": {
+            "Diabetes": {
+                "ASR": 259.586433105582
+            },
+            "Genitourinary_Diseases": {
+                "ASR": 3275.44576532072
+            },
+            "Cancers": {
+                "ASR": 3184.42247601535
+            },
+            "Musculoskeletal_Disorders": {
+                "ASR": 2213.23145245085
+            },
+            "Mental_Health_Conditions": {
+                "ASR": 3003.95666536574
+            },
+            "Respiratory_Diseases": {
+                "ASR": 2741.28459875631
+            },
+            "Infectious_Diseases": {
+                "ASR": 94.2087340116141
+            },
+            "Nervous_System_Diseases": {
+                "ASR": 2936.03207558692
+            },
+            "Digestive_System_Diseases": {
+                "ASR": 4448.92601245903
+            },
+            "Asthma": {
+                "ASR": 220.709758745861
+            },
+            "All_Cancers": {
+                "ASR": 117.982185617624
+            },
+            "Mood_Affective_Disorders": {
+                "ASR": 278.445540577023
+            },
+            "Endocrine_Disorders": {
+                "ASR": 797.796341497634
+            },
+            "Chronic_Kidney_Disease": {
+                "ASR": 95.0287629366649
+            },
+            "Congenital_Abnormalities": {
+                "ASR": 90.7093445087413
+            },
+            "Stroke": {
+                "ASR": 379.300455361613
+            },
+            "Eye_Disorders": {
+                "ASR": 126.143564561441
+            },
+            "Heart_Failure": {
+                "ASR": 252.915513891226
+            },
+            "COPD": {
+                "ASR": 309.420303687535
+            },
+            "Skin_Disorders": {
+                "ASR": 83.0390478586287
+            },
+            "Ear_Disorders": {
+                "ASR": 248.174496631614
+            },
+            "Ischemic_Heart_Disease": {
+                "ASR": 777.07693155842
+            },
+            "Circulatory_System_Diseases": {
+                "ASR": 82.681517979225
+            },
+            "COPD_Public_Hospital": {
+                "ASR": 40.013228797181
+            }
+        }
+    },
+    "27070": {
+        "2017-2018": {
+            "Diabetes": {
+                "ASR": 683.374065554917
+            },
+            "Genitourinary_Diseases": {
+                "ASR": 4388.60695802185
+            },
+            "Cancers": {
+                "ASR": 2468.86824589484
+            },
+            "Musculoskeletal_Disorders": {
+                "ASR": 2490.34886647991
+            },
+            "Mental_Health_Conditions": {
+                "ASR": 985.11503383574
+            },
+            "Respiratory_Diseases": {
+                "ASR": 3884.98821161587
+            },
+            "Infectious_Diseases": {
+                "ASR": 106.314737035464
+            },
+            "Nervous_System_Diseases": {
+                "ASR": 3409.22426682001
+            },
+            "Digestive_System_Diseases": {
+                "ASR": 4736.01189351026
+            },
+            "Asthma": {
+                "ASR": 362.033064979873
+            },
+            "All_Cancers": {
+                "ASR": 91.4710512962782
+            },
+            "Mood_Affective_Disorders": {
+                "ASR": 63.3755996966653
+            },
+            "Endocrine_Disorders": {
+                "ASR": 975.71262911994
+            },
+            "Chronic_Kidney_Disease": {
+                "ASR": 138.921894856275
+            },
+            "Congenital_Abnormalities": {
+                "ASR": 95.3577691861321
+            },
+            "Stroke": {
+                "ASR": 362.021564117309
+            },
+            "Eye_Disorders": {
+                "ASR": 81.311685696333
+            },
+            "Heart_Failure": {
+                "ASR": 392.54859320434
+            },
+            "COPD": {
+                "ASR": 437.397067280046
+            },
+            "Skin_Disorders": {
+                "ASR": 97.7711243559544
+            },
+            "Ear_Disorders": {
+                "ASR": 255.918938773481
+            },
+            "Ischemic_Heart_Disease": {
+                "ASR": 996.071880391029
+            },
+            "Circulatory_System_Diseases": {
+                "ASR": 103.505997242166
+            },
+            "COPD_Public_Hospital": {
+                "ASR": 82.5090655594793
+            }
+        }
+    },
+    "27170": {
+        "2017-2018": {
+            "Diabetes": {
+                "ASR": 101.0
+            },
+            "Genitourinary_Diseases": {
+                "ASR": 828.0
+            },
+            "Cancers": {
+                "ASR": 3341.27197295935
+            },
+            "Musculoskeletal_Disorders": {
+                "ASR": 3254.65941014689
+            },
+            "Mental_Health_Conditions": {
+                "ASR": 1511.99932690335
+            },
+            "Respiratory_Diseases": {
+                "ASR": 834.0
+            },
+            "Infectious_Diseases": {
+                "ASR": 87.8761521178244
+            },
+            "Nervous_System_Diseases": {
+                "ASR": 661.0
+            },
+            "Digestive_System_Diseases": {
+                "ASR": 5253.94710192294
+            },
+            "Asthma": {
+                "ASR": null
+            },
+            "All_Cancers": {
+                "ASR": 123.793426620304
+            },
+            "Mood_Affective_Disorders": {
+                "ASR": 153.687401251404
+            },
+            "Endocrine_Disorders": {
+                "ASR": 1126.18728016377
+            },
+            "Chronic_Kidney_Disease": {
+                "ASR": null
+            },
+            "Congenital_Abnormalities": {
+                "ASR": 157.512095721843
+            },
+            "Stroke": {
+                "ASR": null
+            },
+            "Eye_Disorders": {
+                "ASR": 85.0783649899641
+            },
+            "Heart_Failure": {
+                "ASR": 348.325490666295
+            },
+            "COPD": {
+                "ASR": null
+            },
+            "Skin_Disorders": {
+                "ASR": 150.459160693428
+            },
+            "Ear_Disorders": {
+                "ASR": 261.614351927405
+            },
+            "Ischemic_Heart_Disease": {
+                "ASR": 334.0
+            },
+            "Circulatory_System_Diseases": {
+                "ASR": 127.499820297367
+            },
+            "COPD_Public_Hospital": {
+                "ASR": 151.876024216554
+            }
+        }
+    },
+    "27260": {
+        "2017-2018": {
+            "Diabetes": {
+                "ASR": 517.9048367
+            },
+            "Genitourinary_Diseases": {
+                "ASR": 4170.1647246
+            },
+            "Cancers": {
+                "ASR": 2360.91071748387
+            },
+            "Musculoskeletal_Disorders": {
+                "ASR": 2314.43738401891
+            },
+            "Mental_Health_Conditions": {
+                "ASR": 762.490050525494
+            },
+            "Respiratory_Diseases": {
+                "ASR": 3348.1203432
+            },
+            "Infectious_Diseases": {
+                "ASR": 89.76960692803
+            },
+            "Nervous_System_Diseases": {
+                "ASR": 3264.9512109
+            },
+            "Digestive_System_Diseases": {
+                "ASR": 4355.25628747058
+            },
+            "Asthma": {
+                "ASR": 461.9048367
+            },
+            "All_Cancers": {
+                "ASR": 87.4712474851518
+            },
+            "Mood_Affective_Disorders": {
+                "ASR": 57.4016827681932
+            },
+            "Endocrine_Disorders": {
+                "ASR": 877.169141682953
+            },
+            "Chronic_Kidney_Disease": {
+                "ASR": 101.090798770753
+            },
+            "Congenital_Abnormalities": {
+                "ASR": 77.2294756952973
+            },
+            "Stroke": {
+                "ASR": 349.5369845
+            },
+            "Eye_Disorders": {
+                "ASR": 71.3116329453946
+            },
+            "Heart_Failure": {
+                "ASR": 284.107323574352
+            },
+            "COPD": {
+                "ASR": 432.2726889
+            },
+            "Skin_Disorders": {
+                "ASR": 84.8978453341565
+            },
+            "Ear_Disorders": {
+                "ASR": 172.582716350539
+            },
+            "Ischemic_Heart_Disease": {
+                "ASR": 1078.1627318
+            },
+            "Circulatory_System_Diseases": {
+                "ASR": 100.899291760386
+            },
+            "COPD_Public_Hospital": {
+                "ASR": 113.074321722456
+            }
+        }
+    },
+    "27350": {
+        "2017-2018": {
+            "Diabetes": {
+                "ASR": 133.156082503299
+            },
+            "Genitourinary_Diseases": {
+                "ASR": 1615.39016926947
+            },
+            "Cancers": {
+                "ASR": 2544.94567410144
+            },
+            "Musculoskeletal_Disorders": {
+                "ASR": 1987.04177348753
+            },
+            "Mental_Health_Conditions": {
+                "ASR": 1532.90002981858
+            },
+            "Respiratory_Diseases": {
+                "ASR": 1207.57139686676
+            },
+            "Infectious_Diseases": {
+                "ASR": 95.0638112096491
+            },
+            "Nervous_System_Diseases": {
+                "ASR": 1139.96028164578
+            },
+            "Digestive_System_Diseases": {
+                "ASR": 4072.91035861475
+            },
+            "Asthma": {
+                "ASR": null
+            },
+            "All_Cancers": {
+                "ASR": 94.2897040735361
+            },
+            "Mood_Affective_Disorders": {
+                "ASR": 71.9541990573373
+            },
+            "Endocrine_Disorders": {
+                "ASR": 670.939825079932
+            },
+            "Chronic_Kidney_Disease": {
+                "ASR": 78.4625547682302
+            },
+            "Congenital_Abnormalities": {
+                "ASR": 89.429319864738
+            },
+            "Stroke": {
+                "ASR": 94.8875632998026
+            },
+            "Eye_Disorders": {
+                "ASR": 89.7003994186898
+            },
+            "Heart_Failure": {
+                "ASR": 205.999432822311
+            },
+            "COPD": {
+                "ASR": 141.388884779024
+            },
+            "Skin_Disorders": {
+                "ASR": 74.9863586894768
+            },
+            "Ear_Disorders": {
+                "ASR": 202.247224566916
+            },
+            "Ischemic_Heart_Disease": {
+                "ASR": 248.391527737468
+            },
+            "Circulatory_System_Diseases": {
+                "ASR": 72.1730170105804
+            },
+            "COPD_Public_Hospital": {
+                "ASR": 62.8260974287485
+            }
+        }
+    },
+    "27450": {
+        "2017-2018": {
+            "Diabetes": {
+                "ASR": 398.534952920676
+            },
+            "Genitourinary_Diseases": {
+                "ASR": 3801.5916352191
+            },
+            "Cancers": {
+                "ASR": 3007.11958476259
+            },
+            "Musculoskeletal_Disorders": {
+                "ASR": 2861.33381387976
+            },
+            "Mental_Health_Conditions": {
+                "ASR": 1807.03237428831
+            },
+            "Respiratory_Diseases": {
+                "ASR": 3131.29000587629
+            },
+            "Infectious_Diseases": {
+                "ASR": 107.887392355155
+            },
+            "Nervous_System_Diseases": {
+                "ASR": 3321.97773130672
+            },
+            "Digestive_System_Diseases": {
+                "ASR": 5090.71167229282
+            },
+            "Asthma": {
+                "ASR": 276.90862533545
+            },
+            "All_Cancers": {
+                "ASR": 111.413150640676
+            },
+            "Mood_Affective_Disorders": {
+                "ASR": 119.759580591671
+            },
+            "Endocrine_Disorders": {
+                "ASR": 988.833273478208
+            },
+            "Chronic_Kidney_Disease": {
+                "ASR": 80.7717251204784
+            },
+            "Congenital_Abnormalities": {
+                "ASR": 117.183126067607
+            },
+            "Stroke": {
+                "ASR": 332.179632841071
+            },
+            "Eye_Disorders": {
+                "ASR": 91.8923046441562
+            },
+            "Heart_Failure": {
+                "ASR": 244.691180411881
+            },
+            "COPD": {
+                "ASR": 401.547949737809
+            },
+            "Skin_Disorders": {
+                "ASR": 110.378628291266
+            },
+            "Ear_Disorders": {
+                "ASR": 302.725534854561
+            },
+            "Ischemic_Heart_Disease": {
+                "ASR": 900.743594931759
+            },
+            "Circulatory_System_Diseases": {
+                "ASR": 97.2680369068605
+            },
+            "COPD_Public_Hospital": {
+                "ASR": 71.2076022147641
+            }
+        }
+    },
+    "27630": {
+        "2017-2018": {
+            "Diabetes": {
+                "ASR": null
+            },
+            "Genitourinary_Diseases": {
+                "ASR": 153.187349076756
+            },
+            "Cancers": {
+                "ASR": 2865.75158518199
+            },
+            "Musculoskeletal_Disorders": {
+                "ASR": 2801.59504926968
+            },
+            "Mental_Health_Conditions": {
+                "ASR": null
+            },
+            "Respiratory_Diseases": {
+                "ASR": 223.87663388001
+            },
+            "Infectious_Diseases": {
+                "ASR": null
+            },
+            "Nervous_System_Diseases": {
+                "ASR": 119.579269590152
+            },
+            "Digestive_System_Diseases": {
+                "ASR": 3969.29201138763
+            },
+            "Asthma": {
+                "ASR": null
+            },
+            "All_Cancers": {
+                "ASR": 106.175495872022
+            },
+            "Mood_Affective_Disorders": {
+                "ASR": null
+            },
+            "Endocrine_Disorders": {
+                "ASR": 1419.05270121793
+            },
+            "Chronic_Kidney_Disease": {
+                "ASR": null
+            },
+            "Congenital_Abnormalities": {
+                "ASR": null
+            },
+            "Stroke": {
+                "ASR": null
+            },
+            "Eye_Disorders": {
+                "ASR": 142.632336269302
+            },
+            "Heart_Failure": {
+                "ASR": null
+            },
+            "COPD": {
+                "ASR": null
+            },
+            "Skin_Disorders": {
+                "ASR": 115.836768536155
+            },
+            "Ear_Disorders": {
+                "ASR": null
+            },
+            "Ischemic_Heart_Disease": {
+                "ASR": 72.5916059130377
+            },
+            "Circulatory_System_Diseases": {
+                "ASR": 110.233757106205
+            },
+            "COPD_Public_Hospital": {
+                "ASR": 154.139242866702
+            }
+        }
+    },
+    "29399": {
+        "2017-2018": {
+            "Diabetes": {
+                "ASR": null
+            },
+            "Genitourinary_Diseases": {
+                "ASR": null
+            },
+            "Cancers": {
+                "ASR": 3949.29116985192
+            },
+            "Musculoskeletal_Disorders": {
+                "ASR": 3222.74857944973
+            },
+            "Mental_Health_Conditions": {
+                "ASR": 819.1609940713
+            },
+            "Respiratory_Diseases": {
+                "ASR": null
+            },
+            "Infectious_Diseases": {
+                "ASR": 97.5215059617021
+            },
+            "Nervous_System_Diseases": {
+                "ASR": null
+            },
+            "Digestive_System_Diseases": {
+                "ASR": 4125.69903383242
+            },
+            "Asthma": {
+                "ASR": null
+            },
+            "All_Cancers": {
+                "ASR": 146.320410488544
+            },
+            "Mood_Affective_Disorders": {
+                "ASR": null
+            },
+            "Endocrine_Disorders": {
+                "ASR": null
+            },
+            "Chronic_Kidney_Disease": {
+                "ASR": null
+            },
+            "Congenital_Abnormalities": {
+                "ASR": null
+            },
+            "Stroke": {
+                "ASR": null
+            },
+            "Eye_Disorders": {
+                "ASR": 108.112219738177
+            },
+            "Heart_Failure": {
+                "ASR": null
+            },
+            "COPD": {
+                "ASR": null
+            },
+            "Skin_Disorders": {
+                "ASR": 102.516741895906
+            },
+            "Ear_Disorders": {
+                "ASR": null
+            },
+            "Ischemic_Heart_Disease": {
+                "ASR": 6.22789589620855
+            },
+            "Circulatory_System_Diseases": {
+                "ASR": 147.737351763317
+            },
+            "COPD_Public_Hospital": {
+                "ASR": null
+            },
+            "bbox": [
+                0.0,
+                0.0,
+                -1.0,
+                -1.0
+            ]
+        }
+    }
+}

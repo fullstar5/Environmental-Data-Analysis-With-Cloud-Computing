@@ -2,7 +2,7 @@ import urllib3.exceptions
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 import requests
-from elasticsearch8 import Elasticsearch
+from elasticsearch import Elasticsearch
 
 
 def main():
@@ -72,15 +72,18 @@ def main():
             "weather": weather,
             "wind_spd_kmh": wind_spd_kmh,
         }
-        local_date = data["observations"]["data"][0]["local_date_time_full"][:9]
+        local_date = data["observations"]["data"][0]["local_date_time_full"][:8]
         index_name = f"bom-weather-{local_date}"
         unique_id = f"{site_name}-{local_date_time}"
-        try:
-            client.index(index=index_name, id=unique_id, body=doc)
-        except Exception as e:
-            print("Error inserting into Elasticsearch: ", e)
-            return 500
+        # try:
+        #     client.index(index=index_name, id=unique_id, body=doc)
+        # except Exception as e:
+        #     print("Error inserting into Elasticsearch: ", e)
+        #     return 500
 
         print(unique_id, index_name)
     print("insert complete")
     return 200
+
+
+main()
