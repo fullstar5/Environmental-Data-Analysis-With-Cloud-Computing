@@ -35,8 +35,8 @@ def main():
         print("Error when connect with ES: ", e)
         return 500
     
-    start = request.args.get('start',1)
-    end = request.args.get('end',start)
+    start = request.args.get('start',1,type=int)
+    end = request.args.get('end',start,type=int)
     avg = request.args.get('avg',None)
     time = request.args.get('time',None)
     health_advice = request.args.get('health_advice',None)

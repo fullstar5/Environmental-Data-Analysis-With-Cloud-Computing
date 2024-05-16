@@ -42,8 +42,8 @@ def main():
         print("Error when connect with ES: ", e)
         return 500
     
-    start = request.args.get('start',3)
-    end = request.args.get('end',start)
+    start = request.args.get('start',3,type=int)
+    end = request.args.get('end',start,type=int)
     air_temp = request.args.get('air_temp',None)
     apparent_temp = request.args.get('appartent_temp',None)
     cloud = request.args.get('cloud',None)
