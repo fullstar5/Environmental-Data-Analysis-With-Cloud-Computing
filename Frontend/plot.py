@@ -3,52 +3,63 @@ from get_data import twitter, epa, bom, health
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
+import numpy as np
+import pandas as pd
+import requests
 
-def plot_data(es, start, end, city, size):
-    # Fetch data
-    epa_data = epa(es, start=start, end=end, city=city, size=size)
-    health_data = health(es, lga=city, size=size)
+def plot_data(start, end, city=None, disease=None, size=2000):
 
-    # Convert to DataFrame
+    epa_url = 'http://127.0.0.1:9090/epa'
+    health_url = 'http://127.0.0.1:9090/health'
+
+    params = {
+        'start': start,
+        'end': end,
+        'size': size,
+    }
+
+    if city:
+        params['city'] = city
+    if disease:
+        params['disease'] = disease
+
+    epa = requests.get(epa_url, params=params)
+    epa_data = epa.json()
+
+    health = requests.get(health_url, params=params)
+    health_data = health.json()
+
+    # epa_data = epa(es, start=start, end=end, city=city, size=size)
+    # health_data = health(es, lga=city, size=size)
+
     data_health = [item['_source'] for item in health_data]
     health_df = pd.DataFrame(data_health)
     
     data_epa = [item['_source'] for item in epa_data]
     epa_df = pd.DataFrame(data_epa)
 
-    # Visualization: PM2.5 vs ASR
     pm25_data = epa_df[epa_df['healthParameter'] == 'PM2.5']
-    pm25_data_aligned = pm25_data.head(len(health_df))  # Align data lengths for demonstration
+
+
+    pm25_data = pm25_data[pm25_data['averageValue'] <= 13]
+
+    breath_data = health_df[health_df['Disease'] == disease]
+
+    # Find the minimum length between the two datasets
+    min_length = min(len(pm25_data), len(breath_data))
+
+    # Align data lengths for plotting
+    pm25_data_aligned = pm25_data.head(min_length)
+    breath_data_aligned = breath_data.head(min_length)
 
     plt.figure(figsize=(10, 6))
-    plt.scatter(pm25_data_aligned['averageValue'], health_df['ASR'][:len(pm25_data_aligned)], alpha=0.5)
+    plt.scatter(pm25_data_aligned['averageValue'], breath_data_aligned['ASR'], alpha=0.5)
     plt.title('Relationship between PM2.5 Levels and ASR in ' + city)
     plt.xlabel('PM2.5 Level')
     plt.ylabel('ASR')
     plt.grid(True)
     plt.show()
 
-# def merge_bom_epa(bom_df, epa_df):
-#     """
-#     Prepares and merges BOM and EPA dataframes based on the hour of the day.
-
-#     Parameters:
-#     - bom_df: DataFrame containing BOM data with a 'local_date_time' column.
-#     - epa_df: DataFrame containing EPA data with an 'hour' column.
-
-#     Returns:
-#     - Merged DataFrame on hourly precision.
-#     """
-#     # Convert 'local_date_time' from BOM to datetime and extract the hour for merging
-#     bom_df['hour'] = pd.to_datetime(bom_df['local_date_time'], format='%Y%m%d%H%M%S').dt.hour
-
-#     # Convert 'hour' in EPA to datetime, and extract the hour
-#     epa_df['hour'] = pd.to_datetime(epa_df['hour'], format='%H:%M:%S').dt.hour
-
-#     # Merge on the 'hour' column
-#     merged_df = pd.merge(bom_df, epa_df, on='hour', suffixes=('_bom', '_epa'))
-    
-#     return merged_df
 
 def merge_bom_epa(bom_df, epa_df):
     """
@@ -134,7 +145,7 @@ def plot_air_quality_and_sentiment(epa_df, twitter_df, city):
     fig, ax1 = plt.subplots(figsize=(12, 6))
 
     # Plot average air quality index on the first y-axis
-    sns.lineplot(data=avg_values_per_date, x='date', y='averageValue', ax=ax1, color='blue', label='Average Air Quality Index')
+    sns.lineplot(data=avg_values_per_date, x='date', y='averageValue', ax=ax1, color='blue', label='Average Air Pollution Index')
     ax1.set_ylabel('Air Quality Index', color='blue')
     ax1.tick_params(axis='y', labelcolor='blue')
 
@@ -145,7 +156,7 @@ def plot_air_quality_and_sentiment(epa_df, twitter_df, city):
     ax2.tick_params(axis='y', labelcolor='red')
 
     # Add title and labels
-    plt.title('Average Air Quality Index and Average Sentiment per Date in '+ city)
+    plt.title('Average Air Pollution Index and Average Sentiment per Date in '+ city)
     ax1.set_xlabel('Date')
 
     # Combine legends and place them outside the plot
@@ -158,4 +169,58 @@ def plot_air_quality_and_sentiment(epa_df, twitter_df, city):
 
     # Show the plot
     plt.show()
+
+def bom_health(es, start, end, size=2000, city=None, disease=None):
+    """
+    Prepares and merges BOM and health dataframes based on the order of records.
+    Calculates daily average temperature and plots a bar chart comparing disease ASR under different temperature conditions.
+    
+    Parameters:
+    - bom_df: DataFrame containing BOM data with a 'local_date_time' column.
+    - health_df: DataFrame containing health data without date column.
+    
+    Returns:
+    - Merged DataFrame on the order of records.
+    """
+
+    bom_data = bom(es, start=start, end=end, size=size)
+    health_data = health(es, lga=city, size=size)
+
+    data_health = [item['_source'] for item in health_data]
+
+    health_df = pd.DataFrame(data_health)
+    health_df = health_df[health_df['Disease'] == disease]
+    
+    data_bom = [item['_source'] for item in bom_data]
+    bom_df = pd.DataFrame(data_bom)
+
+    # Convert 'local_date_time' in BOM to datetime format
+    bom_df['local_date_time'] = pd.to_datetime(bom_df['local_date_time'], format='%Y%m%d%H%M%S')
+    bom_df['date'] = bom_df['local_date_time'].dt.date
+
+    # Calculate daily average temperature
+    daily_avg_temp = bom_df.groupby('date')['apparent_temperature'].mean().reset_index()
+    daily_avg_temp.columns = ['date', 'avg_temperature']
+    
+    # Determine the minimum length to merge on
+    min_length = min(len(daily_avg_temp), len(health_df))
+    
+    # Truncate both dataframes to the minimum length
+    daily_avg_temp = daily_avg_temp.iloc[:min_length]
+    health_df = health_df.iloc[:min_length]
+    
+    # Add date and avg_temperature information to health data
+    health_df['date'] = daily_avg_temp['date'].values
+    health_df['avg_temperature'] = daily_avg_temp['avg_temperature'].values
+    
+    # Plot a bar chart comparing disease ASR under different temperature conditions
+    plt.figure(figsize=(14, 8))
+    bars = plt.bar(health_df['avg_temperature'], health_df['ASR'], color='skyblue', edgecolor='black', width=0.08)
+    plt.xlabel('Average Daily Temperature (°C)', fontsize=12)
+    plt.ylabel('Disease ASR', fontsize=12)
+    plt.title('Comparison of Disease ASR under Different Temperature Conditions', fontsize=14)
+    plt.xticks(fontsize=10)
+    plt.yticks(fontsize=10)
+
+
 
