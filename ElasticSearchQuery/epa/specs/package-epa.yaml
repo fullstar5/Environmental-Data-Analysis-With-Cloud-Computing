@@ -1,0 +1,27 @@
+include:
+- ./epa.py
+- ./requirements.txt
+- ./build.sh
+kind: ArchiveUploadSpec
+name: epa-py-uWY8
+
+---
+apiVersion: fission.io/v1
+kind: Package
+metadata:
+  creationTimestamp: null
+  name: epa
+spec:
+  buildcmd: ./build.sh
+  deployment:
+    checksum: {}
+  environment:
+    name: python
+    namespace: ""
+  source:
+    checksum: {}
+    type: url
+    url: archive://epa-py-uWY8
+status:
+  buildstatus: pending
+  lastUpdateTimestamp: "2024-05-16T02:50:19Z"
