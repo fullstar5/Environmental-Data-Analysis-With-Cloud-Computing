@@ -33,7 +33,7 @@ def epa(start=3, end=10, avg=None, time=None, health_advice=None, city=None, hea
 
     epa = requests.get(epa_url, params=params)
     epa_data = epa.json()
-    data_epa = [item['_source'] for item in epa_data]
+    data_epa = [{**item['_source'], 'date': item['_index']} for item in epa_data]
     
     return data_epa
 
@@ -87,3 +87,27 @@ def health(asr=None, disease=None, lga=None, num=None, period=None, phn=None, sr
     data_health = [item['_source'] for item in health_data]
     
     return data_health
+
+def fetch_big_data(total_size, batch_size=10000, source='twitter', **kwargs):
+    all_data = []
+    fetch_function = {
+        'twitter': twitter,
+        'bom': bom,
+        'epa': epa,
+        'health': health,
+    }.get(source)
+    
+    if not fetch_function:
+        raise ValueError(f"Invalid source: {source}")
+    
+    for _ in range(0, total_size, batch_size):
+        data = fetch_function(size=batch_size, **kwargs)
+        all_data.extend(data)
+        print(f"Fetched {len(data)} entries, total so far: {len(all_data)}")
+    return all_data
+
+# Example usage:
+# fetch_big_data(50000, batch_size=10000, source='twitter')
+# fetch_big_data(50000, batch_size=10000, source='bom', start=3)
+# fetch_big_data(50000, batch_size=10000, source='epa', city='Melbourne')
+# fetch_big_data(50000, batch_size=10000, source='health', disease='COPD')
