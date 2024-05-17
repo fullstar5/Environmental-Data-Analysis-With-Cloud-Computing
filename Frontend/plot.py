@@ -1,42 +1,26 @@
 # from elasticsearch import Elasticsearch
-from get_data import twitter, epa, bom, health
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 import numpy as np
 import pandas as pd
 import requests
+import json
+from match_url import epa, twitter, bom, health
+import ipywidgets as widgets
+from IPython.display import display, clear_output
 
 def plot_data(start, end, city=None, disease=None, size=2000):
 
-    epa_url = 'http://127.0.0.1:9090/epa'
-    health_url = 'http://127.0.0.1:9090/health'
 
-    params = {
-        'start': start,
-        'end': end,
-        'size': size,
-    }
+    data_epa = epa(start=start, end=end, city=city)
+    data_health = health(disease=disease, phn=city)
 
-    if city:
-        params['city'] = city
-    if disease:
-        params['disease'] = disease
-
-    epa = requests.get(epa_url, params=params)
-    epa_data = epa.json()
-
-    health = requests.get(health_url, params=params)
-    health_data = health.json()
-
-    # epa_data = epa(es, start=start, end=end, city=city, size=size)
-    # health_data = health(es, lga=city, size=size)
-
-    data_health = [item['_source'] for item in health_data]
     health_df = pd.DataFrame(data_health)
     
-    data_epa = [item['_source'] for item in epa_data]
     epa_df = pd.DataFrame(data_epa)
+
+
 
     pm25_data = epa_df[epa_df['healthParameter'] == 'PM2.5']
 
@@ -54,12 +38,46 @@ def plot_data(start, end, city=None, disease=None, size=2000):
 
     plt.figure(figsize=(10, 6))
     plt.scatter(pm25_data_aligned['averageValue'], breath_data_aligned['ASR'], alpha=0.5)
-    plt.title('Relationship between PM2.5 Levels and ASR in ' + city)
+    if city:
+        plt.title('Relationship between PM2.5 Levels and ASR in ' + city)
+    else:
+        plt.title('Relationship between PM2.5 Levels and ASR')
     plt.xlabel('PM2.5 Level')
     plt.ylabel('ASR')
     plt.grid(True)
     plt.show()
 
+def plot_widget(start, end, city=None, disease=None, size=2000, epa_show=None, bom_show=None):
+    city_textbox = widgets.Text(
+        value=city if city is not None else '',
+        description='City:',
+        disabled=False
+    )
+
+    disease_textbox = widgets.Text(
+        value=disease if disease is not None else 'COPD',
+        description='Disease:',
+        disabled=False
+    )
+
+    button = widgets.Button(description="Update Plot")
+
+    def on_button_clicked(b):
+        nonlocal city, disease
+        city = city_textbox.value
+        disease = disease_textbox.value
+        clear_output(wait=True)
+        display(city_textbox, disease_textbox, button)
+        if epa_show == 1:
+            plot_data(start=start, end=end, city=city, disease=disease, size=size)
+        elif bom_show == 1:
+            bom_health(start=start, end=end, size=size, city=city, disease=disease)
+
+
+    button.on_click(on_button_clicked)
+
+    display(city_textbox, disease_textbox, button)
+    
 
 def merge_bom_epa(bom_df, epa_df):
     """
@@ -146,7 +164,7 @@ def plot_air_quality_and_sentiment(epa_df, twitter_df, city):
 
     # Plot average air quality index on the first y-axis
     sns.lineplot(data=avg_values_per_date, x='date', y='averageValue', ax=ax1, color='blue', label='Average Air Pollution Index')
-    ax1.set_ylabel('Air Quality Index', color='blue')
+    ax1.set_ylabel('Air Pollution Index', color='blue')
     ax1.tick_params(axis='y', labelcolor='blue')
 
     # Create a second y-axis to plot the average sentiment scores
@@ -156,7 +174,7 @@ def plot_air_quality_and_sentiment(epa_df, twitter_df, city):
     ax2.tick_params(axis='y', labelcolor='red')
 
     # Add title and labels
-    plt.title('Average Air Pollution Index and Average Sentiment per Date in '+ city)
+    plt.title('Average Air Pollution Index (pm 2.5) and Average Sentiment per Date in '+ city)
     ax1.set_xlabel('Date')
 
     # Combine legends and place them outside the plot
@@ -170,7 +188,7 @@ def plot_air_quality_and_sentiment(epa_df, twitter_df, city):
     # Show the plot
     plt.show()
 
-def bom_health(es, start, end, size=2000, city=None, disease=None):
+def bom_health(start, end, size=2000, city=None, disease=None):
     """
     Prepares and merges BOM and health dataframes based on the order of records.
     Calculates daily average temperature and plots a bar chart comparing disease ASR under different temperature conditions.
@@ -183,15 +201,12 @@ def bom_health(es, start, end, size=2000, city=None, disease=None):
     - Merged DataFrame on the order of records.
     """
 
-    bom_data = bom(es, start=start, end=end, size=size)
-    health_data = health(es, lga=city, size=size)
-
-    data_health = [item['_source'] for item in health_data]
+    data_bom = bom(start=start, end=end, size=size)
+    data_health = health(lga=city, size=size)
 
     health_df = pd.DataFrame(data_health)
     health_df = health_df[health_df['Disease'] == disease]
     
-    data_bom = [item['_source'] for item in bom_data]
     bom_df = pd.DataFrame(data_bom)
 
     # Convert 'local_date_time' in BOM to datetime format
@@ -222,5 +237,141 @@ def bom_health(es, start, end, size=2000, city=None, disease=None):
     plt.xticks(fontsize=10)
     plt.yticks(fontsize=10)
 
+def bom_merge_data(bom_df, health_df):
+    """
+    Processes the BOM and health dataframes and merges them on the date index.
 
+    Parameters:
+    - bom_df: DataFrame containing BOM data with columns 'local_date_time' and 'apparent_temperature'.
+    - health_df: DataFrame containing health data with columns including 'Disease'.
+    - disease: The specific disease to filter the health_df by.
+
+    Returns:
+    - merged_df: Merged DataFrame with daily average temperature and health data for the specified disease.
+    """
+    # Convert local_date_time to datetime and extract the date
+    bom_df['local_date_time'] = pd.to_datetime(bom_df['local_date_time'], format='%Y%m%d%H%M%S')
+    bom_df['date'] = bom_df['local_date_time'].dt.date
+
+    # Calculate daily average temperature
+    daily_avg_temp = bom_df.groupby('date')['apparent_temperature'].mean().reset_index()
+    daily_avg_temp.columns = ['date', 'avg_temperature']
+
+    # Determine the minimum length to merge on
+    min_length = min(len(daily_avg_temp), len(health_df))
+
+    # Truncate both dataframes to the minimum length
+    daily_avg_temp = daily_avg_temp.iloc[:min_length]
+    health_df = health_df.iloc[:min_length]
+
+    # Merge dataframes
+    merged_df = pd.merge(daily_avg_temp, health_df, left_index=True, right_index=True)
+
+    return merged_df
+
+def bom_heatmap(merged_df):
+    """
+    Creates and plots a heatmap of ASR and temperature for the given merged DataFrame.
+
+    Parameters:
+    - merged_df: DataFrame containing columns 'date', 'avg_temperature', and 'ASR'.
+
+    Returns:
+    - None
+    """
+    # Create a new DataFrame for the heatmap
+    heatmap_df = merged_df[['date', 'avg_temperature', 'ASR']].copy()
+    heatmap_df['day'] = heatmap_df['date'].apply(lambda x: x.day)
+
+    # Create pivot tables
+    pivot_table_asr = heatmap_df.pivot_table(index='day', values='ASR', aggfunc='mean')
+    pivot_table_temp = heatmap_df.pivot_table(index='day', values='avg_temperature', aggfunc='mean')
+
+    # Plot heatmap
+    fig, ax = plt.subplots(figsize=(14, 8))
+
+    # Plot ASR heatmap
+    sns.heatmap(pivot_table_asr, cmap="YlOrRd", annot=False, cbar_kws={'label': 'ASR'}, ax=ax)
+
+    # Plot temperature heatmap on the same plot
+    sns.heatmap(pivot_table_temp, cmap="coolwarm", annot=False, cbar_kws={'label': 'Temperature (°C)'}, alpha=0.6, ax=ax)
+
+    # Add ASR and temperature annotations
+    for i in range(len(pivot_table_asr)):
+        for j in range(len(pivot_table_asr.columns)):
+            asr_value = pivot_table_asr.iloc[i, j]
+            temp_value = pivot_table_temp.iloc[i, j]
+            ax.text(j + 0.5, i + 0.5, f"{asr_value:.1f}", color='black', ha='center', va='center', fontsize=10)
+            ax.text(j + 0.5, i + 0.7, f"{temp_value:.1f}", color='blue', ha='center', va='center', fontsize=8, alpha=0.7)
+
+    # Set axis labels and title
+    ax.set_title('Calendar Heatmap of ASR and Temperature in May')
+    ax.set_xlabel('May')
+    ax.set_ylabel('Day')
+
+    plt.show()
+
+def twitter_plot(option, twitter_df, city='Melbourne'):
+
+    with open('language_to_country.json', 'r') as file:
+        language_to_country = json.load(file)
+    
+    if option == 1:
+
+        city_sentiment = twitter_df.groupby('full_name')['sentiment'].mean().reset_index()
+        
+        plt.figure(figsize=(18, 8))
+        sns.barplot(x='full_name', y='sentiment', data=city_sentiment)
+        plt.title('Average Sentiment by City')
+        plt.xlabel('City')
+        plt.ylabel('Average Sentiment')
+        plt.xticks(rotation=45, ha='right')
+        plt.show()
+        
+    elif option == 2:
+
+        language_sentiment = twitter_df.groupby('language')['sentiment'].mean().reset_index()
+        
+        language_sentiment['country'] = language_sentiment['language'].map(language_to_country) + ' (' + language_sentiment['language'] + ')'
+        
+        plt.figure(figsize=(18, 8))
+        sns.barplot(x='country', y='sentiment', data=language_sentiment)
+        plt.title('Average Sentiment by Language/Country')
+        plt.xlabel('Country')
+        plt.ylabel('Average Sentiment')
+        plt.xticks(rotation=45, ha='right')
+        plt.show()
+    elif option == 3:
+ 
+        city_data = twitter_df[(twitter_df['full_name'] == city) & (twitter_df['language'] != 'en')]
+    
+        language_distribution = city_data['language'].value_counts(normalize=True) * 100
+    
+        top_10_languages = language_distribution.nlargest(10)
+    
+        other_percentage = language_distribution[~language_distribution.index.isin(top_10_languages.index)].sum()
+    
+        language_distribution = pd.concat([top_10_languages, pd.Series({'Other': other_percentage})])
+    
+        plt.figure(figsize=(10, 6))
+        colors = plt.get_cmap('tab20').colors 
+        language_distribution.plot.pie(autopct='%1.1f%%', startangle=140, colors=colors, legend=False)
+        plt.title(f'Top 10 Language Distribution in {city} (excluding English)')
+        plt.ylabel('')
+        plt.show()
+    elif option == 4:
+
+        if 'full_name' not in twitter_df.columns or 'language' not in twitter_df.columns:
+            raise ValueError("DataFrame 必须包含 'full_name' 和 'language' 列")
+    
+
+        twitter_df = twitter_df[twitter_df['language'] != 'en']
+    
+        most_frequent_languages = twitter_df.groupby('full_name')['language'].agg(lambda x: x.value_counts().idxmax()).reset_index()
+    
+        most_frequent_languages.columns = ['city', ' most frequent language (exclude en)']
+    
+        return most_frequent_languages
+    else:
+        print("Invalid option.")
 
