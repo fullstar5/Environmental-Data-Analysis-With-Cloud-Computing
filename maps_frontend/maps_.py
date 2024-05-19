@@ -1,5 +1,4 @@
 import folium
-import requests
 #add legends to the map
 def add_legend(map_obj, legend_html):
     legend = folium.Element(legend_html)
