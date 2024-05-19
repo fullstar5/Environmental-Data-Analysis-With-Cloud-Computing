@@ -317,15 +317,15 @@ def twitter_plot(option, twitter_df, city='Melbourne'):
         language_to_country = json.load(file)
     
     if option == 1:
-
         city_sentiment = twitter_df.groupby('full_name')['sentiment'].mean().reset_index()
-        
-        plt.figure(figsize=(18, 8))
+
+        plt.figure(figsize=(20, 10))
         sns.barplot(x='full_name', y='sentiment', data=city_sentiment)
         plt.title('Average Sentiment by City')
         plt.xlabel('City')
         plt.ylabel('Average Sentiment')
-        plt.xticks(rotation=45, ha='right')
+        plt.xticks(rotation=90, ha='center', fontsize=8)
+        plt.tight_layout()
         plt.show()
         
     elif option == 2:
