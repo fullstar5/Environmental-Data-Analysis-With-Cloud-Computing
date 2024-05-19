@@ -18,7 +18,7 @@ This project combines technologies such as the Melbourne Research Cloud, Kuberne
 * Hanzhang SUN (1379790)
 * Liyang CHEN (1135879)
 * Yueyang WU (1345511)
-* 
+* Yibo HUANG ()
 
 ## Structure
 
@@ -41,6 +41,8 @@ This project combines technologies such as the Melbourne Research Cloud, Kuberne
 │   ├── Elasticsearch.md
 │   └── diagram
 └── frontend
+    ├── final.ipnby
+    └── ...
 
 ```
 ## Installation Instructions
@@ -80,5 +82,5 @@ kubectl port-forward service/router -n fission 9090:80
     ```bash
     jupyter notebook
     ```
-5. Open and run the notebooks in the `frontend/` directory to interact with the data and visualize the results.
+5. Open and run `frontend/final.ipynb` to interact with the data and visualize the results.
 
