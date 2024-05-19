@@ -1,4 +1,5 @@
 import folium
+import requests
 #add legends to the map
 def add_legend(map_obj, legend_html):
     legend = folium.Element(legend_html)
@@ -29,7 +30,23 @@ def create_choropleth(merged_gdf, disease, geoJSON, genre, color):
         folium.Marker(location=[entry['lat'], entry['lon']], popup=popup_text).add_to(map)
 
     folium.LayerControl().add_to(map)
-
-    m.save(f'{disease}_choropleth_map.html')
+ 
     return map
+
+def avg_avg_values(data):
+    # Create a dictionary to store sum and count of values for each coordinate
+
+    coord_values = {}
+
+    # Iterate over data to calculate sum and count of values for each coordinate
+    for lat, lon, val in data:
+        if (lat, lon) not in coord_values:
+            coord_values[(lat, lon)] = [val, 1]
+        else:
+            coord_values[(lat, lon)][0] += val
+            coord_values[(lat, lon)][1] += 1
+
+    # Calculate average value for each coordinate
+    average_data = [[lat, lon, val_sum / val_count] for (lat, lon), (val_sum, val_count) in coord_values.items()]
+    return (average_data)
 
