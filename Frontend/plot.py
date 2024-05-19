@@ -341,6 +341,7 @@ def twitter_plot(option, twitter_df, city='Melbourne'):
         plt.ylabel('Average Sentiment')
         plt.xticks(rotation=45, ha='right')
         plt.show()
+
     elif option == 3:
  
         city_data = twitter_df[(twitter_df['full_name'] == city) & (twitter_df['language'] != 'en')]
@@ -359,11 +360,8 @@ def twitter_plot(option, twitter_df, city='Melbourne'):
         plt.title(f'Top 10 Language Distribution in {city} (excluding English)')
         plt.ylabel('')
         plt.show()
-    elif option == 4:
 
-        if 'full_name' not in twitter_df.columns or 'language' not in twitter_df.columns:
-            raise ValueError("DataFrame 必须包含 'full_name' 和 'language' 列")
-    
+    elif option == 4:
 
         twitter_df = twitter_df[twitter_df['language'] != 'en']
     
