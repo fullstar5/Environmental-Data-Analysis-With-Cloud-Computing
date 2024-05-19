@@ -10,7 +10,7 @@ This project combines technologies such as the Melbourne Research Cloud, Kuberne
 
 * [Demo]()
 * [Report]()
-* [Wiki]([Home · fullstar5/CCC-Project-2-Group-48 Wiki (github.com)](https://github.com/fullstar5/CCC-Project-2-Group-48/wiki))
+* [Wiki](https://github.com/fullstar5/CCC-Project-2-Group-48/wiki)
 
 ## Team members
 
