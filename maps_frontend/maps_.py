@@ -1,4 +1,6 @@
 import folium
+import matplotlib.pyplot as plt
+import numpy as np
 #add legends to the map
 def add_legend(map_obj, legend_html):
     legend = folium.Element(legend_html)
@@ -49,3 +51,44 @@ def avg_avg_values(data):
     average_data = [[lat, lon, val_sum / val_count] for (lat, lon), (val_sum, val_count) in coord_values.items()]
     return (average_data)
 
+
+
+
+def visualize(data):
+    city_to_senti_count = {}
+    for i in range(len(data)):
+        city = data[i]['full_name']
+        sentiments = data[i]['sentiment']
+        if city in city_to_senti_count:
+            city_to_senti_count[city]["total_sentiment"] += sentiments
+            city_to_senti_count[city]["count"] += 1
+        else:
+            city_to_senti_count[city] = {"total_sentiment": sentiments, "count": 1}
+    
+    city_to_avg_sentiment = {}
+    for name, values in city_to_senti_count.items():
+        avg_sentiment = values["total_sentiment"] / values["count"]
+        city_to_avg_sentiment[name] = avg_sentiment
+    senti_ments = list(city_to_avg_sentiment.values())
+
+    # Calculate summary statistics
+    mean_value = np.mean(senti_ments)
+    median_value = np.median(senti_ments)
+    plt.figure(figsize=(8, 6))
+
+    # Create histogram
+    plt.hist(senti_ments, bins=10, color='skyblue', edgecolor='black', alpha=0.7)
+
+    # Add mean and median lines
+    plt.axvline(mean_value, color='red', linestyle='dashed', linewidth=1, label='Mean')
+    plt.axvline(median_value, color='green', linestyle='dashed', linewidth=1, label='Median')
+
+    # Add legend and labels
+    plt.legend()
+    plt.xlabel('Value')
+    plt.ylabel('Frequency')
+    plt.title('Histogram of Sentiment Data')
+
+    # Show plot
+    plt.show()
+    return max(senti_ments), min(senti_ments)
