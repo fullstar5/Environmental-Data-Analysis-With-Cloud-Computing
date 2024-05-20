@@ -15,6 +15,5 @@ for entry in data:
 with open('/mnt/d/ccc_data/vic_data_v2_2.json', 'w') as file:
     for item in new_data:
         json.dump(item, file)
-        file.write('\n')  # Add a newline to separate each JSON object
-
+        file.write('\n')  
 
