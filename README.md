@@ -34,16 +34,20 @@ This project combines technologies such as the Melbourne Research Cloud, Kuberne
 │       └── epaharvester
 ├── data
 │   ├── raw
-│   └── sorted
-├── data_process
+│   ├── sorted
+│   ├── data_process
+│   └── ...
 ├── docs
 │   ├── API.md
 │   ├── Elasticsearch.md
 │   └── diagram
 └── frontend
-    ├── final.ipnby
-    └── ...
-
+    ├── Chart
+    │   ├── chart.ipynb
+    │   └── ...
+    └── Map
+    	├── map.ipynb
+    	└── ...
 ```
 ## Installation Instructions
 
@@ -82,5 +86,5 @@ kubectl port-forward service/router -n fission 9090:80
     ```bash
     jupyter notebook
     ```
-5. Open and run `frontend/final.ipynb` to interact with the data and visualize the results.
+5. Open and run notebooks in `frontend/` to interact with the data and visualize the results.
 
