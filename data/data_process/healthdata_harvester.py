@@ -46,7 +46,7 @@ def main():
     if not es.indices.exists(index="health_data"):
         es.indices.create(index="health_data", ignore=400)
 
-    data = load_data('Users/yueyangwu/Desktop/CCC2/sorted_newData/add_PHN/PM.json')
+    data = load_data('../sorted/add_PHN_LGA/PM.json')
     upload_data(es, data)
 
 if __name__ == "__main__":

@@ -49,9 +49,9 @@ def save_data(data, file_path):
         json.dump(data, file, indent=4)
 
 def main():
-    original_data = load_data('PM.json')
+    original_data = load_data('../sorted/add_PHN_LGA/PM.json')
     restructured_data = restructure_data(original_data)
-    save_data(restructured_data, 'newPM.json')
+    save_data(restructured_data, '../sorted/add_PHN_LGA/newPM.json')
 
 if __name__ == "__main__":
     main()
