@@ -9,7 +9,7 @@ This project combines technologies such as the Melbourne Research Cloud, Kuberne
 ## Links
 
 * [Demo](https://youtu.be/5HZCUJ7JF1c)
-* [Report]()
+* [Report](https://github.com/fullstar5/CCC-Project-2-Group-48/tree/main/docs/report)
 * [Wiki](https://github.com/fullstar5/CCC-Project-2-Group-48/wiki)
 
 ## Team members
