@@ -1,4 +1,14 @@
-# from elasticsearch import Elasticsearch
+'''
+-----------Team 48------------
+| Name          | Student ID |
+|---------------|------------|
+| Yifei ZHANG   | 1174267    |
+| Yibo HUANG    | 1380231    |
+| Hanzhang SUN  | 1379790    |
+| Liyang CHEN   | 1135879    |
+| Yueyang WU    | 1345511    |
+'''
+
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
@@ -80,16 +90,7 @@ def plot_widget(start, end, city=None, disease=None, size=2000, epa_show=None, b
     
 
 def merge_bom_epa(bom_df, epa_df):
-    """
-    Prepares and merges BOM and EPA dataframes based on the precise datetime information.
 
-    Parameters:
-    - bom_df: DataFrame containing BOM data with a 'local_date_time' column.
-    - epa_df: DataFrame containing EPA data with 'hour' and 'date' columns.
-
-    Returns:
-    - Merged DataFrame on precise datetime information.
-    """
     # Convert 'local_date_time' in BOM to datetime format
     bom_df['local_date_time'] = pd.to_datetime(bom_df['local_date_time'], format='%Y%m%d%H%M%S')
     bom_df['date'] = bom_df['local_date_time'].dt.date
@@ -105,21 +106,14 @@ def merge_bom_epa(bom_df, epa_df):
     return merged_df
 
 def create_heatmap(data, weather_cols, air_quality_cols):
-    """
-    Creates a heatmap showing the correlation between specified weather conditions and air quality indices.
 
-    Parameters:
-    - data: DataFrame with merged weather and air quality data.
-    - weather_cols: List of column names related to weather conditions.
-    - air_quality_cols: List of column names related to air quality indices.
-    """
     # Focus on relevant columns only
     relevant_data = data[weather_cols + air_quality_cols]
     
     # Compute the correlation matrix
     corr_matrix = relevant_data.corr()
 
-    # Plot the heatmap
+    # Plot
     plt.figure(figsize=(12, 10))
     sns.heatmap(corr_matrix, annot=True, cmap='coolwarm', fmt=".2f", linewidths=.5)
     plt.title('Correlation between Weather Conditions and Air Quality Indices')
@@ -127,17 +121,7 @@ def create_heatmap(data, weather_cols, air_quality_cols):
 
 
 def plot_air_quality_and_sentiment(epa_df, twitter_df, city):
-    """
-    Plots the average air quality index and average sentiment per date.
-    
-    Parameters:
-    - epa_df: DataFrame containing EPA data
-    - twitter_df: DataFrame containing Twitter sentiment data
-    
-    The function assumes that the EPA data contains 'date' and 'averageValue' columns,
-    and the Twitter data contains 'date' and 'sentiment' columns. The 'language' column
-    in the Twitter data will be dropped.
-    """
+
     if len(twitter_df) > len(epa_df):
         twitter_df = twitter_df.iloc[:len(epa_df)]
     else:
@@ -150,7 +134,7 @@ def plot_air_quality_and_sentiment(epa_df, twitter_df, city):
     # Concatenate the dataframes
     concatenated_df = pd.concat([epa_df, twitter_df], axis=1)
 
-    # Extract the date from the concatenated dataframe (EPA data column)
+    # Extract the date from the concatenated dataframe
     concatenated_df['date'] = pd.to_datetime(concatenated_df['date'], format='epa-air-quality-%Y-%m-%d').dt.date
 
     # Calculate the average sentiment and averageValue per date
@@ -173,7 +157,6 @@ def plot_air_quality_and_sentiment(epa_df, twitter_df, city):
     ax2.set_ylabel('Average Sentiment', color='red')
     ax2.tick_params(axis='y', labelcolor='red')
 
-    # Add title and labels
     plt.title('Average Air Pollution Index (pm 2.5) and Average Sentiment per Date in '+ city)
     ax1.set_xlabel('Date')
 
@@ -182,24 +165,10 @@ def plot_air_quality_and_sentiment(epa_df, twitter_df, city):
     lines2, labels2 = ax2.get_legend_handles_labels()
     ax2.legend(lines1 + lines2, labels1 + labels2, loc='upper left', bbox_to_anchor=(0, 1))
 
-    # Rotate date labels for better readability
     plt.xticks(rotation=45)
-
-    # Show the plot
     plt.show()
 
 def bom_health(start, end, size=2000, city=None, disease=None):
-    """
-    Prepares and merges BOM and health dataframes based on the order of records.
-    Calculates daily average temperature and plots a bar chart comparing disease ASR under different temperature conditions.
-    
-    Parameters:
-    - bom_df: DataFrame containing BOM data with a 'local_date_time' column.
-    - health_df: DataFrame containing health data without date column.
-    
-    Returns:
-    - Merged DataFrame on the order of records.
-    """
 
     data_bom = bom(start=start, end=end, size=size)
     data_health = health(lga=city, size=size)
@@ -228,7 +197,7 @@ def bom_health(start, end, size=2000, city=None, disease=None):
     health_df['date'] = daily_avg_temp['date'].values
     health_df['avg_temperature'] = daily_avg_temp['avg_temperature'].values
     
-    # Plot a bar chart comparing disease ASR under different temperature conditions
+    # Plot
     plt.figure(figsize=(14, 8))
     bars = plt.bar(health_df['avg_temperature'], health_df['ASR'], color='skyblue', edgecolor='black', width=0.08)
     plt.xlabel('Average Daily Temperature (°C)', fontsize=12)
@@ -238,17 +207,7 @@ def bom_health(start, end, size=2000, city=None, disease=None):
     plt.yticks(fontsize=10)
 
 def bom_merge_data(bom_df, health_df):
-    """
-    Processes the BOM and health dataframes and merges them on the date index.
 
-    Parameters:
-    - bom_df: DataFrame containing BOM data with columns 'local_date_time' and 'apparent_temperature'.
-    - health_df: DataFrame containing health data with columns including 'Disease'.
-    - disease: The specific disease to filter the health_df by.
-
-    Returns:
-    - merged_df: Merged DataFrame with daily average temperature and health data for the specified disease.
-    """
     # Convert local_date_time to datetime and extract the date
     bom_df['local_date_time'] = pd.to_datetime(bom_df['local_date_time'], format='%Y%m%d%H%M%S')
     bom_df['date'] = bom_df['local_date_time'].dt.date
@@ -270,16 +229,7 @@ def bom_merge_data(bom_df, health_df):
     return merged_df
 
 def bom_heatmap(merged_df):
-    """
-    Creates and plots a heatmap of ASR and temperature for the given merged DataFrame.
 
-    Parameters:
-    - merged_df: DataFrame containing columns 'date', 'avg_temperature', and 'ASR'.
-
-    Returns:
-    - None
-    """
-    # Create a new DataFrame for the heatmap
     heatmap_df = merged_df[['date', 'avg_temperature', 'ASR']].copy()
     heatmap_df['day'] = heatmap_df['date'].apply(lambda x: x.day)
 
@@ -293,7 +243,7 @@ def bom_heatmap(merged_df):
     # Plot ASR heatmap
     sns.heatmap(pivot_table_asr, cmap="YlOrRd", annot=False, cbar_kws={'label': 'ASR'}, ax=ax)
 
-    # Plot temperature heatmap on the same plot
+    # Plot temperature heatmap
     sns.heatmap(pivot_table_temp, cmap="coolwarm", annot=False, cbar_kws={'label': 'Temperature (°C)'}, alpha=0.6, ax=ax)
 
     # Add ASR and temperature annotations
@@ -304,7 +254,7 @@ def bom_heatmap(merged_df):
             ax.text(j + 0.5, i + 0.5, f"{asr_value:.1f}", color='black', ha='center', va='center', fontsize=10)
             ax.text(j + 0.5, i + 0.7, f"{temp_value:.1f}", color='blue', ha='center', va='center', fontsize=8, alpha=0.7)
 
-    # Set axis labels and title
+
     ax.set_title('Calendar Heatmap of ASR and Temperature in May')
     ax.set_xlabel('May')
     ax.set_ylabel('Day')

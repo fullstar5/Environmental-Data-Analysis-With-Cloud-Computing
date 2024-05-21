@@ -1,3 +1,13 @@
+'''
+-----------Team 48------------
+| Name          | Student ID |
+|---------------|------------|
+| Yifei ZHANG   | 1174267    |
+| Yibo HUANG    | 1380231    |
+| Hanzhang SUN  | 1379790    |
+| Liyang CHEN   | 1135879    |
+| Yueyang WU    | 1345511    |
+'''
 import folium
 import matplotlib.pyplot as plt
 import numpy as np
@@ -89,8 +99,6 @@ def visualize(data):
     plt.xlabel('Value')
     plt.ylabel('Frequency')
     plt.title('Histogram of Sentiment Data')
-
-    # Show plot
     plt.show()
     
     # Define sentiment levels and corresponding colors
@@ -177,7 +185,6 @@ def heatmaps(epa_data):
 
     m = folium.Map(location=[-36.8103, 144.2700], zoom_start=6, max_bounds=True, min_zoom=6.8)
 
-    # Create a list of tuples containing coordinates and average values
     heat_data1 = [[row['coordinates'][0], row['coordinates'][1], row['averageValue']] for index, row in particles.iterrows()]
     heat_data2 = [[row['coordinates'][0], row['coordinates'][1], row['averageValue']] for index, row in pm25.iterrows()]
 
@@ -212,6 +219,6 @@ def heatmaps(epa_data):
     </div>
     '''
     m.get_root().html.add_child(folium.Element(legend_html))
-    # Display the map
+  
     return m
 

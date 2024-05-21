@@ -1,3 +1,14 @@
+'''
+-----------Team 48------------
+| Name          | Student ID |
+|---------------|------------|
+| Yifei ZHANG   | 1174267    |
+| Yibo HUANG    | 1380231    |
+| Hanzhang SUN  | 1379790    |
+| Liyang CHEN   | 1135879    |
+| Yueyang WU    | 1345511    |
+'''
+
 import json
 
 def load_data(file_path):
@@ -36,8 +47,8 @@ def save_data(transformed_data, output_path):
         json.dump(transformed_data, file, indent=4)
 
 def main():
-    input_path = 'path_to_your_PM.json'  # Update this path to where your PM.json is stored
-    output_path = 'path_to_your_output_file.json'  # Update this path to where you want to save the transformed data
+    input_path = 'path_to_your_PM.json' 
+    output_path = 'path_to_your_output_file.json'
 
     # Load original data
     original_data = load_data(input_path)

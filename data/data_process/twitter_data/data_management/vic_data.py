@@ -1,9 +1,19 @@
+'''
+-----------Team 48------------
+| Name          | Student ID |
+|---------------|------------|
+| Yifei ZHANG   | 1174267    |
+| Yibo HUANG    | 1380231    |
+| Hanzhang SUN  | 1379790    |
+| Liyang CHEN   | 1135879    |
+| Yueyang WU    | 1345511    |
+'''
+
 import re
 import json
 from langdetect import detect
 from langdetect.lang_detect_exception import LangDetectException
 
-# Regex patterns to extract data from JSON strings
 sentiment_mode = re.compile(rb'"sentiment":(?:(?:{"score":)?([+-]?[0-9]+(?:\.[0-9]+)?))')
 full_name_mode = re.compile(rb'"full_name":"([^"]+)"')
 text_mode = re.compile(rb'"text":"([^"]+)"')
@@ -17,18 +27,16 @@ def process_large_json(file_path, output_filename, block_size=100000, start_inde
         for line in file:
             line_count += 1
             if line_count > block_size:
-                current_block = []  # Reset block
-                line_count = 1     # Reset line counter
+                current_block = [] 
+                line_count = 1     
 
             if start_index <= line_count <= end_index:
                 current_block.append(line)
                 
-                # Process the block if it reaches the end index or if it's the end of the current block
                 if line_count == end_index or (line_count % block_size == 0 and current_block):
                     results.extend(process_block(current_block))
-                    current_block = []  # Reset block after processing
+                    current_block = []  
 
-    # Final block processing if it didn't reach the full limit but still has data
     if current_block:
         results.extend(process_block(current_block))
 
@@ -60,7 +68,6 @@ def process_block(block):
             block_results.append(result)
     return block_results
 
-# Modify these paths as necessary
 input_filename = '/mnt/d/ccc_data/Vic_data.json' 
 output_filename = '/mnt/d/ccc_data/Vic_data_v1_1.json'
 

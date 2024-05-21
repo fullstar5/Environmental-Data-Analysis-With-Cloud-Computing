@@ -1,8 +1,17 @@
-#select.py
+'''
+-----------Team 48------------
+| Name          | Student ID |
+|---------------|------------|
+| Yifei ZHANG   | 1174267    |
+| Yibo HUANG    | 1380231    |
+| Hanzhang SUN  | 1379790    |
+| Liyang CHEN   | 1135879    |
+| Yueyang WU    | 1345511    |
+'''
+
 import os
 import re
 import json
-
 
 # input_file_path = 'data/twitter-50mb.json'  
 # output_file_path = '1Ballarat_data.json'
